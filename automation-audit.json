@@ -1,0 +1,404 @@
+{
+  "audit": "Automacoes — fechamento global por delta",
+  "date": "2026-09-14",
+  "scope": "Somente prompts de automacoes; nenhuma edicao de Sites ou habilidades nesta subtarefa.",
+  "result": "6 atualizacoes confirmadas pela ferramenta e releitura exata; agendas e estados preservados.",
+  "count": {
+    "total": 11,
+    "enabled": 8,
+    "disabledOrCompleted": 3,
+    "modified": 6,
+    "unchanged": 5
+  },
+  "limitations": [
+    "API de automacoes nao expoe mutex atomico, compare-and-swap ou estado atual de execucao; checkpoint e single-writer sao protecao logica/instrucoes, sem garantia atomica.",
+    "Checkpoint e pastas de deltas foram definidos nos prompts, mas nao criados nesta subtarefa; mestre deve criar inicialmente se nao existir e preservar registro vigente.",
+    "Nenhum ciclo futuro foi executado; atualizacao de prompt nao comprova funcionamento integral futuro ou publicacao de Sites.",
+    "Nenhuma alteracao de agenda, ativacao, exclusao ou mudanca de permissao realizada."
+  ],
+  "verification": [
+    {
+      "changed": true,
+      "enabledUnchanged": true,
+      "id": "6a97a12223bc8191864babce32c7c666",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Plugins Mesclar — curadoria autônoma",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-14T20:31:03.761715+00:00"
+    },
+    {
+      "changed": true,
+      "enabledUnchanged": true,
+      "id": "6a97a241047481919c25629755f49d53",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Revisar Mesclar autonomamente",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-14T20:30:59.586207+00:00"
+    },
+    {
+      "changed": true,
+      "enabledUnchanged": true,
+      "id": "6a99c218ccf48191b989881edb1eaec2",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Auditoria SitesGPTs",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-14T20:30:55.902024+00:00"
+    },
+    {
+      "changed": true,
+      "enabledUnchanged": true,
+      "id": "6a980ccc24048191a8b1cc48d5eaf7f2",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Revisar concentrações",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-14T20:30:52.317279+00:00"
+    },
+    {
+      "changed": true,
+      "enabledUnchanged": true,
+      "id": "6a99caf0ab18819187841b6e483be55a",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Revisão farmacológica mensal",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-14T20:31:10.034165+00:00"
+    },
+    {
+      "changed": true,
+      "enabledUnchanged": true,
+      "id": "6aa7dd9e9cd0819191009af6914e57fb",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Dois prompts de atualização médica",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-14T20:30:59.832695+00:00"
+    },
+    {
+      "changed": false,
+      "enabledUnchanged": true,
+      "id": "6a9d7bff9da081918d30643de044446e",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Novas diretrizes clínicas",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-12T14:44:19.926064+00:00"
+    },
+    {
+      "changed": false,
+      "enabledUnchanged": true,
+      "id": "6a93508d56b88191a2a5427528565f1a",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Acesso público dos Sites",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-13T12:55:09.055137+00:00"
+    },
+    {
+      "changed": false,
+      "enabledUnchanged": true,
+      "id": "6aa68c0fa00081919e993bd0abc7950f",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Pesquisa farmacológica global contínua",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-14T20:25:13.194196+00:00"
+    },
+    {
+      "changed": false,
+      "enabledUnchanged": true,
+      "id": "6aa7dc94b6f88191b29b40b84313f45f",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Catálogo pediátrico — revisão",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-14T20:25:10.608361+00:00"
+    },
+    {
+      "changed": false,
+      "enabledUnchanged": true,
+      "id": "6a97aa8ff6d0819180986b9c5c593cdb",
+      "modeUnchanged": true,
+      "promptMatches": true,
+      "scheduleUnchanged": true,
+      "timezoneUnchanged": true,
+      "title": "Monitorar todos os SitesGPTs",
+      "titleUnchanged": true,
+      "updated_at": "2026-09-02T11:03:15.767889+00:00"
+    }
+  ],
+  "untouched": [
+    {
+      "id": "6a9d7bff9da081918d30643de044446e",
+      "title": "Novas diretrizes clínicas",
+      "is_enabled": true,
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=America/Sao_Paulo:20261001T080000\nRRULE:FREQ=MONTHLY;BYMONTHDAY=1;BYHOUR=8;BYMINUTE=0;BYSECOND=0\nEND:VEVENT"
+    },
+    {
+      "id": "6a93508d56b88191a2a5427528565f1a",
+      "title": "Acesso público dos Sites",
+      "is_enabled": true,
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=America/Sao_Paulo:20260901T090000\nRRULE:FREQ=MONTHLY;BYMONTHDAY=1\nEND:VEVENT"
+    },
+    {
+      "id": "6aa68c0fa00081919e993bd0abc7950f",
+      "title": "Pesquisa farmacológica global contínua",
+      "is_enabled": false,
+      "schedule": "BEGIN:VEVENT\nDTSTART:20260913T114307Z\nRRULE:FREQ=HOURLY\nEND:VEVENT"
+    },
+    {
+      "id": "6aa7dc94b6f88191b29b40b84313f45f",
+      "title": "Catálogo pediátrico — revisão",
+      "is_enabled": false,
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=America/Sao_Paulo:20260915T080000\nRRULE:FREQ=DAILY;BYHOUR=8;BYMINUTE=0;BYSECOND=0\nEND:VEVENT"
+    },
+    {
+      "id": "6a97aa8ff6d0819180986b9c5c593cdb",
+      "title": "Monitorar todos os SitesGPTs",
+      "is_enabled": false,
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=America/Sao_Paulo:20260902T040000\nRRULE:FREQ=HOURLY;INTERVAL=1;COUNT=5\nEND:VEVENT"
+    }
+  ],
+  "changes": [
+    {
+      "id": "6aa7dd9e9cd0819191009af6914e57fb",
+      "title": "Dois prompts de atualização médica",
+      "before_updated_at": "2026-09-14T20:23:55.655196+00:00",
+      "after_updated_at": "2026-09-14T20:30:59.832695+00:00",
+      "before_prompt_sha256": "3b0498b7aad38b674bfb0cb03a8f1f8f1b55630fdfa0f7d842eaa602cef738a4",
+      "after_prompt_sha256": "249e6b5769e8c2790b83336b6d46de240ed91c0e57e65e8889c07229f0cac26f",
+      "before_prompt_characters": 5378,
+      "after_prompt_characters": 11402,
+      "original_prompt_preserved_as_prefix": true,
+      "exact_replacements": [],
+      "added_coordination_sha256": "5f6f9f065df26ee8fea14644184702cb7b59d81b6fa3f6e87aad807823de3265",
+      "tool_success": true,
+      "tool_message": "Automation updated.",
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=America/Sao_Paulo:20260915T080000\nRRULE:FREQ=DAILY;BYHOUR=8;BYMINUTE=0;BYSECOND=0\nEND:VEVENT",
+      "timezone": "America/Sao_Paulo",
+      "timing_mode": "exact_schedule",
+      "is_enabled": true,
+      "readback_exact": true
+    },
+    {
+      "id": "6a99caf0ab18819187841b6e483be55a",
+      "title": "Revisão farmacológica mensal",
+      "before_updated_at": "2026-09-12T19:32:26.899416+00:00",
+      "after_updated_at": "2026-09-14T20:31:10.034165+00:00",
+      "before_prompt_sha256": "aa293fb1b43b8e1c650fe045f732375edd017ac2f04ae8797676bc2ef862c2e6",
+      "after_prompt_sha256": "3a6e6b8df91bdf1ea553352786cc688aca765919b52ecdedfa9b548a0f9cef9e",
+      "before_prompt_characters": 867,
+      "after_prompt_characters": 3510,
+      "original_prompt_preserved_as_prefix": false,
+      "exact_replacements": [
+        [
+          "Não altere nem publique os Sites automaticamente; solicite autorização antes de qualquer correção.",
+          "Encaminhe as correções documentadas à rotina mestre de escrita/publicação conforme a conciliação operacional abaixo."
+        ]
+      ],
+      "added_coordination_sha256": "083ffa99b749383dc635e27029ff827871177b22a42c881a817d3a34dde275a3",
+      "tool_success": true,
+      "tool_message": "Automation updated.",
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=America/Sao_Paulo:20261001T090000\nRRULE:FREQ=MONTHLY;BYMONTHDAY=1\nEND:VEVENT",
+      "timezone": "America/Sao_Paulo",
+      "timing_mode": "exact_schedule",
+      "is_enabled": true,
+      "readback_exact": true
+    },
+    {
+      "id": "6a980ccc24048191a8b1cc48d5eaf7f2",
+      "title": "Revisar concentrações",
+      "before_updated_at": "2026-09-14T11:49:18.538765+00:00",
+      "after_updated_at": "2026-09-14T20:30:52.317279+00:00",
+      "before_prompt_sha256": "d621b494fd0b5d3cb82b5a495f19acd84bcd853b1ead12208d85838a24027d8a",
+      "after_prompt_sha256": "c220ddd0bbcffb96ce0436c55903994f5a29a11f4a5eba6a8992ee38533d1a62",
+      "before_prompt_characters": 835,
+      "after_prompt_characters": 3490,
+      "original_prompt_preserved_as_prefix": false,
+      "exact_replacements": [
+        [
+          "Não altere nem publique o site sem uma solicitação e autorização atuais e específicas.",
+          "Encaminhe as correções documentadas à rotina mestre de escrita/publicação conforme a conciliação operacional abaixo."
+        ]
+      ],
+      "added_coordination_sha256": "083ffa99b749383dc635e27029ff827871177b22a42c881a817d3a34dde275a3",
+      "tool_success": true,
+      "tool_message": "Automation updated.",
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=America/Sao_Paulo:20261001T080000\nRRULE:FREQ=MONTHLY;BYMONTHDAY=1\nEND:VEVENT",
+      "timezone": "America/Sao_Paulo",
+      "timing_mode": "flexible_schedule",
+      "is_enabled": true,
+      "readback_exact": true
+    },
+    {
+      "id": "6a99c218ccf48191b989881edb1eaec2",
+      "title": "Auditoria SitesGPTs",
+      "before_updated_at": "2026-09-13T20:23:03.173542+00:00",
+      "after_updated_at": "2026-09-14T20:30:55.902024+00:00",
+      "before_prompt_sha256": "ab04ddaf237c77b31e5aef40dfcc9b0fd6c57b96cbd4ecaab27b48b366bcb4fa",
+      "after_prompt_sha256": "5315d90d59894a8d0d074af55f5d3bb35e6c58a942b02233fdf371449216b275",
+      "before_prompt_characters": 1104,
+      "after_prompt_characters": 4203,
+      "original_prompt_preserved_as_prefix": false,
+      "exact_replacements": [
+        [
+          "Corrija somente deltas confirmados, preserve tudo que já estiver correto, execute build, lint, testes automatizados, regressão e smoke test. Publique apenas correções validadas e confirme o deployment e a URL de produção.",
+          "Prepare somente propostas de deltas confirmados para a rotina mestre, preservando tudo que já estiver correto. Faça os testes read-only disponíveis sobre o estado atual; quando houver proposta de patch, registre os gates de build, lint, testes automatizados, regressão e smoke que a mestre deve executar antes de publicar. Confirme o deployment e a URL atuais como evidência de baseline, sem escrever nem publicar nesta rotina."
+        ],
+        [
+          "Entregue relatório por site com versão, commit, achados, correções, deployment_id quando houver, testes e status VALIDADA, CORRIGIDA E VALIDADA, NÃO APLICÁVEL ou BLOQUEIO TÉCNICO REAL.",
+          "Entregue relatório por site com versão, commit, achados, propostas de correção, deployment_id quando houver e testes efetivamente executados. Use os status: ✅ RESOLVIDO E PUBLICADO; ✅ RESOLVIDO — NÃO EXIGIA ALTERAÇÃO; ⚠️ PENDÊNCIA CLÍNICA REAL; ⚠️ BLOQUEIO TÉCNICO REAL; ❌ FALHA DE VALIDAÇÃO — NÃO PUBLICADO. Só use RESOLVIDO E PUBLICADO quando houver evidência de publicação real confirmada pela mestre; não transforme proposta ou teste em publicação."
+        ]
+      ],
+      "added_coordination_sha256": "083ffa99b749383dc635e27029ff827871177b22a42c881a817d3a34dde275a3",
+      "tool_success": true,
+      "tool_message": "Automation updated.",
+      "schedule": "BEGIN:VEVENT\nDTSTART:20260903T185312Z\nRRULE:FREQ=WEEKLY\nEND:VEVENT",
+      "timezone": "America/Sao_Paulo",
+      "timing_mode": "flexible_schedule",
+      "is_enabled": true,
+      "readback_exact": true
+    },
+    {
+      "id": "6a97a241047481919c25629755f49d53",
+      "title": "Revisar Mesclar autonomamente",
+      "before_updated_at": "2026-09-14T12:06:02.476375+00:00",
+      "after_updated_at": "2026-09-14T20:30:59.586207+00:00",
+      "before_prompt_sha256": "1702d539ad117910edeb3760ebe1c8474dcb4819c1e8a177757ae1912483b612",
+      "after_prompt_sha256": "937f4014ea2a95a4d95f0bccc9678062fe1a2acbc0c40414d8302b6daf7015a5",
+      "before_prompt_characters": 1866,
+      "after_prompt_characters": 3515,
+      "original_prompt_preserved_as_prefix": true,
+      "exact_replacements": [],
+      "added_coordination_sha256": "be5846a55e0d880ccb6280a621852b4a338d539fd476dcf353ca69d3759c98b6",
+      "tool_success": true,
+      "tool_message": "Automation updated.",
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=America/Sao_Paulo:20261001T090000\nRRULE:FREQ=MONTHLY;BYMONTHDAY=1\nEND:VEVENT",
+      "timezone": "America/Sao_Paulo",
+      "timing_mode": "flexible_schedule",
+      "is_enabled": true,
+      "readback_exact": true
+    },
+    {
+      "id": "6a97a12223bc8191864babce32c7c666",
+      "title": "Plugins Mesclar — curadoria autônoma",
+      "before_updated_at": "2026-09-14T12:05:55.300905+00:00",
+      "after_updated_at": "2026-09-14T20:31:03.761715+00:00",
+      "before_prompt_sha256": "35d7945451636b38e96c1e38e4d15a4d2062ca57c5eb4131d241c5cdb198eb50",
+      "after_prompt_sha256": "40d4166951f6897d3072e48a241746a5511d673343aae7c6ab08d29f1689e40d",
+      "before_prompt_characters": 3627,
+      "after_prompt_characters": 4996,
+      "original_prompt_preserved_as_prefix": true,
+      "exact_replacements": [],
+      "added_coordination_sha256": "fa8caa10afecd60c27f32f53bb58a5b7f1df3925e7c78e847ba3d8024dc16fd3",
+      "tool_success": true,
+      "tool_message": "Automation updated.",
+      "schedule": "BEGIN:VEVENT\nDTSTART:20260902T040802\nRRULE:FREQ=DAILY;BYHOUR=8\nEND:VEVENT",
+      "timezone": "America/Sao_Paulo",
+      "timing_mode": "flexible_schedule",
+      "is_enabled": true,
+      "readback_exact": true
+    }
+  ],
+  "dependencies_audit": {
+    "document": {
+      "library_file_id": "libfile_8e4cf5e0d7c48191941b30af52729bc7",
+      "file_id": "file_000000007958820eba44655f58d325b9",
+      "path": "/Atualizações médicas/Prompts_Principais_Atualizacoes_Medicas.txt",
+      "size_bytes": 56582,
+      "total_lines": 868,
+      "read_ranges": [
+        [
+          1,
+          400
+        ],
+        [
+          401,
+          700
+        ],
+        [
+          701,
+          868
+        ]
+      ],
+      "final_has_more": false
+    },
+    "findings": [
+      {
+        "item": "Dashboard V1",
+        "requirement": "Aplicação executável sem histórico, filtros/busca/cards/menu/fontes e revisão desktop/mobile",
+        "evidence": "Especificação no prompt 2, itens 4/7/9/10; anexos A–J/Q/U; conciliação 8. Sem projeto correspondente no inventário nativo de 8 sites informado pela coordenação e sem artefato de implementação resolvido por título.",
+        "status": "IMPLEMENTAÇÃO/VALIDAÇÃO/PUBLICAÇÃO NÃO COMPROVADAS"
+      },
+      {
+        "item": "Dashboard V2",
+        "requirement": "Superconjunto da V1 com menu Histórico e timeline de edições",
+        "evidence": "Especificação no prompt 2, item 5, anexos F/G e conciliação 8. Mesma ausência de identificação concreta de versão, repositório ou deployment.",
+        "status": "IMPLEMENTAÇÃO/VALIDAÇÃO/PUBLICAÇÃO NÃO COMPROVADAS"
+      },
+      {
+        "item": "daily-report.json",
+        "requirement": "Contrato estruturado consumido pelos dashboards, coexistindo com Markdown do relatório",
+        "evidence": "Anexo O contém apenas exemplo JSON; busca exata por título não encontrou arquivo real; pacote da habilidade não contém JSON de relatório ou implementação web.",
+        "status": "CONTRATO ESPECIFICADO; INTEGRAÇÃO NÃO COMPROVADA"
+      },
+      {
+        "item": "Documentação e gates do dashboard",
+        "requirement": "Arquivos completos, README de instalação, pnpm check/build, interação, responsividade, acessibilidade e aceitação",
+        "evidence": "Prompt 2 itens 9/10 e anexos H/Q/R/S/U exigem entregáveis e testes. Documento lido não contém resultados, commits ou URLs reais de dashboards atuais.",
+        "status": "ENTREGA E TESTES NÃO COMPROVADOS"
+      }
+    ],
+    "destination_instruction": {
+      "source": "Anexo G e conciliações 7–9",
+      "content": "Publicar duas versões com identificadores claros; exemplos catalogo-posologico-v1 e catalogo-posologico-v2. Documento NÃO prescreve inserção nos 8 sites clínicos existentes; determina aplicar identidade visual aos dashboards novos e preservar os sites clínicos.",
+      "original_manus_reference": "Menciona domínio manus.space sem URL, ID de projeto ou fonte executável recuperável no texto."
+    },
+    "confirmed_existing": [
+      "Documento principal persistente integral recuperado.",
+      "Habilidade catalogo-posologico-pediatrico-brasil disponível e SKILL.md lido integralmente.",
+      "Pacote da habilidade contém PDFs base/original, ambos prompts, regras de conciliação, manifesto e proveniência.",
+      "Automação mestre ativa, 08:00 America/Sao_Paulo, confirmada e prompt atualizado nesta auditoria."
+    ],
+    "scope_limits": [
+      "Não foi realizada pesquisa clínica nesta subtarefa.",
+      "Não foram criados projetos ou modificados prompts nesta etapa somente leitura.",
+      "Ausência nas fontes/inventário auditados não comprova inexistência em contextos externos inacessíveis."
+    ],
+    "artifact_search": {
+      "queries": [
+        "catalogo-posologico-v1",
+        "catalogo-posologico-v2",
+        "daily-report.json",
+        "dashboard"
+      ],
+      "search_title_only": true,
+      "exact_filename_matches": 0,
+      "next_cursor": null,
+      "fuzzy_result_excluded": "VALIDATION-REPORT.json de plugin iago-orchestrator, sem relação com os dashboards."
+    }
+  }
+}
