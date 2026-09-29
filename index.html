@@ -3,119 +3,190 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#123d50">
-    <title>Compêndio Pediátrico WB — cálculos</title>
+    <meta name="theme-color" content="#101719">
+    <meta name="description" content="Catálogo Pediátrico — consulta documental e busca em 498 monografias do PED-MASTER.">
+    <title>Catálogo Pediátrico — PED-MASTER</title>
     <link rel="stylesheet" href="styles.css">
+    <script type="module" src="src/catalog.mjs"></script>
     <script type="module" src="src/app.mjs"></script>
   </head>
   <body>
     <header class="site-header">
-      <p class="eyebrow">Compêndio Pediátrico WB</p>
-      <h1>Calculadoras pediátricas</h1>
-      <p>Ferramentas matemáticas para apoiar cálculos individualizados.</p>
+      <div class="header-inner">
+        <a class="brand" href="#inicio" aria-label="Catálogo Pediátrico, início">
+          <span class="brand-mark" aria-hidden="true">P</span>
+          <span><span class="brand-name">PED<span class="brand-separator">/</span>MASTER</span><span class="brand-caption">CATÁLOGO PEDIÁTRICO</span></span>
+        </a>
+        <nav aria-label="Navegação principal">
+          <a class="active" href="#catalogo">Catálogo</a>
+          <a href="#calculadoras">Calculadoras</a>
+          <a href="#fontes">Fontes &amp; escopo</a>
+        </nav>
+      </div>
     </header>
 
-    <main>
-      <section class="notice" aria-labelledby="notice-title">
-        <h2 id="notice-title">Conteúdo não validado</h2>
-        <p>Esta versão não contém doses recomendadas, monografias ou protocolos clínicos. Os resultados são cálculos matemáticos com dados inseridos pelo usuário e não validam indicação, dose, preparo, compatibilidade ou segurança clínica.</p>
-        <p>Confirme cada prescrição em fonte confiável e protocolo institucional. Medicamentos de alta vigilância exigem checagem humana independente de paciente, peso, unidade, concentração, preparo, via e bomba.</p>
+    <main id="inicio">
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Referência documental · edição 2026</p>
+          <h1 id="page-title">Conhecimento pediátrico,<br><em>organizado com cuidado.</em></h1>
+          <p class="hero-description">Um catálogo de consulta para encontrar monografias pediátricas com contexto, rastreabilidade e os alertas originais preservados.</p>
+          <a class="hero-link" href="#catalogo">Explorar o catálogo <span aria-hidden="true">↘</span></a>
+        </div>
+        <div class="hero-ornament" aria-hidden="true"><span>498</span><small>MONOGRAFIAS</small></div>
       </section>
 
-      <div class="calculators">
-        <section class="panel" aria-labelledby="dose-title">
-          <h2 id="dose-title">Dose por peso → volume</h2>
-          <form id="dose-form">
-            <label>Peso (kg)
-              <input name="weightKg" type="number" min="0.001" step="any" required>
-            </label>
-            <label>Dose prescrita
-              <input name="dose" type="number" min="0.000001" step="any" required>
-            </label>
-            <label>Unidade da dose
-              <select id="dose-unit" name="doseUnit">
-                <option>mg/kg/dose</option><option>mcg/kg/dose</option>
-                <option>g/kg/dose</option><option>U/kg/dose</option>
-                <option>mU/kg/dose</option><option>mEq/kg/dose</option>
-                <option>mg/kg/day</option><option>mcg/kg/day</option>
-                <option>g/kg/day</option><option>U/kg/day</option>
-                <option>mU/kg/day</option><option>mEq/kg/day</option>
-              </select>
-            </label>
-            <label data-daily-field hidden>Doses por dia
-              <input name="dosesPerDay" type="number" min="1" max="24" step="1" value="1">
-            </label>
-            <label>Concentração disponível
-              <input name="concentration" type="number" min="0.000001" step="any" required>
-            </label>
-            <label>Unidade da concentração
-              <select name="concentrationUnit">
-                <option>mg/mL</option><option>mcg/mL</option><option>g/mL</option>
-                <option>U/mL</option><option>mU/mL</option><option>mEq/mL</option>
-              </select>
-            </label>
-            <fieldset>
-              <legend>Limite máximo validado (opcional)</legend>
-              <label>Valor no mesmo tipo de unidade da dose
-                <input name="maximum" type="number" min="0.000001" step="any">
+      <section class="stats" aria-label="Dados da edição">
+        <div><strong id="stat-count">—</strong><span>monografias</span></div>
+        <div><strong>13 set 2026</strong><span>edição de referência</span></div>
+        <div><strong>14 set 2026</strong><span>revisão corrigida</span></div>
+        <a href="catalogo-base.pdf" target="_blank" rel="noreferrer">Consultar catálogo-fonte <span aria-hidden="true">↗</span></a>
+      </section>
+
+      <section class="safety-notice" aria-labelledby="safety-title">
+        <span class="notice-icon" aria-hidden="true">!</span>
+        <div>
+          <h2 id="safety-title">Consulta documental — não é prescrição automática</h2>
+          <p>As monografias preservam registros, restrições e lacunas da fonte. A presença de uma informação não confirma indicação para um paciente, nem valida dose, preparo, via ou segurança. Confirme cada decisão em fontes atuais e protocolo institucional; medicamentos de alta vigilância exigem checagem humana independente.</p>
+        </div>
+      </section>
+
+      <section id="catalogo" class="catalog-section" aria-labelledby="catalog-title">
+        <div class="section-heading">
+          <div><p class="eyebrow">Biblioteca de referência</p><h2 id="catalog-title">Catálogo pediátrico</h2></div>
+          <span class="source-chip">PED-MASTER <span aria-hidden="true">·</span> 498 fichas</span>
+        </div>
+
+        <div class="catalog-tools">
+          <label class="search-box">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <span class="visually-hidden">Buscar medicamento ou conteúdo da monografia</span>
+            <input id="catalog-search" type="search" placeholder="Buscar medicamento, indicação ou termo…" autocomplete="off">
+            <kbd>/</kbd>
+          </label>
+          <div class="filter-row" role="group" aria-label="Filtrar monografias">
+            <button class="filter-button selected" type="button" data-filter="all" aria-pressed="true">Todas</button>
+            <button class="filter-button" type="button" data-filter="restriction" aria-pressed="false">Com restrições</button>
+            <button class="filter-button" type="button" data-filter="off-label" aria-pressed="false">Off-label</button>
+            <button class="filter-button" type="button" data-filter="alert" aria-pressed="false">Alertas</button>
+          </div>
+        </div>
+
+        <div class="catalog-layout">
+          <aside class="catalog-sidebar" aria-label="Resultados do catálogo">
+            <div class="list-heading"><span>MEDICAMENTOS</span><span id="result-count" aria-live="polite">Carregando…</span></div>
+            <div id="catalog-list" class="catalog-list"></div>
+          </aside>
+          <article id="monograph" class="monograph" aria-live="polite" aria-label="Detalhes da monografia selecionada">
+            <div class="loading-state"><span class="loading-ring" aria-hidden="true"></span><p>Carregando o catálogo…</p></div>
+          </article>
+        </div>
+        <p id="catalog-error" class="catalog-error" role="alert" hidden>Não foi possível carregar o catálogo. Atualize a página ou consulte o arquivo-fonte.</p>
+        <p class="catalog-footnote">Busca textual nas monografias da edição carregada. Os filtros mostram sinalizadores documentais e não representam uma validação clínica.</p>
+      </section>
+
+      <section id="calculadoras" class="calculators-section" aria-labelledby="calculators-title">
+        <div class="section-heading">
+          <div><p class="eyebrow">Ferramentas matemáticas</p><h2 id="calculators-title">Calculadoras pediátricas</h2></div>
+          <span class="source-chip">Dados inseridos pelo usuário</span>
+        </div>
+        <p class="section-intro">Estas ferramentas não consultam nem recomendam doses do catálogo. Insira apenas uma prescrição já confirmada em fonte apropriada.</p>
+        <div class="calculators">
+          <section class="panel" aria-labelledby="dose-title">
+            <h3 id="dose-title">Dose por peso <span>→</span> volume</h3>
+            <form id="dose-form">
+              <label>Peso (kg)
+                <input name="weightKg" type="number" min="0.001" step="any" required>
               </label>
-              <label>Aplicar limite
-                <select name="maximumScope">
-                  <option value="dose">Por dose</option><option value="day">Por dia</option>
+              <label>Dose prescrita
+                <input name="dose" type="number" min="0.000001" step="any" required>
+              </label>
+              <label>Unidade da dose
+                <select id="dose-unit" name="doseUnit">
+                  <option>mg/kg/dose</option><option>mcg/kg/dose</option>
+                  <option>g/kg/dose</option><option>U/kg/dose</option>
+                  <option>mU/kg/dose</option><option>mEq/kg/dose</option>
+                  <option>mg/kg/day</option><option>mcg/kg/day</option>
+                  <option>g/kg/day</option><option>U/kg/day</option>
+                  <option>mU/kg/day</option><option>mEq/kg/day</option>
                 </select>
               </label>
-            </fieldset>
-            <button type="submit">Calcular dose e volume</button>
-            <p class="error" role="alert" hidden></p>
-            <div class="result" id="dose-result" aria-live="polite" hidden></div>
-          </form>
-        </section>
+              <label data-daily-field hidden>Doses por dia
+                <input name="dosesPerDay" type="number" min="1" max="24" step="1" value="1">
+              </label>
+              <label>Concentração disponível
+                <input name="concentration" type="number" min="0.000001" step="any" required>
+              </label>
+              <label>Unidade da concentração
+                <select name="concentrationUnit">
+                  <option>mg/mL</option><option>mcg/mL</option><option>g/mL</option>
+                  <option>U/mL</option><option>mU/mL</option><option>mEq/mL</option>
+                </select>
+              </label>
+              <fieldset>
+                <legend>Limite máximo confirmado na fonte (opcional)</legend>
+                <label>Valor no mesmo tipo de unidade da dose
+                  <input name="maximum" type="number" min="0.000001" step="any">
+                </label>
+                <label>Aplicar limite
+                  <select name="maximumScope">
+                    <option value="dose">Por dose</option><option value="day">Por dia</option>
+                  </select>
+                </label>
+              </fieldset>
+              <button type="submit">Calcular dose e volume</button>
+              <p class="error" role="alert" hidden></p>
+              <div class="result" id="dose-result" aria-live="polite" hidden></div>
+            </form>
+          </section>
 
-        <section class="panel" aria-labelledby="infusion-title">
-          <h2 id="infusion-title">Infusão contínua → bomba</h2>
-          <form id="infusion-form">
-            <label>Peso (kg)
-              <input name="weightKg" type="number" min="0.001" step="any" required>
-            </label>
-            <label>Dose prescrita
-              <input name="dose" type="number" min="0.000001" step="any" required>
-            </label>
-            <label>Unidade da dose
-              <select name="doseUnit">
-                <option>mcg/kg/min</option><option>mcg/kg/h</option>
-                <option>mg/kg/min</option><option>mg/kg/h</option>
-                <option>g/kg/min</option><option>g/kg/h</option>
-                <option>U/kg/min</option><option>U/kg/h</option>
-                <option>mU/kg/min</option><option>mU/kg/h</option>
-                <option>mEq/kg/min</option><option>mEq/kg/h</option>
-              </select>
-            </label>
-            <label>Quantidade do medicamento na solução
-              <input name="quantity" type="number" min="0.000001" step="any" required>
-            </label>
-            <label>Unidade da quantidade
-              <select name="quantityUnit">
-                <option>mcg</option><option>mg</option><option>g</option>
-                <option>U</option><option>mU</option><option>mEq</option>
-              </select>
-            </label>
-            <label>Volume final da solução (mL)
-              <input name="finalVolumeMl" type="number" min="0.001" step="any" required>
-            </label>
-            <button type="submit">Calcular concentração e bomba</button>
-            <p class="error" role="alert" hidden></p>
-            <div class="result" id="infusion-result" aria-live="polite" hidden></div>
-          </form>
-        </section>
-      </div>
+          <section class="panel" aria-labelledby="infusion-title">
+            <h3 id="infusion-title">Infusão contínua <span>→</span> bomba</h3>
+            <form id="infusion-form">
+              <label>Peso (kg)
+                <input name="weightKg" type="number" min="0.001" step="any" required>
+              </label>
+              <label>Dose prescrita
+                <input name="dose" type="number" min="0.000001" step="any" required>
+              </label>
+              <label>Unidade da dose
+                <select name="doseUnit">
+                  <option>mcg/kg/min</option><option>mcg/kg/h</option>
+                  <option>mg/kg/min</option><option>mg/kg/h</option>
+                  <option>g/kg/min</option><option>g/kg/h</option>
+                  <option>U/kg/min</option><option>U/kg/h</option>
+                  <option>mU/kg/min</option><option>mU/kg/h</option>
+                  <option>mEq/kg/min</option><option>mEq/kg/h</option>
+                </select>
+              </label>
+              <label>Quantidade do medicamento na solução
+                <input name="quantity" type="number" min="0.000001" step="any" required>
+              </label>
+              <label>Unidade da quantidade
+                <select name="quantityUnit">
+                  <option>mcg</option><option>mg</option><option>g</option>
+                  <option>U</option><option>mU</option><option>mEq</option>
+                </select>
+              </label>
+              <label>Volume final da solução (mL)
+                <input name="finalVolumeMl" type="number" min="0.001" step="any" required>
+              </label>
+              <button type="submit">Calcular concentração e bomba</button>
+              <p class="error" role="alert" hidden></p>
+              <div class="result" id="infusion-result" aria-live="polite" hidden></div>
+            </form>
+          </section>
+        </div>
+        <p class="calculator-warning">Resultados são cálculos matemáticos com os dados inseridos e não confirmam indicação, dose, preparo, compatibilidade ou segurança clínica. Confira unidades, arredondamentos e resultado com profissional habilitado.</p>
+      </section>
 
-      <section class="method" aria-labelledby="method-title">
-        <h2 id="method-title">Fórmulas e limites</h2>
-        <p>Dose: dose ponderal × peso, com conversão de unidades; volume = quantidade por administração ÷ concentração. Para dose diária, o total é dividido pelo número informado de administrações.</p>
-        <p>Infusão: dose × peso → quantidade por hora; concentração = quantidade preparada ÷ volume final; bomba = quantidade por hora ÷ concentração. A checagem reversa reconstrói a dose a partir da bomba.</p>
-        <p>O sistema não escolhe dose, unidade clínica, frequência, limite máximo, diluente, via ou concentração apropriada. Dados e resultados devem ser verificados por profissional habilitado antes de qualquer uso clínico.</p>
+      <section id="fontes" class="source-section" aria-labelledby="source-title">
+        <p class="eyebrow">Rastreabilidade e escopo</p>
+        <h2 id="source-title">Uma referência, com contexto preservado.</h2>
+        <p>Catálogo Posológico Pediátrico · edição de 13/09/2026 · revisão corrigida em 14/09/2026. Esta interface apresenta as monografias do PED-MASTER como material documental; não substitui validação clínica, farmacêutica ou regulatória.</p>
+        <a href="catalogo-base.pdf" target="_blank" rel="noreferrer">Abrir PDF da fonte <span aria-hidden="true">↗</span></a>
       </section>
     </main>
-    <footer>Ferramenta de apoio matemático — não substitui julgamento clínico nem protocolo institucional.</footer>
+    <footer><span>PED<span class="brand-separator">/</span>MASTER</span><span>Ferramenta de referência · Uso profissional responsável</span></footer>
   </body>
 </html>

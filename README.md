@@ -1,14 +1,14 @@
-# Compêndio Pediátrico WB
+# PED-MASTER — Catálogo Pediátrico
 
-Ferramenta de apoio matemático para cálculo pediátrico de dose por peso e velocidade de infusão. Abra `index.html` em um navegador moderno; não há dependências de instalação.
+Interface web para consulta e busca nas 498 monografias de `Biblioteca_Medicamentosa_Pediatrica_MASTER_498.json`, com filtros para sinalizadores documentais, referência às páginas do PDF-fonte e calculadoras matemáticas independentes. Não há dependências de instalação.
 
-O GitHub Pages está configurado para publicar a branch `main` em `https://iagochaves3-cell.github.io/compeniowb/` após o merge. A publicação manual exige a confirmação `PUBLICAR` na ação “Publicar site manualmente”.
+O catálogo lê o JSON por `fetch`; rode em um servidor HTTP local (por exemplo, `python3 -m http.server 8000`) ou use o GitHub Pages. O GitHub Pages está configurado para publicar a branch `main` em `https://iagochaves3-cell.github.io/compeniowb/`. A publicação manual exige a confirmação `PUBLICAR` na ação “Publicar site manualmente”.
 
 ## Segurança e escopo atual
 
-Esta versão contém calculadoras, mas **não contém monografias, doses recomendadas, preparo clínico, compatibilidade ou protocolos validados**. Os resultados dependem exclusivamente dos valores digitados e não confirmam se a prescrição é apropriada. Consulte fontes confiáveis, bula e protocolo institucional; submeta medicamentos de alta vigilância a checagem humana independente.
+O catálogo é documental e **não transforma conteúdo em prescrição operacional validada**. A interface preserva o texto integral, restrições e sinalizadores do mestre, sem recomendar medicamentos. Confira cada decisão em fontes atuais, bula e protocolo institucional; lacunas e restrições devem ser tratadas conforme a governança clínica.
 
-As calculadoras exibem a dose e o volume/velocidade, fazem checagem reversa e impedem a combinação de dimensões incompatíveis. A calculadora de dose aceita unidade por dose ou por dia e permite aplicar um limite absoluto informado pelo usuário. A calculadora de infusão informa concentração, mL/h, consumo em 6/12/24 horas e duração estimada.
+As calculadoras recebem dados informados pelo usuário, exibem dose e volume/velocidade, fazem checagem reversa e impedem a combinação de dimensões incompatíveis. A calculadora de dose aceita unidade por dose ou por dia e permite aplicar um limite informado pelo usuário. A calculadora de infusão informa concentração, mL/h, consumo em 6/12/24 horas e duração estimada. Elas não consultam o catálogo nem validam a adequação clínica dos dados.
 
 ## Verificação
 
