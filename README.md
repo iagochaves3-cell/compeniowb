@@ -1,2 +1,7 @@
 # compeniowb
-inclui atualizações recentes de todas as informações extraídas do whitebook para atualizações em outros projetos anexados/correlacionados
+
+Este repositório preserva o compêndio pediátrico e a habilidade de consulta/atualização. A política operacional está em [`CONTINUOUS_REVIEW_POLICY.md`](CONTINUOUS_REVIEW_POLICY.md) e também é incluída no pacote `catalogo-posologico-pediatrico-vigente-atualizado.skill`.
+
+O inventário informado de 330 temas é um ponto de partida, não um limite. O PDF de 330 páginas não deve ser tratado automaticamente como prova de 330 temas distintos, nem como prova de revisão integral. O corpus e seus dados clínicos existentes devem ser preservados; mudanças futuras devem ser incrementais e rastreáveis.
+
+Este repositório não configura, por si só, um agendador, acesso contínuo ao Whitebook, escritor de projetos externos ou publicação em produção. Relatórios, commits e cópias locais não comprovam execução contínua, propagação externa ou deploy; só registrar esses resultados com evidência verificável.
