@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       confirmacao:
-        description: 'Digite PUBLICAR para iniciar a publicação da branch main'
+        description: 'Digite PUBLICAR para publicar a branch copilot/catalogo-ped-master'
         required: true
         type: choice
         options:
@@ -36,10 +36,10 @@ jobs:
             exit 1
           fi
 
-      - name: Baixar branch main
+      - name: Baixar branch PED-MASTER
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: copilot/catalogo-ped-master
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
