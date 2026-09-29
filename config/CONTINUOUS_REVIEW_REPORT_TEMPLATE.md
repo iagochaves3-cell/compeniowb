@@ -30,6 +30,12 @@ Não afirmar “sem mudanças” sem comparar fontes atuais acessíveis com a ve
 
 Usar “desconhecido/não reconciliado” quando não houver evidência suficiente; não inferir progresso pelo número de páginas, fichas ou arquivos. Os 330 temas são inventário informado, não limite nem confirmação de revisão.
 
+## Matriz de completude do diagnóstico
+
+Para cada diagnóstico revisado, registrar a checagem dos 25 tópicos em `config/COMPENIOWB_25_TOPIC_MATRIX.md`, com status pertinente/incorporado ou agrupado/não aplicável/pendente de evidência. Não confundir pendência com não aplicabilidade. Exibir apenas conteúdo pertinente e sustentado, sem seções vazias.
+
+Na versão apresentada, os tópicos aplicáveis devem ser dispostos com o rótulo à esquerda e o texto correspondente à direita em corpo menor; registrar exceções de renderização ou acessibilidade.
+
 ## Mudanças/deltas
 
 | ID/tema | Antes → depois | Motivo | População/contexto | Status clínico/matemático/regulatório | Fonte e data | Deduplicação |
