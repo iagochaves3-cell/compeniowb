@@ -4,6 +4,11 @@ Ferramenta de apoio matemático para cálculo pediátrico de dose por peso e vel
 
 O GitHub Pages está configurado para publicar a branch `main` em `https://iagochaves3-cell.github.io/compeniowb/` após o merge. A publicação manual exige a confirmação `PUBLICAR` na ação “Publicar site manualmente”.
 
+## Configuração oficial
+
+- [Prompt-mestre oficial](config/PROMPT-MESTRE.md): regras normativas completas para conteúdo, segurança clínica, matemática, revisão e publicação.
+- [Configuração oficial estruturada](config/configuracao-oficial.yml): metadados do projeto, estado de validação clínica e configuração do GitHub Pages.
+
 ## Segurança e escopo atual
 
 Esta versão contém calculadoras, mas **não contém monografias, doses recomendadas, preparo clínico, compatibilidade ou protocolos validados**. Os resultados dependem exclusivamente dos valores digitados e não confirmam se a prescrição é apropriada. Consulte fontes confiáveis, bula e protocolo institucional; submeta medicamentos de alta vigilância a checagem humana independente.

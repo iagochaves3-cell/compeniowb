@@ -1,0 +1,31 @@
+projeto:
+  nome: Compêndio Pediátrico WB
+  idioma: pt-BR
+  objetivo: apoio técnico à decisão médica pediátrica
+  prompt_mestre: config/PROMPT-MESTRE.md
+
+publicacao:
+  plataforma: GitHub Pages
+  url: https://iagochaves3-cell.github.io/compeniowb/
+  branch: main
+  automatica:
+    evento: push
+    workflow: .github/workflows/pages.yml
+  manual:
+    workflow: .github/workflows/publicar-pages-manualmente.yml
+    confirmacao_exata: PUBLICAR
+
+seguranca_clinica:
+  status_conteudo_atual: PENDENTE DE VALIDAÇÃO
+  incluir_doses_recomendadas: false
+  incluir_protocolos_clinicos_validados: false
+  exigir_tripla_checagem: true
+  exigir_fontes_e_data_de_verificacao: true
+  exigir_calculo_direto_e_reverso: true
+  exigir_revisao_humana_para_alta_vigilancia: true
+  regras_normativas:
+    - config/PROMPT-MESTRE.md
+
+validacao_tecnica:
+  testes: node --test
+  dependencias_de_runtime: nenhuma
