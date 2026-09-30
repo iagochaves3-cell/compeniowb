@@ -24,6 +24,19 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: copilot/catalogo-ped-master
+      - name: Incorporar infosWB preservando o site raiz
+        id: infoswb
+        env:
+          INFOSWB_REF: ${{ github.ref_name == 'main' && github.sha || 'refs/heads/main' }}
+        run: |
+          set -euo pipefail
+          git fetch --no-tags --depth=1 origin "$INFOSWB_REF"
+          INFOSWB_SHA="$(git rev-parse FETCH_HEAD)"
+          git archive "$INFOSWB_SHA" infoswb | tar -xf -
+          for file in index.html app.js core.js style.css masters.pack.js taxonomy.json; do
+            test -s "infoswb/$file"
+          done
+          printf '%s\n' "$INFOSWB_SHA" > infoswb/release-commit.txt
       - name: Configure Pages
         uses: actions/configure-pages@v5
         with:
