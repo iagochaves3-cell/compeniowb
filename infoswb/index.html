@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="infosWB — Compêndio Pediátrico por especialidades, diagnósticos, medicamentos e referências. Acervo documental com rastreabilidade e consulta profissional.">
+<meta name="theme-color" content="#111c30"><meta name="referrer" content="strict-origin-when-cross-origin">
+<title>infosWB · Compêndio Pediátrico</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<a class="skip" href="#content">Ir para o conteúdo</a>
+<div class="shade" id="shade"></div>
+<aside class="sidebar" id="sidebar" aria-label="Navegação principal">
+<a class="brand" href="#inicio" aria-label="infosWB início"><span class="brand-mark">i</span><span>infos<span class="brand-wb">WB</span><small>CONHECIMENTO CLÍNICO</small></span></a>
+<div class="side-label">ESPAÇO DE CONSULTA</div>
+<nav class="primary-nav">
+<a href="#inicio" data-route="inicio"><span>◫</span>Visão geral</a>
+<a href="#especialidades" data-route="especialidades"><span>⊞</span>Especialidades</a>
+<a href="#acervo" data-route="acervo"><span>≡</span>Diagnósticos A–Z</a>
+<a href="#medicamentos" data-route="medicamentos"><span>⊕</span>Medicamentos</a>
+<a href="#favoritos" data-route="favoritos"><span>☆</span>Favoritos <b id="favCount">0</b></a>
+</nav>
+<div class="side-label side-label-line">PASTAS CLÍNICAS <span id="sideCount"></span></div>
+<nav id="specialtyNav" class="specialty-nav" aria-label="Especialidades pediátricas"><span class="side-loading">Carregando estrutura…</span></nav>
+<div class="side-bottom"><a href="#modulos">Estrutura Whitebook <span>↗</span></a><a href="#metodo">Prompt principal e método <span>↗</span></a><p>Acervo profissional independente.<br>Conteúdo com origem e limites explícitos.</p></div>
+</aside>
+<div class="workspace">
+<header class="topbar">
+<button class="icon-btn menu-btn" id="menuBtn" aria-label="Abrir navegação" aria-expanded="false">☰</button>
+<div class="crumb">infosWB <span>/</span> <strong id="topCrumb">Compêndio Pediátrico</strong></div>
+<div class="top-actions"><span class="source-status" id="sourceStatus">Conectando ao acervo</span><button class="icon-btn" id="refreshBtn" aria-label="Atualizar acervo" title="Recarregar fontes do acervo">↻</button><button class="icon-btn" id="themeBtn" aria-label="Alternar tema claro e escuro" title="Tema claro/escuro">◐</button></div>
+</header>
+<div class="searchbar"><label class="searchbox" for="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Busque diagnóstico, medicamento ou termo clínico…" autocomplete="off"><kbd>Ctrl K</kbd></label></div>
+<main id="content" tabindex="-1">
+<div id="alerts" role="status" aria-live="polite"></div>
+<section id="mainView"></section>
+<section id="readerView" hidden></section>
+</main>
+<footer class="main-footer"><span>infosWB <b>·</b> Compêndio Pediátrico</span><a href="#metodo">Origem, revisão e critérios editoriais</a><span>Uso profissional · sem dados de pacientes</span></footer>
+</div>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<noscript><div class="noscript">Ative JavaScript para utilizar busca, filtros e leitura por blocos. O acervo original pode ser consultado no repositório GitHub do projeto.</div></noscript>
+<script src="./core.js"></script><script src="./masters.pack.js"></script><script src="./app.js"></script>
+</body></html>
