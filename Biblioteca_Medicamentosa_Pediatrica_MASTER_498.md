@@ -16281,9 +16281,9 @@ ambiente hospitalar
 curto prazo
 >1 mês
 VO/retal: limite de até 90 mg/kg/dia (máx. 4.000 mg/dia) por no
-máximo 48 h, depois ≤60 mg/kg/dia. Ataque opcional perioperatório:
-até 30 mg/kg VO ou 40 mg/kg retal, máximo 1.000 mg, incluído no
-total diário. [S1]
+máximo 48 h, depois ≤60 mg/kg/dia. [S1: via oral; S2: via retal]
+Ataque opcional perioperatório: até 30 mg/kg VO ou 40 mg/kg retal,
+máximo 1.000 mg, incluído no total diário. [S1]
 Não aplicar teto de 90 mg/kg/dia à via EV, uso domiciliar ou paciente
 com risco hepático.
 Febre/dor neonatal
