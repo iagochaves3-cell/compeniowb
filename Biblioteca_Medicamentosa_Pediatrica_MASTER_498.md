@@ -4476,10 +4476,17 @@ INDICAÇÃO / POPULAÇÃO
 DOSE, INTERVALO E DURAÇÃO
 Impetigo, foliculite,
 celulite e erisipela
->1 mês
-20 mg/kg/dose VO 8/8 h, máximo 750 mg/dose; casos graves
-selecionados: 40 mg/kg/dose 8/8 h, máximo 1,5 g/dose. Lesões
-superficiais: usual 5-7 dias; ampliar pela extensão/resposta. [S1, S2]
+>4 semanas
+Dose usual: 20 mg/kg/dose VO 8/8 h, máximo 750 mg/dose. [S1]
+Registro do texto-base, não revalidado nesta correção: lesões superficiais,
+usual 5-7 dias; ampliar pela extensão/resposta. Confirmar a duração para o
+diagnóstico específico; este intervalo não é uma regra universal.
+Infecções graves selecionadas: esquema especializado por idade, conforme PCH:
+>4 semanas a <12 meses: 20 mg/kg/dose VO 6/6 h, máximo 1.000 mg/dose;
+≥12 meses a 18 anos: 37,5-45 mg/kg/dose VO 8/8 h, máximo 1.500 mg/dose. [S1]
+Não extrapolar a dose de crianças maiores para lactentes. Duração conforme
+o foco e acompanhamento especializado; não aplicar a duração de lesões
+superficiais ao esquema grave.
 Faringite
 estreptocócica
 Crianças
@@ -4488,9 +4495,14 @@ Crianças
 Evitar em hipersensibilidade imediata grave à penicilina.
 Infecção urinária
 afebril
->1 mês
-20 mg/kg/dose VO 8/8 h, máximo 750 mg/dose; curso de 5 dias em
-cistite simples selecionada, com cultura e reavaliação. [S1, S2]
+>3 meses, clinicamente bem
+20 mg/kg/dose VO 3 vezes/dia, máximo 750 mg/dose; curso de 5 dias em
+cistite simples selecionada, com cultura e reavaliação, conforme a tabela
+geniturinária do RCH. Não extrapolar este curso a lactentes mais novos,
+crianças com comprometimento sistêmico ou pielonefrite. Conferir a cultura
+em 24-48 h. Considerar avaliação pediátrica em menores de 6 meses ou com
+anomalias do trato renal; menores de 6 meses com anomalias estruturais
+habitualmente necessitam tratamento IV, conforme a diretriz específica de ITU. [S2]
 Profilaxia de ITU
 recorrente em
 crianças
@@ -4500,15 +4512,23 @@ selecionadas
 enquanto persistir indicação urológica; reavaliar
 benefício/resistência periodicamente. [S1]
 Off-label; não indicada para toda recorrência.
-MONITORIZAÇÃO E PRECAUÇÕES Ajustar doses na disfunção renal. Dose elevada de 120
-mg/kg/dia é esquema especializado descrito na fonte, não início para infecção leve.
+MONITORIZAÇÃO E PRECAUÇÕES Ajustar doses na disfunção renal. Os esquemas para
+infecção grave exigem seleção especializada por idade; não são início para
+infecção leve e não devem ser extrapolados entre faixas etárias. [S1]
 INDICAÇÕES DO PDF-BASE (registro documental, p. 17)
 Impetigo, foliculite, celulite, erisipela, faringite estreptocócica, infecção urinária afebril e profilaxia de ITU
 recorrente em crianças selecionadas (off-label).
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] PCH/ChAMP: cefalexina (pch.health.wa.gov.au)
-[S2] RCH: diretriz antimicrobiana pediátrica (rch.org.au)
+[S1] PCH/ChAMP: Cefalexin Monograph - Paediatric, revisão maio/2026, p. 2.
+https://pch.health.wa.gov.au/-/media/Files/Hospitals/PCH/General-documents/Health-professionals/ChAMP-Monographs/Cephalexin.pdf
+[S2] RCH: Antimicrobial guidelines, tabela geniturinária (curso de 5 dias: >3 meses e clinicamente bem).
+https://www.rch.org.au/clinicalguide/guideline_index/Antibiotics/
+RCH: Urinary tract infection, atualização outubro/2025 (avaliação, cultura e cautelas em lactentes).
+https://www.rch.org.au/clinicalguide/guideline_index/Urinary_tract_infection/
 [S3] CDC: faringite estreptocócica (cdc.gov)
+Correção focal em 02/10/2026: população do curso de ITU e posologia por idade
+nas infecções graves. Demais trechos não passaram por revisão integral nesta
+atualização; não há nova confirmação regulatória da indicação.
 FICHA 94 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 106
 ```
