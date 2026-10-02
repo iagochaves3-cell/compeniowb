@@ -1805,8 +1805,12 @@ FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S2] UCSF - Acute bacterial sinusitis (idmp.ucsf.edu)
 [S3] UCSF - Streptococcal pharyngitis (idmp.ucsf.edu)
 [S4] UCSF - Community-acquired pneumonia (idmp.ucsf.edu)
-[S5] UPMC Children’s - endocarditis prophylaxis (chp.edu)
+[S5] AAPD - Useful Medications for Oral Conditions, 2025, p. 670 (dose, momento e limite):
+https://www.aapd.org/globalassets/media/policies_guidelines/r_usefulmeds25.pdf
+AHA - Prevention of Infective Endocarditis, 2024 (elegibilidade para profilaxia odontológica):
+https://www.heart.org/-/media/Files/Health-Topics/Infective-Endocarditis/Infective-Endocarditis-Wallet-Card.pdf?sc_lang=en
 [S6] CDC - Streptococcal pharyngitis (cdc.gov)
+Manutenção documental de [S5] em 02/10/2026: dose, momento e limite conferidos na AAPD; elegibilidade restrita às cardiopatias de alto risco e aos procedimentos odontológicos especificados pela AHA. Esta atualização não constitui revisão integral da ficha nem confirmação regulatória da indicação.
 FICHA 35 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 47
 ```
