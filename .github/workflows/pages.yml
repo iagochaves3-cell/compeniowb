@@ -33,6 +33,8 @@ jobs:
           git fetch --no-tags --depth=1 origin "$INFOSWB_REF"
           INFOSWB_SHA="$(git rev-parse FETCH_HEAD)"
           git archive "$INFOSWB_SHA" infoswb | tar -xf -
+          git show "$INFOSWB_SHA:Biblioteca_Medicamentosa_Pediatrica_MASTER_498.md" > Biblioteca_Medicamentosa_Pediatrica_MASTER_498.md
+          test -s Biblioteca_Medicamentosa_Pediatrica_MASTER_498.md
           for file in index.html app.js core.js style.css masters.pack.js taxonomy.json; do
             test -s "infoswb/$file"
           done

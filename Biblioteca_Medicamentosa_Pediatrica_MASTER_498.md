@@ -3646,6 +3646,35 @@ Suspensão para nebulização de 0,25 mg/mL e 0,50 mg/mL, frascos de 2 mL, via i
 Registro declarado no documento: 1.1618.0076. Aprovação declarada no documento: 08/08/2025 (p. 18; PDF de 23 páginas).
 https://www.azmed.com.br/content/dam/multibrand/br/pt/azmed-2022/home/bulas-profissionais/bulas/Pulmicort_Susp_Neb_Bula_Profissional.pdf
 Escopo: documento da suspensão para nebulização identificada acima; não valida os esquemas desta ficha, o uso nasal ou o uso deglutido para esofagite eosinofílica (EoE), nem comprova aprovação brasileira de EoE ou vigência regulatória atual.
+ORIENTAÇÃO DE ADMINISTRAÇÃO VERIFICADA • CONSULTA EM 03/10/2026
+Escopo: somente técnica de administração da suspensão Pulmicort para nebulização, em pessoas com asma a partir de 6 meses que conseguem enxaguar a boca e já receberam prescrição. [D1], bula profissional PUL_SUS014, seções 4–5 e 8, pp. 8, 12 e 14–16.
+A instrução abaixo não define dose, volume, intervalo, duração, diluição ou esquema; não homologa os regimes acima, a ficha integral, outras apresentações, via nasal, via deglutida/EoE ou uso em crupe. Não comprova renovação regulatória, revisão humana ou administração em paciente.
+
+<!-- infoswb:bloco-final:inicio -->
+ORIENTAÇÕES DE USO — VIA INALATÓRIA
+PULMICORT® (budesonida) — suspensão para nebulização
+
+Para pessoas com asma, a partir de 6 meses, capazes de enxaguar a boca e com prescrição médica deste medicamento.
+
+Use a concentração, a quantidade e os horários indicados na sua prescrição. Não use se houver alergia à budesonida ou a algum componente do medicamento.
+
+1. Use nebulizador a jato, conectado a um compressor, com bocal ou máscara facial adequados. Não use nebulizador ultrassônico.
+
+2. Agite levemente o frasco com movimento rotativo. Segure-o em pé e abra-o girando a aba.
+
+3. Coloque no reservatório a quantidade prescrita e siga as orientações recebidas para o preparo. Se usar máscara, ajuste-a bem ao rosto durante a nebulização.
+
+4. Após a nebulização, enxágue a boca. Se usou máscara, lave também o rosto.
+
+5. Após cada uso, limpe o copo de inalação, o bocal ou a máscara e faça a manutenção conforme as instruções do fabricante do nebulizador.
+
+ATENÇÃO
+
+Este medicamento não proporciona alívio rápido da crise de asma. Se o broncodilatador de resgate estiver ineficaz ou se precisar dele mais vezes que o habitual, procure atendimento médico.
+
+Se esquecer uma dose, não reponha a dose esquecida. Use a próxima dose conforme a prescrição.
+<!-- infoswb:bloco-final:fim -->
+
 FICHA 75 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 87
 ```
