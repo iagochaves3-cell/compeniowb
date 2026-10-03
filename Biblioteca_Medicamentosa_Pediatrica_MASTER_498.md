@@ -3639,6 +3639,13 @@ oral deglutida, off-label).
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] NICE BNFC - Budesonide (bnfc.nice.org.uk)
 [S2] BSPGHAN - swallowed topical steroids in pediatric EoE 2024 (bmjpaedsopen.bmj.com)
+
+REFERÊNCIA DOCUMENTAL COMPLEMENTAR • CONSULTA EM 03/10/2026
+[D1] AstraZeneca do Brasil Ltda. — Pulmicort (budesonida), bula do profissional (fabricante, Brasil), PUL_SUS014.
+Suspensão para nebulização de 0,25 mg/mL e 0,50 mg/mL, frascos de 2 mL, via inalatória (pp. 1–2).
+Registro declarado no documento: 1.1618.0076. Aprovação declarada no documento: 08/08/2025 (p. 18; PDF de 23 páginas).
+https://www.azmed.com.br/content/dam/multibrand/br/pt/azmed-2022/home/bulas-profissionais/bulas/Pulmicort_Susp_Neb_Bula_Profissional.pdf
+Escopo: documento da suspensão para nebulização identificada acima; não valida os esquemas desta ficha, o uso nasal ou o uso deglutido para esofagite eosinofílica (EoE), nem comprova aprovação brasileira de EoE ou vigência regulatória atual.
 FICHA 75 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 87
 ```
