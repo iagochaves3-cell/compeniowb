@@ -7,7 +7,18 @@ function collect(md,re,kind){const rows=[];let m;while((m=re.exec(md)))rows.push
 function parseTopics(md){return collect(String(md),/^##\s+(\d+)\.\s+([^\r\n]+)$/gm,'clinica');}
 function parseDrugs(md){return collect(String(md),/^##\s+Ficha\s+(\d+):\s+(.+?)(?:\s+—\s+página\s+\d+)?\s*$/gm,'medicamento');}
 function sections(body){const lines=String(body).split(/\r?\n/);let out=[],title='Visão geral',buf=[],fenced=false;function flush(){if(buf.join('\n').trim())out.push({title,body:buf.join('\n').trim()});buf=[];}for(const line of lines){if(/^```/.test(line))fenced=!fenced;const m=!fenced&&(line.match(/^#{3,5}\s+(.+)$/)||line.match(/^\*\*([^*\n]{2,100})\*\*[ \t]*(.*)$/));if(m){flush();title=m[1].trim().replace(/[.:\s]+$/,'');if(m[2])buf.push(m[2]);}else buf.push(line);}flush();return out.length?out:[{title:'Documento',body:String(body)}];}
-function inline(text){return escape(text).replace(/`([^`]+)`/g,'<code>$1</code>').replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>').replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,'<a href="$2" target="_blank" rel="noopener noreferrer">$1 ↗</a>');}
+function inline(text){
+const safe=escape(text),format=s=>s.replace(/`([^`]+)`/g,'<code>$1</code>').replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
+const link=/\[([^\]]+)\]\((https?:\/\/)/g;let out='',cursor=0,m;
+while((m=link.exec(safe))){
+const start=m.index+m[0].length-m[2].length;let end=start,depth=1;
+for(;end<safe.length;end++){const c=safe[end];if(/\s/.test(c))break;if(c==='(')depth++;if(c===')'&&--depth===0)break;}
+if(depth!==0)continue;
+out+=format(safe.slice(cursor,m.index))+'<a href="'+safe.slice(start,end)+'" target="_blank" rel="noopener noreferrer">'+format(m[1])+' ↗</a>';
+cursor=end+1;link.lastIndex=cursor;
+}
+return out+format(safe.slice(cursor));
+}
 function markdown(text){const lines=String(text).replace(/<!--[^]*?-->/g,'').split(/\r?\n/);let out=[],p=[],list=[],ordered=false;const flushP=()=>{if(p.length){out.push('<p>'+p.map(inline).join('<br>')+'</p>');p=[];}};const flushL=()=>{if(list.length){out.push('<'+(ordered?'ol':'ul')+'>'+list.map(t=>'<li>'+inline(t)+'</li>').join('')+'</'+(ordered?'ol':'ul')+'>');list=[];}};const flush=()=>{flushP();flushL();};for(let i=0;i<lines.length;i++){let line=lines[i];if(/^```/.test(line)){flush();const code=[];while(++i<lines.length&&!/^```/.test(lines[i]))code.push(lines[i]);out.push('<pre><code>'+escape(code.join('\n'))+'</code></pre>');continue;}if(/^\s*\|/.test(line)&&i+1<lines.length&&/^\s*\|?(?:\s*:?-{3,}:?\s*\|)+\s*$/.test(lines[i+1])){flush();const cells=s=>s.trim().replace(/^\||\|$/g,'').split(/(?<!\\)\|/).map(x=>x.trim().replace(/\\\|/g,'|'));const head=cells(line);i++;const rows=[];while(i+1<lines.length&&/^\s*\|/.test(lines[i+1]))rows.push(cells(lines[++i]));out.push('<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela do documento"><table><thead><tr>'+head.map(x=>'<th scope="col">'+inline(x)+'</th>').join('')+'</tr></thead><tbody>'+rows.map(r=>'<tr>'+r.map(x=>'<td>'+inline(x)+'</td>').join('')+'</tr>').join('')+'</tbody></table></div>');continue;}if(!line.trim()){flush();continue;}if(/^\s*---+\s*$/.test(line)){flush();out.push('<hr>');continue;}const h=line.match(/^(#{1,6})\s+(.+)$/);if(h){flush();out.push('<h3>'+inline(h[2])+'</h3>');continue;}const b=line.match(/^\s*(?:([-*])\s+|\d+\.\s+)(.+)$/);if(b){flushP();const isOrdered=!b[1];if(list.length&&isOrdered!==ordered)flushL();ordered=isOrdered;list.push(b[2]);continue;}flushL();if(/^>\s?/.test(line)){flushP();out.push('<blockquote>'+inline(line.replace(/^>\s?/,''))+'</blockquote>');continue;}p.push(line);}flush();return out.join('');}
 function matches(item,q){const hay=item.searchText||normalize(item.title+' '+item.body);return normalize(q).split(' ').filter(Boolean).every(x=>hay.includes(x));}
 function plain(text){return String(text).replace(/^#{1,6}\s+/gm,'').replace(/\*\*/g,'').replace(/```[^\n]*\n?/g,'').replace(/<!--[^]*?-->/g,'').trim();}
