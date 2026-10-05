@@ -28,7 +28,7 @@ const text=String(body),start='<!-- infoswb:bloco-final:inicio -->',end='<!-- in
 if(text.split(start).length!==2||text.split(end).length!==2)return null;
 const m=text.match(/^<!-- infoswb:bloco-final:inicio -->\r?\n([\s\S]*?)^<!-- infoswb:bloco-final:fim -->[ \t]*$/m);
 if(!m)return null;
-const block=m[1].replace(/\r?\n$/,'');
+const block=m[1];
 if(!block.trim()||/^```/m.test(block)||/https?:\/\//i.test(block)||/\[(?:S|D)\d+\]/.test(block)||/^[ \t]*(?:FONTES(?: DO ESQUEMA)?|REFER[EÊ]NCIAS?|REFER[EÊ]NCIA DOCUMENTAL(?: COMPLEMENTAR)?|Fonte|C[aá]lculo|Reverso)[ \t]*(?:[:•]|$)/im.test(block)||/^Documento-base;/m.test(block))return null;
 return block;
 }
