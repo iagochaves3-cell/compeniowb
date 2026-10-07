@@ -1,4 +1,4 @@
-/* build: pedwb-189-nephrotic-20261007T0745Z source-3ccf5453 corpus-afe8bcbd */
+/* build: pedwb-190-pich-20261007T0905Z source-1fdd809f corpus-d2599545 */
 (()=>{'use strict';
 const C=window.InfosCore,$=s=>document.querySelector(s),E=C.escape;
 const sourceDefs={clinica:{name:'PedWB — Compêndio consolidado',edition:'25/09/2026 · edição documental; atualizações por tema preservadas',urls:['https://raw.githubusercontent.com/iagochaves3-cell/consulta-pediatrica-rapida/principal/pedwb/PedWB_Consolidado.md','https://iagochaves3-cell.github.io/consulta-pediatrica-rapida/pedwb/PedWB_Consolidado.md','https://raw.githubusercontent.com/iagochaves3-cell/consulta-pediatrica-rapida/3ccf5453b61d97f99cf7799eaaad56d2be043616/pedwb/PedWB_Consolidado.md'],parse:C.parseTopics},medicamento:{name:'Biblioteca Medicamentosa — MASTER 498',edition:'13/09/2026 · revisão corrigida indicada na fonte em 14/09/2026',urls:['../Biblioteca_Medicamentosa_Pediatrica_MASTER_498.md','https://raw.githubusercontent.com/iagochaves3-cell/compeniowb/main/Biblioteca_Medicamentosa_Pediatrica_MASTER_498.md'],parse:C.parseDrugs}};
