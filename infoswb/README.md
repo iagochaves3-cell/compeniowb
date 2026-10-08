@@ -41,3 +41,43 @@ Esses testes são da interface e da integridade documental, não de validação 
 ## Segurança clínica
 
 Acervo documental: publicação não significa homologação humana ou nova aprovação de todas as doses. Manter indicação, população, limitações, fontes e status originais. Não habilitar prescrição automática pela inclusão de um capítulo. Novos deltas medicamentosos exigem checagem clínica/documental, farmacêutica e dimensional, cálculo reverso e testes específicos. Não copiar extensamente material proprietário nem expor credenciais.
+
+## Snapshot de contingência — conferência de 08/10/2026
+
+Ordem preservada: raw do branch `principal`, GitHub Pages e snapshot imutável.
+O terceiro endereço agora aponta ao commit clínico
+`bac1acb6676dc3c98d033ad7c1cae933b6c29ed4`, arquivo
+`pedwb/PedWB_Consolidado.md`, SHA-256
+`0d1fb7a30177402934056d81cba8092f638f0a020be79e2683cc30ec1aa326c9`.
+Esse conteúdo é byte a byte igual ao branch `principal` no commit
+`1da7dce4f59aa0c543f4bd77b0fe16611bbb2d1c`; os commits posteriores ao
+snapshot escolhido alteram a anamnese, não o compêndio.
+
+A comparação direta dos documentos identificou:
+
+- Tema 189 (Síndrome Nefrótica): texto idêntico entre a referência histórica
+  `ef4fae09`, o fallback anterior `fece6112` e o principal conferido.
+  A divergência de históricos mencionada na inspeção não demonstra perda
+  dessa revisão; ela também foi incorporada pela linhagem atual em `3ccf545`.
+- Temas 190–198: revisões já presentes no fallback anterior, preservadas
+  integralmente no novo snapshot. Incluem AVE hemorrágico/isquêmico, cefaleia,
+  coreia de Sydenham, crise convulsiva, galactosemia, depressão, EHI e enxaqueca.
+- Tema 199: incorporar o delta `d624472` (definição/classificação de epilepsia,
+  investigação, escolha por síndrome e delimitação brasileira do levetiracetam
+  adjuvante, titulação, segurança, cálculo e fontes).
+- Tema 200: incorporar o delta `bac1acb` (avaliação de psicose, intervenção
+  familiar/TCC, bula brasileira de risperidona em adolescentes, apresentação,
+  segurança, monitorização e limites).
+
+Somente 199 e 200 diferem entre o fallback anterior e o principal conferido.
+Os 330 títulos, números e identidades, os demais 328 corpos clínicos,
+taxonomia, organização e catálogo MASTER permanecem preservados. Não há
+homologação humana comprovada: conservar os status e limites originais;
+a sincronização documental não constitui nova revisão das recomendações.
+Não alterar o corpus principal nem promover cálculo/prescrição nesta correção.
+
+Ao atualizar o fallback novamente, comparar o documento completo com o
+principal, conferir ancestralidade, registrar commit/hash e deltas, testar
+indisponibilidade das duas primeiras rotas e confirmar a publicação. O
+snapshot é consistente nesta conferência; futuras mudanças do principal
+exigem novo pin explícito pela rotina coordenada.
