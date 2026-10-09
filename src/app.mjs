@@ -21,7 +21,7 @@ $('#dose-form').addEventListener('submit', (event) => {
     $('#dose-result').innerHTML = `
       <p><strong>Dose por administração:</strong> ${format(result.dosePerAdministration)} ${result.amountUnit}</p>
       <p><strong>Volume por administração:</strong> ${format(result.volumePerDoseMl)} mL</p>
-      <p><strong>Total em 24 h:</strong> ${format(result.dosePerDay)} ${result.amountUnit}</p>
+      ${result.dosePerDay === null ? '' : `<p><strong>Total em 24 h:</strong> ${format(result.dosePerDay)} ${result.amountUnit}</p>`}
       <p><strong>Checagem reversa:</strong> ${format(result.reconstructedPerKg)} ${result.doseUnit}</p>
       ${result.capped ? '<p class="warning">O limite informado foi aplicado. Confirme se o tipo de limite corresponde à referência clínica.</p>' : ''}
     `;

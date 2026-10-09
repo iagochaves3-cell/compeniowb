@@ -92,6 +92,11 @@ export function calculateDose({
     throw new Error('Selecione se o limite máximo é por dose ou por dia.');
   }
 
+  if (unit.period === 'dose' && maximumScope === 'day' &&
+    maximum !== '' && maximum !== undefined && maximum !== null) {
+    throw new Error('O limite diário exige frequência conhecida. Use dose diária com número de administrações ou limite por dose.');
+  }
+
   const amountUnit = amountUnits[unit.amount];
   const concentrationAmountUnit = concentrationUnits[concentrationUnit];
   const prescribedAmount = prescribed * weight;
@@ -129,10 +134,10 @@ export function calculateDose({
   return {
     capped,
     dosePerAdministration: totalPerDose,
-    dosePerDay: totalPerDay,
+    dosePerDay: unit.period === 'day' ? totalPerDay : null,
     amountUnit: unit.amount,
     doseUnit: `${amountLabel}/kg/${unit.period}`,
-    frequency,
+    frequency: unit.period === 'day' ? frequency : null,
     reconstructedPerKg,
     volumePerDoseMl,
   };
