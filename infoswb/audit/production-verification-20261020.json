@@ -1,0 +1,63 @@
+{
+  "url": "https://infoswb.iagovalmeida.chatgpt.site",
+  "verifiedAtUTC": "2026-10-21T02:37:28.049251+00:00",
+  "files": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "bytes": 3545,
+      "sha256": "cc5a153acfabf025741c36c8843d6a788dca7438d35b8053e56905c9a84b3e6b",
+      "matchesSource": true
+    },
+    {
+      "file": "app.js",
+      "status": 200,
+      "bytes": 27708,
+      "sha256": "e95070b1e93dccc48f4d9b82c5e855a92350a82ed7db44598a177dfa4045069d",
+      "matchesSource": true
+    },
+    {
+      "file": "core.js",
+      "status": 200,
+      "bytes": 5332,
+      "sha256": "41d7c8714347564c82ea870570547f024fb8c922cd90a03c5251d7fa3333a36e",
+      "matchesSource": true
+    },
+    {
+      "file": "style.css",
+      "status": 200,
+      "bytes": 20331,
+      "sha256": "53f0a0fcefaebc1266c9ed44b3d810897aa2240005070467140bb9f0d4072031",
+      "matchesSource": true
+    },
+    {
+      "file": "masters.pack.js",
+      "status": 200,
+      "bytes": 21634,
+      "sha256": "7dcdac613fbf791502002c896519f107e45f2c7a8f03e4ac23c8f27aa73c2391",
+      "matchesSource": true
+    },
+    {
+      "file": "taxonomy.json",
+      "status": 200,
+      "bytes": 16025,
+      "sha256": "479ffa983f5035cdcd3ba88a08c615e22687c033338d85c237b65e5ab6245c8b",
+      "matchesSource": true
+    },
+    {
+      "file": "data/PedWB_Consolidado.md",
+      "status": 200,
+      "bytes": 1363817,
+      "sha256": "18b9dd21c540c75fb2f4b1036316e9dd111d75f2f04be2592877570fc2bd3483",
+      "matchesSource": true
+    },
+    {
+      "file": "data/Biblioteca_Medicamentosa_Pediatrica_MASTER_498.md",
+      "status": 200,
+      "bytes": 904370,
+      "sha256": "2902dab440cd11db40700d0da86c94f9677e550f5de320d644f5a7cb2fc6ddaa",
+      "matchesSource": true
+    }
+  ],
+  "browserUI": "not exercised"
+}

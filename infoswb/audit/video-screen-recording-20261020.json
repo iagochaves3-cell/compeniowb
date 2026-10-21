@@ -1,0 +1,215 @@
+{
+  "id": "infoswb-video-20261020",
+  "date": "20/10/2026",
+  "timezone": "America/Sao_Paulo",
+  "baselineCommit": "c2ad2f586e8bba87ad28254e0c18d1e4b0de4fbe",
+  "source": {
+    "name": "Gravação de Tela 2026-10-20 222641.mp4",
+    "sha256": "f053ca4ced4d13be2cdb6e8b1e82cddc51b19fcbd51ea103decbfc2eb09be8d9",
+    "bytes": 412581575,
+    "durationSeconds": 426.6,
+    "width": 1906,
+    "height": 942,
+    "fps": 30
+  },
+  "coverageMethod": {
+    "uniformFrames": 853,
+    "uniformFramesPerSecond": 2,
+    "sceneFrames": 387,
+    "additionalFramesReviewed": 55,
+    "rangesSeconds": [
+      [
+        0,
+        150
+      ],
+      [
+        150,
+        300
+      ],
+      [
+        300,
+        426.6
+      ]
+    ],
+    "completeVisibleTimeline": true,
+    "closedSectionsRead": false,
+    "catalogTitles": 161,
+    "emergencyEntries": 9,
+    "audio": "Measured stream digital silence; mean/max -91 dB"
+  },
+  "before": {
+    "clinical": "c9d8d905fd69a7c45140bd82211d58d8505b35cf9a490c65106a57d5bd6df97c",
+    "drugs": "fa24b013dfd980dc8b4efbe65c433d51b01adcb01168c916c9e81c4eeeca57bd"
+  },
+  "after": {
+    "clinicalCount": 346,
+    "drugCount": 498,
+    "clinicalSha256": "18b9dd21c540c75fb2f4b1036316e9dd111d75f2f04be2592877570fc2bd3483",
+    "drugSha256": "2902dab440cd11db40700d0da86c94f9677e550f5de320d644f5a7cb2fc6ddaa"
+  },
+  "clinicalAddenda": [
+    194,
+    201,
+    223,
+    269,
+    272,
+    278,
+    320
+  ],
+  "drugAddenda": [
+    17,
+    45
+  ],
+  "newTopics": [
+    {
+      "number": 342,
+      "title": "Reanimação Cardiopulmonar na Infância",
+      "id": "clinica-96c9787f"
+    },
+    {
+      "number": 343,
+      "title": "Analgesia e Sedação em Pediatria",
+      "id": "clinica-59f774ce"
+    },
+    {
+      "number": 344,
+      "title": "Sedação na Ventilação Mecânica em Pediatria",
+      "id": "clinica-475f9e42"
+    },
+    {
+      "number": 345,
+      "title": "Vias Aéreas — Intubação de Emergência em Pediatria",
+      "id": "clinica-244e3359"
+    },
+    {
+      "number": 346,
+      "title": "Drogas Pediátricas — Conteúdo Conferido da Gravação",
+      "id": "clinica-3c830159"
+    }
+  ],
+  "coverage": [
+    {
+      "sourceSection": "Alergia e Anafilaxia —0–3 s",
+      "disposition": "Adendo 269 e ficha 17: reconciliação de via/intervalo, apresentação por indicação e papel limitado de adjuvantes; doses de anti-H 1/corticoides da tela não foram promovidas."
+    },
+    {
+      "sourceSection": "Controle da Dor —6–19 s",
+      "disposition": "Encaminhado ao adendo de dor do executor correspondente; campos de morfina/fentanil vazios não permitem inferir doses; gotas e tetos adultos dependem de verificação por produto."
+    },
+    {
+      "sourceSection": "Crise Convulsiva —22–29 s",
+      "disposition": "Adendos 194/201: preservado protocoloativo de midazolam; alternativa de diazepam e segunda linha ancoradas em protocolo identificado; velocidades não confirmadas da tela não importadas;R56 preservada."
+    },
+    {
+      "sourceSection": "Crise de Asma —31–49 s",
+      "disposition": "Adendo 223: atualizaçãoGINA 2026 e distinçãoCPS/RCH; máximos, betagonistaIV, fenoterol/gotas e magnésio repetido não universalizados."
+    },
+    {
+      "sourceSection": "Intoxicações —51–57 s",
+      "disposition": "Adendo 278: cinco antídotos ligados às indicações, flumazenilinicial corrigido, glucagon contextualizado, atropina sem teto cumulativo genérico; fisostigmina sem volume clínico/nova apresentação aprovada."
+    },
+    {
+      "sourceSection": "RCP —61–86 s e 100–105 s",
+      "disposition": "Novo panorama documental com vínculos 339/340/341; dados atuaisAHApreservados; ET, atropina/magnésio de rotina e infusões não transpostos como pacote."
+    },
+    {
+      "sourceSection": "Adrenalina —87–98 s",
+      "disposition": "Ficha 17: reconciliação de concentrações/indicações e demonstração 10 kg; esquemasneonatais e diluenteSG 5 da fonte mantêm revisão específica, sem novas alegações de aprovação."
+    },
+    {
+      "sourceSection": "Atropina —107–126 s",
+      "disposition": "Ficha 45: indicações separadas, diferenças protocolárias identificadas, números personalizados inválidos excluídos; ambliopia não confundida comuveíte; sem generalizar mg/gota ou apresentação 0,5%."
+    },
+    {
+      "sourceSection": "Ventilação Mecânica —130–146 s",
+      "disposition": "Encaminhado ao adendo de ventilação do executorcorrespondente: preservar matemática de midazolam/fentanil; propofolcontínuoUTIP e vecurôniodivergente permanecem restritos por referência/risco, sem regime inseguro copiável."
+    },
+    {
+      "sourceSection": "Reposição Volêmica —149–150 s",
+      "disposition": "Fonte declara calculadora indisponível e remete HidrataçãoPediátrica; não há fórmula a reconstruir. O trecho seguinte de hidratação é integrado pelo executorcorrespondente."
+    },
+    {
+      "sourceSection": "Navegação, bibliografias e índices",
+      "disposition": "Inventário e referências observados são procedência documental; selos/atalhos não significam validação independente. BotõesPrescrever/Anotações/Favoritar/Compartilhar da fonte não autorizam novaUI."
+    },
+    {
+      "segment": "150–153s",
+      "topic": "Reposição Volêmica",
+      "status": "Página indisponível na fonte; remissão à Hidratação preservada, sem inventar fórmula."
+    },
+    {
+      "segment": "154–237s",
+      "topic": "Hidratação e calculadora",
+      "status": "Adendos preparados para272/320; todos componentes observados discutidos, erros e variantes identificados."
+    },
+    {
+      "segment": "252–289s",
+      "topic": "Analgesia e Sedação",
+      "status": "Novo capítulo preparado com avaliação,escalas,24agentesincluindomeperidina,9contextos;doses apenas no escopo de evidência."
+    },
+    {
+      "segment": "295–317s",
+      "topic": "Controle da Dor",
+      "status": "Integrado ao mesmo novo capítulo para evitar duplicação;apresentações,10kg1–6anos,aritmética,gotas,tetos e limitações contemplados."
+    },
+    {
+      "sourceSection": "Ventilação Mecânica",
+      "disposition": "Preparos e matemática conferidos; regimes de propofol/vecurônio não liberados; faixas de midazolam/fentanila contextualizadas."
+    },
+    {
+      "sourceSection": "Vias Aéreas",
+      "disposition": "Todas as alternativas/presentações observadas registradas; protocolo de emergência e indicação de atropina separados."
+    },
+    {
+      "sourceSection": "Índices e bibliografia",
+      "disposition": "Nove entradas de urgência,161medicamentos,índices adicionais e referências identificadas; seções não abertas não completadas."
+    }
+  ],
+  "preserved": {
+    "layout": true,
+    "navigation": true,
+    "fields": true,
+    "audience": "public",
+    "existingSemanticIds": true,
+    "oldClinicalTopics": 341,
+    "oldDrugEntries": 498,
+    "pharmacologyRestrictionsR56": true
+  },
+  "review": {
+    "type": "AI clinical/documental/pharmaceutical/dimensional review of identified fields",
+    "humanApproval": false,
+    "allDrugRegimensValidated": false,
+    "notes": "Unsupported or conflicting regimens are identified; no new calculator or prescription engine.",
+    "independentSecondPass": "completed after root review; scope correction and typography fixed and reread; no blocking findings remain"
+  },
+  "publication": {
+    "status": "published",
+    "siteVersion": 61,
+    "versionId": "appgprj_6ac3e3d4ebf881918b6e5232884ca411~appgver_07764753b9b881918346aa043bb47c6b",
+    "deploymentId": "appgdep_6ad825067a00819181f56c3c89513995",
+    "deploymentStatus": "succeeded",
+    "publishedSourceCommit": "4d05f6d8130d5792e144ec30e9d21f2d3635ed94",
+    "url": "https://infoswb.iagovalmeida.chatgpt.site",
+    "publishedAtUTC": "2026-10-21T02:36:06.607709+00:00"
+  },
+  "verification": {
+    "localTests": "passed",
+    "checks": [
+      "UTF-8 and parsers",
+      "341 prior clinical identities and original text preserved",
+      "498 prior drug identities preserved",
+      "unaffected496 drug bodies preserved",
+      "161 recorded catalog titles present",
+      "accent-insensitive search through actual InfosCore",
+      "Markdown rendering and safe links",
+      "dose/concentration arithmetic and reverse checks",
+      "layout/assets/modules/fields preserved",
+      "application initialization loads844documents",
+      "five new reader routes render through actual application code",
+      "specialty navigation rendersnewrecords"
+    ],
+    "browserUI": "not verified: supported browser control unavailable in this environment",
+    "productionFilesMatched": 8,
+    "productionRuntime": "844 documents, five new reader routes, normalized search and specialty navigation passed using files retrieved from the published URL; simulated DOM, not browser UI"
+  }
+}
