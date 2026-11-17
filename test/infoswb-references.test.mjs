@@ -32,6 +32,10 @@ test('escapes attribute quotes and labels', () => {
   assert.equal(result, '<p><a href="https://example.org/&quot;onmouseover=&quot;bad" target="_blank" rel="noopener noreferrer">&lt;script&gt; ↗</a></p>');
 });
 
+test('strips unterminated HTML comments through end of input', () => {
+  assert.equal(markdown('visible\n<!-- <script>alert(1)</script>'), '<p>visible</p>');
+});
+
 test('keeps table and topic identity behavior', () => {
   const table = markdown('| Fonte | URL |\n| --- | --- |\n| OMS | [OMS](' + who + ') |');
   assert.ok(table.includes('<th scope="col">Fonte</th>'));
