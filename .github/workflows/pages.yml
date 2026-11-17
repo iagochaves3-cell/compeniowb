@@ -1,0 +1,55 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches: ["main", "copilot/publique-o-site-copilot"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: copilot/catalogo-ped-master
+      - name: Incorporar infosWB preservando o site raiz
+        id: infoswb
+        env:
+          INFOSWB_REF: ${{ github.ref_name == 'main' && github.sha || 'refs/heads/main' }}
+        run: |
+          set -euo pipefail
+          git fetch --no-tags --depth=1 origin "$INFOSWB_REF"
+          INFOSWB_SHA="$(git rev-parse FETCH_HEAD)"
+          git archive "$INFOSWB_SHA" infoswb | tar -xf -
+          git show "$INFOSWB_SHA:Biblioteca_Medicamentosa_Pediatrica_MASTER_498.md" > Biblioteca_Medicamentosa_Pediatrica_MASTER_498.md
+          test -s Biblioteca_Medicamentosa_Pediatrica_MASTER_498.md
+          for file in index.html app.js core.js style.css masters.pack.js taxonomy.json; do
+            test -s "infoswb/$file"
+          done
+          printf '%s\n' "$INFOSWB_SHA" > infoswb/release-commit.txt
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}

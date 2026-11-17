@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#123d50">
+    <title>Compêndio Pediátrico WB — cálculos</title>
+    <link rel="stylesheet" href="styles.css">
+    <script type="module" src="src/app.mjs"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <p class="eyebrow">Compêndio Pediátrico WB</p>
+      <h1>Calculadoras pediátricas</h1>
+      <p>Ferramentas matemáticas para apoiar cálculos individualizados.</p>
+    </header>
+
+    <main>
+      <section class="notice" aria-labelledby="notice-title">
+        <h2 id="notice-title">Conteúdo não validado</h2>
+        <p>Esta versão não contém doses recomendadas, monografias ou protocolos clínicos. Os resultados são cálculos matemáticos com dados inseridos pelo usuário e não validam indicação, dose, preparo, compatibilidade ou segurança clínica.</p>
+        <p>Confirme cada prescrição em fonte confiável e protocolo institucional. Medicamentos de alta vigilância exigem checagem humana independente de paciente, peso, unidade, concentração, preparo, via e bomba.</p>
+      </section>
+
+      <div class="calculators">
+        <section class="panel" aria-labelledby="dose-title">
+          <h2 id="dose-title">Dose por peso → volume</h2>
+          <form id="dose-form">
+            <label>Peso (kg)
+              <input name="weightKg" type="number" min="0.001" step="any" required>
+            </label>
+            <label>Dose prescrita
+              <input name="dose" type="number" min="0.000001" step="any" required>
+            </label>
+            <label>Unidade da dose
+              <select id="dose-unit" name="doseUnit">
+                <option>mg/kg/dose</option><option>mcg/kg/dose</option>
+                <option>g/kg/dose</option><option>U/kg/dose</option>
+                <option>mU/kg/dose</option><option>mEq/kg/dose</option>
+                <option>mg/kg/day</option><option>mcg/kg/day</option>
+                <option>g/kg/day</option><option>U/kg/day</option>
+                <option>mU/kg/day</option><option>mEq/kg/day</option>
+              </select>
+            </label>
+            <label data-daily-field hidden>Doses por dia
+              <input name="dosesPerDay" type="number" min="1" max="24" step="1" value="1">
+            </label>
+            <label>Concentração disponível
+              <input name="concentration" type="number" min="0.000001" step="any" required>
+            </label>
+            <label>Unidade da concentração
+              <select name="concentrationUnit">
+                <option>mg/mL</option><option>mcg/mL</option><option>g/mL</option>
+                <option>U/mL</option><option>mU/mL</option><option>mEq/mL</option>
+              </select>
+            </label>
+            <fieldset>
+              <legend>Limite máximo validado (opcional)</legend>
+              <label>Valor no mesmo tipo de unidade da dose
+                <input name="maximum" type="number" min="0.000001" step="any">
+              </label>
+              <label>Aplicar limite
+                <select name="maximumScope">
+                  <option value="dose">Por dose</option><option value="day">Por dia</option>
+                </select>
+              </label>
+            </fieldset>
+            <button type="submit">Calcular dose e volume</button>
+            <p class="error" role="alert" hidden></p>
+            <div class="result" id="dose-result" aria-live="polite" hidden></div>
+          </form>
+        </section>
+
+        <section class="panel" aria-labelledby="infusion-title">
+          <h2 id="infusion-title">Infusão contínua → bomba</h2>
+          <form id="infusion-form">
+            <label>Peso (kg)
+              <input name="weightKg" type="number" min="0.001" step="any" required>
+            </label>
+            <label>Dose prescrita
+              <input name="dose" type="number" min="0.000001" step="any" required>
+            </label>
+            <label>Unidade da dose
+              <select name="doseUnit">
+                <option>mcg/kg/min</option><option>mcg/kg/h</option>
+                <option>mg/kg/min</option><option>mg/kg/h</option>
+                <option>g/kg/min</option><option>g/kg/h</option>
+                <option>U/kg/min</option><option>U/kg/h</option>
+                <option>mU/kg/min</option><option>mU/kg/h</option>
+                <option>mEq/kg/min</option><option>mEq/kg/h</option>
+              </select>
+            </label>
+            <label>Quantidade do medicamento na solução
+              <input name="quantity" type="number" min="0.000001" step="any" required>
+            </label>
+            <label>Unidade da quantidade
+              <select name="quantityUnit">
+                <option>mcg</option><option>mg</option><option>g</option>
+                <option>U</option><option>mU</option><option>mEq</option>
+              </select>
+            </label>
+            <label>Volume final da solução (mL)
+              <input name="finalVolumeMl" type="number" min="0.001" step="any" required>
+            </label>
+            <button type="submit">Calcular concentração e bomba</button>
+            <p class="error" role="alert" hidden></p>
+            <div class="result" id="infusion-result" aria-live="polite" hidden></div>
+          </form>
+        </section>
+      </div>
+
+      <section class="method" aria-labelledby="method-title">
+        <h2 id="method-title">Fórmulas e limites</h2>
+        <p>Dose: dose ponderal × peso, com conversão de unidades; volume = quantidade por administração ÷ concentração. Para dose diária, o total é dividido pelo número informado de administrações.</p>
+        <p>Infusão: dose × peso → quantidade por hora; concentração = quantidade preparada ÷ volume final; bomba = quantidade por hora ÷ concentração. A checagem reversa reconstrói a dose a partir da bomba.</p>
+        <p>O sistema não escolhe dose, unidade clínica, frequência, limite máximo, diluente, via ou concentração apropriada. Dados e resultados devem ser verificados por profissional habilitado antes de qualquer uso clínico.</p>
+      </section>
+    </main>
+    <footer>Ferramenta de apoio matemático — não substitui julgamento clínico nem protocolo institucional.</footer>
+  </body>
+</html>
