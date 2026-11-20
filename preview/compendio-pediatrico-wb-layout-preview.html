@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Prévia local da reorganização em duas colunas do Compêndio Pediátrico WB.">
+  <title>Prévia de layout — Compêndio Pediátrico WB</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #080d12;
+      --panel: #101820;
+      --panel-raised: #151f29;
+      --ink: #f3f7fa;
+      --muted: #9aa9b5;
+      --line: #263440;
+      --accent: #69e0c2;
+      --accent-soft: #12332f;
+      --warning-bg: #3b2d16;
+      --warning-ink: #ffedc2;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      background: radial-gradient(circle at 85% -10%, #183b3b 0, transparent 34rem), var(--bg);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    header {
+      position: sticky;
+      z-index: 2;
+      top: 0;
+      border-bottom: 1px solid var(--line);
+      background: rgb(8 13 18 / 94%);
+      padding: 20px max(20px, calc((100vw - 1240px) / 2));
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.5rem, 3vw, 2rem);
+      letter-spacing: -0.04em;
+    }
+
+    .subtitle, .status, .sidebar-label { color: var(--muted); }
+    .subtitle { margin: 6px 0 0; font-size: .82rem; }
+
+    main {
+      display: grid;
+      grid-template-columns: minmax(230px, 280px) minmax(0, 880px);
+      gap: 20px;
+      align-items: start;
+      width: min(1240px, calc(100% - 40px));
+      margin: 24px auto 48px;
+    }
+
+    aside, article {
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: rgb(16 24 32 / 94%);
+      box-shadow: 0 16px 38px rgb(0 0 0 / 22%);
+    }
+
+    aside {
+      position: sticky;
+      top: 105px;
+      padding: 14px;
+    }
+
+    .sidebar-label {
+      margin: 0 0 9px;
+      font-size: .7rem;
+      font-weight: 750;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    input[type="search"] {
+      width: 100%;
+      margin-bottom: 10px;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      background: var(--bg);
+      color: var(--ink);
+      padding: 10px 11px;
+      font: inherit;
+      font-size: .82rem;
+    }
+
+    .diagnosis-link {
+      width: 100%;
+      border: 0;
+      border-radius: 9px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      padding: 10px;
+      text-align: left;
+      font: inherit;
+      font-size: .84rem;
+    }
+
+    article { min-width: 0; padding: clamp(18px, 3vw, 30px); }
+
+    .preview-note {
+      margin: 0 0 20px;
+      border: 1px solid #735628;
+      border-radius: 10px;
+      background: var(--warning-bg);
+      color: var(--warning-ink);
+      padding: 11px 13px;
+      font-size: .76rem;
+      line-height: 1.5;
+    }
+
+    .diagnosis-heading {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      margin: 0 0 16px;
+      font-size: clamp(1.4rem, 3vw, 2rem);
+      letter-spacing: -.035em;
+    }
+
+    .number {
+      display: inline-grid;
+      width: 32px;
+      height: 32px;
+      flex: 0 0 auto;
+      place-items: center;
+      border-radius: 9px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-size: .73rem;
+    }
+
+    .domain-list {
+      margin: 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .domain-row {
+      display: grid;
+      grid-template-columns: minmax(150px, 28%) minmax(0, 1fr);
+      gap: 22px;
+      border-bottom: 1px solid var(--line);
+      padding: 16px 4px;
+    }
+
+    .domain-row dt {
+      margin: 0;
+      color: var(--accent);
+      font-size: .86rem;
+      font-weight: 720;
+      line-height: 1.45;
+    }
+
+    .domain-row dd {
+      margin: 0;
+      color: #d3dde3;
+      font-size: .84rem;
+      line-height: 1.7;
+    }
+
+    .references {
+      margin: 20px 0 0;
+      border: 1px solid #245a50;
+      border-radius: 10px;
+      background: var(--accent-soft);
+      color: #d9f8ef;
+      padding: 12px 14px;
+      font-size: .8rem;
+      line-height: 1.6;
+    }
+
+    .status {
+      margin: 14px 0 0;
+      font-size: .69rem;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 760px) {
+      header { position: static; }
+      main { grid-template-columns: minmax(0, 1fr); width: min(100% - 24px, 880px); margin-top: 14px; }
+      aside { position: static; }
+      .domain-row { grid-template-columns: minmax(0, 1fr); gap: 5px; padding: 13px 2px; }
+      .domain-row dt { font-size: .81rem; }
+      .domain-row dd { font-size: .82rem; }
+    }
+
+    @page { size: A4; margin: 15mm; }
+
+    @media print {
+      :root { color-scheme: light; --ink: #15212a; --muted: #455560; --line: #ccd5da; --accent: #126b5b; --accent-soft: #e7f4f0; --bg: #fff; }
+      body { background: #fff; color: var(--ink); print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+      header { position: static; padding: 0 0 10px; background: #fff; }
+      main { display: block; width: 100%; margin: 14px 0 0; }
+      aside { display: none; }
+      article { border: 0; border-radius: 0; box-shadow: none; padding: 0; background: #fff; }
+      .preview-note { background: #fff8e9; color: #584111; }
+      .domain-row { grid-template-columns: 28% minmax(0, 1fr); gap: 14px; break-inside: avoid; }
+      .domain-row dt { font-size: 10pt; }
+      .domain-row dd { color: #26343d; font-size: 9pt; line-height: 1.5; }
+      .references { background: #edf7f4; color: #173c34; }
+      .status { color: #455560; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Compêndio Pediátrico WB</h1>
+    <p class="subtitle">Prévia de reorganização • navegação por diagnóstico e tópicos em duas colunas</p>
+  </header>
+
+  <main>
+    <aside aria-label="Navegação por diagnóstico">
+      <p class="sidebar-label">Diagnósticos</p>
+      <label for="diagnosis-search" class="sidebar-label">Pesquisar</label>
+      <input id="diagnosis-search" type="search" value="Abscesso Dentário" aria-label="Pesquisar diagnóstico">
+      <button class="diagnosis-link" type="button" aria-current="page">Abscesso Dentário</button>
+    </aside>
+
+    <article aria-labelledby="diagnosis-title">
+      <p class="preview-note"><strong>Prévia local, não publicada.</strong> Este recorte demonstra somente a apresentação visual. O texto clínico abaixo foi transcrito da captura enviada e não foi revalidado; não usar como orientação clínica. A matriz completa de 25 domínios continua sendo avaliada, mas este recorte contém apenas os tópicos visíveis na fonte.</p>
+      <h2 class="diagnosis-heading" id="diagnosis-title"><span class="number" aria-hidden="true">1</span>Abscesso Dentário</h2>
+
+      <dl class="domain-list">
+        <div class="domain-row">
+          <dt>Avaliação e gravidade</dt>
+          <dd>Confirmar origem odontogênica; procurar cárie, flutuação, extensão facial e drenagem. Trismo progressivo, elevação do assoalho bucal, sialorreia, disfagia, estridor, toxicidade ou edema orbitário exigem emergência hospitalar e avaliação da via aérea. O tratamento definitivo é odontológico, com drenagem e tratamento/exodontia do dente causal. Antibiótico isolado não elimina esse foco.</dd>
+        </div>
+        <div class="domain-row">
+          <dt>Exames e tratamento</dt>
+          <dd>Radiografia odontológica quando modifica a intervenção; TC com contraste se houver suspeita de espaço profundo, sem atrasar estabilização. Abscesso localizado, drenável, em criança bem e sem extensão não implica antibiótico sistêmico. Quando houver celulite associada, febre ou disseminação: amoxicilina 22,5 mg/kg/dose VO a cada 12 horas, máximo 875 mg/dose, geralmente 5–7 dias, com reavaliação em 48 horas. Na suspensão 50 mg/mL: 0,45 mL/kg/dose, respeitado o teto. A falha exige reavaliar drenagem e foco antes de simplesmente ampliar espectro; amoxicilina/clavulanato pode ser escolhida em infecção polimicrobiana com falha comprovada, após conferir a proporção da apresentação.</dd>
+        </div>
+        <div class="domain-row">
+          <dt>Segurança e destino</dt>
+          <dd>Alergia imediata a betalactâmicos exige alternativa individualizada; clindamicina não é escolha automática por risco de colite. Ajustar betalactâmico na insuficiência renal. Manter analgesia do módulo comum, higiene oral e retorno imediato se houver dificuldade respiratória, deglutição comprometida ou progressão do edema.</dd>
+        </div>
+      </dl>
+
+      <p class="references"><strong>Fontes indicadas na captura:</strong> AAPD — antibioticoterapia odontológica; AAPD — medicamentos e doses.</p>
+      <p class="status">Prévia tipográfica para revisão do layout. O conteúdo integral do site e do PDF não foi alterado nesta etapa.</p>
+    </article>
+  </main>
+</body>
+</html>
