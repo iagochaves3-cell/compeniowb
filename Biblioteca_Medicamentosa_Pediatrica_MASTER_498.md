@@ -305,8 +305,8 @@ fornece um esquema de automedicação nesta indicação
 documental. [S1]
 Evitar particularmente em virose pelo risco de síndrome de Reye.
 MONITORIZAÇÃO E PRECAUÇÕES Monitorar sangramento, função renal, sintomas de salicilismo e
-Reye. Suspender em virose intercurrente e discutir alternativa antiagregante quando indispensável;
-ibuprofeno pode reduzir ação plaquetária.
+Reye. AAS não é antitérmico ou analgésico de rotina em crianças com virose. Se a criança já usa AAS como antiagregante prescrito e houver suspeita de influenza ou varicela, contate imediatamente a equipe assistente ou a cardiologia. Não interrompa nem substitua o medicamento por conta própria.
+Ibuprofeno pode reduzir ação plaquetária.
 INDICAÇÕES DO PDF-BASE (registro documental, p. 7)
 Artrite da febre reumática aguda; dor e febre (respeitar restrições; não usar como antitérmico pediátrico de
 rotina); doença de Kawasaki: fase inflamatória e antiagregação plaquetária (off-label).
