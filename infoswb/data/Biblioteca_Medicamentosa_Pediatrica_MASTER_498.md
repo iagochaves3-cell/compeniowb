@@ -12421,6 +12421,7 @@ FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S2] AEP/Pediamécum - itraconazol (aeped.es)
 [S3] SESA-PR - manejo de esporotricose (www 3.maringa.pr.gov.br)
 [S4] Guía-ABE 2025 - dermatofitoses pediátricas (guia-abe.es)
+[S5] NIH/CDC/PIDS - Histoplasmosis, pediatric OIs (clinicalinfo.hiv.gov)
 FICHA 260 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 272
 ```
@@ -22421,6 +22422,13 @@ anquilosante juvenil
 ≥12 anos na FDA (abr/2026)
 SC nas semanas 0,1,2,3,4; depois a cada 4 semanas: <50 kg 75
 mg/dose; ≥50 kg 150 mg/dose. [S2]
+Artrite relacionada à
+entesite (ERA)
+≥4 anos e ≥15 kg na FDA
+SC nas semanas 0,1,2,3,4; depois a cada 4 semanas: 15-<50 kg 75
+mg/dose; ≥50 kg 150 mg/dose. Abaixo de 15 kg: sem dose
+declarada. [S2]
+nr-axSpA: aprovada só em adultos (FDA).
 Ampliação internacional; confirmar correspondência da bula
 brasileira.
 MONITORIZAÇÃO E PRECAUÇÕES Rastrear TB e candidíase; pode agravar doença inflamatória
