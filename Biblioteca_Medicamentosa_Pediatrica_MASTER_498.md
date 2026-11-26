@@ -23352,42 +23352,26 @@ FICHA 485 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 486. Ciclesonida
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Asma persistente -
-manutenção
-4-11 anos na bula BRA
-lvesco
-80-160 mcg por inalação oral a cada 24 h; máximo 160 mcg/dia. Uso
-contínuo, reduzindo à menor dose que controle a asma. [S1]
-Bula BR aberta permite ≥4 anos; original cita 6/12.
-Asma persistente -
-adolescente
-≥12 anos
-80-640 mcg/dia por inalação oral. Usual leve 160 mcg/dia; moderada
-160-320 mcg/dia; grave 320-640 mcg/dia, em 1 tomada OU 320 mcg
-a cada 12 h. Máximo 640 mcg/dia; contínuo. [S1]
-Rinite alérgica
-sazonal/perene
-Sazonal ≥6 anos;
-perene ≥12 anos
-conforme bula BR
-100 mcg por narina a cada 24 h (=2 jatos de 50 mcg em cada
-narina; total 200 mcg/dia). Máximo 200 mcg/dia; manter pelo
-período sintomático, reavaliando resposta. [S2]
-Idade ≥2 anos do original não confirmada nesta bula; ensaio em 2-5
-anos não equivale a aprovação.
-MONITORIZAÇÃO E PRECAUÇÕES Inalador oral e spray nasal não são intercambiáveis. Não serve
-para crise asmática; monitorar crescimento, candidíase e eixo adrenal em doses altas. Enxaguar boca
-após inalação.
+BRASIL • SITUAÇÃO REGULATÓRIA • NÃO USAR COMO POSOLOGIA VIGENTE
+A lista de referências excluídas da Anvisa identifica o cancelamento do Alvesco Takeda, registro 106390230 (80 e 160 mcg/dose), e do Omnaris Moksha8, registro 164250005 (50 mcg/dose). A Moksha8 informa que a Anvisa deferiu o cancelamento em 29/12/2023. Registro de preço ou bula antiga não confirma registro ativo, disponibilidade comercial ou indicação atual. [S1][S2][S3]
+No extrato oficial de medicamentos de 20/11/2026, os registros localizados por princípio ativo também constavam inativos, incluindo as linhagens Omnaris Takeda 106390251, Omnaris AstraZeneca 116180265, genérico Multilab 118190148 e Ciclene Multilab 118190150. A checagem é datada: consultar o registro exato antes de qualquer uso. Nenhum esquema brasileiro foi liberado para prescrição ou cálculo. [S3]
+INALAÇÃO ORAL • ALVESCO • CONTROLE DA ASMA, NÃO RESGATE
+A nota brasileira de 2013 descrevia a apresentação pressurizada de 80 e 160 mcg/dose e uso de manutenção a partir de 4 anos no registro então vigente; não é autorização atual. Nos rótulos dos EUA e do Reino Unido consultados, a indicação de manutenção começa aos 12 anos. A potência indicada para o dispositivo britânico é a dose emitida no bocal, não a massa medida na válvula; não converter entre dispositivos sem a bula do produto. [S4][S5][S6]
+VIA INTRANASAL • OMNARIS • REFERÊNCIA REGULATÓRIA DOS EUA
+No rótulo norte-americano, a suspensão nasal entrega 50 mcg/jato após preparo da bomba. A indicação é rinite alérgica sazonal a partir de 6 anos e perene a partir de 12 anos nos EUA. Essas idades não são de bula brasileira vigente; a inclusão de crianças menores em estudos não equivale a indicação autorizada. Não confundir jato nasal com acionamento no bocal do inalador oral. [S7]
+MONITORIZAÇÃO E PRECAUÇÕES
+Seguir a técnica do produto e a via. Para inalação oral, enxaguar a boca após uso, sem engolir a água; monitorar candidíase, crescimento e efeitos sistêmicos de corticosteroides conforme exposição. Para spray nasal, observar epistaxe e lesões locais e evitar direcionar ao septo. Não usar ciclesonida para tratar broncoespasmo agudo. Nenhuma calculadora habilitada. [S5][S6][S7]
 INDICAÇÕES DO PDF-BASE (registro documental, p. 60)
-Manutenção e controle da asma persistente (a partir de 6/12 anos); tratamento da rinite alérgica (a partir
-de 2 anos).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] ALVESCO Bula Profissional (uploads.consultaremedios.com.br)
-[S2] Omnaris - bula profissional brasileira (uploads.consultaremedios.com.br)
-FICHA 486 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+Manutenção da asma e tratamento de rinite, com limiares divergentes entre fontes. As idades do PDF não são critérios atuais de uso no Brasil.
+FONTES DO ESQUEMA • CONSULTA EM 26/11/2026
+[S1] Anvisa, Lista A de referências excluídas, linhas Alvesco e Omnaris https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia/arquivos/lista-a-excluidos-05022025.pdf/@@download/file
+[S2] Moksha8, comunicado de cancelamento de Omnaris https://cms.m8pharmaceuticals.com/system/uploads/fae/file/asset/61/Jan.2024_Comunicado_Omnaris.pdf
+[S3] Anvisa, diretório oficial de extratos de registro de medicamentos https://dados.anvisa.gov.br/dados/CONSULTAS/PRODUTOS/
+[S4] Ministério da Saúde, nota técnica histórica sobre ciclesonida, 2013 https://www.gov.br/saude/pt-br/composicao/conjur/demandas-judiciais/notas-tecnicas/notas-tecnicas-medicamentos/c/ciclesonida-atualizada-em-02-12-2013.pdf
+[S5] Alvesco, Reino Unido, SmPC, atualização de 05/10/2026 https://www.medicines.org.uk/emc/product/13891/smpc
+[S6] Alvesco, Estados Unidos, rótulo profissional e instruções do paciente https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468&type=pdf
+[S7] Omnaris, Estados Unidos, rótulo profissional e instruções do paciente https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=15fefd46-ac7e-40d0-b635-e6c3d653c666
+FICHA 486 / 498 • REFERÊNCIAS CLICÁVEIS • 26/11/2026
 498
 ```
 
