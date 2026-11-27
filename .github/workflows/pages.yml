@@ -48,6 +48,9 @@ jobs:
         with:
           name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
           path: .
+      # The Pages API can take a moment to list a newly uploaded artifact.
+      - name: Aguardar a disponibilidade do artefato no Pages
+        run: sleep 30
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
