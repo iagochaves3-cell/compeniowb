@@ -5941,78 +5941,37 @@ FICHA 126 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 
 ```text
 127. Clonidina
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Hipertensão arterial
-Pediatria - off-label;
-indicação adulta no
-original
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-ADMINISTRAR VO 2,5-5 mcg/kg/dose a cada 12 horas OU 1,67-3,3
-mcg/kg/dose a cada 8 horas; titular lentamente até 6,25 mcg/kg/dose a
-cada 6 horas. Tetos da referência: 900 mcg/dia em crianças, 1.200
-mcg/dia em adolescentes. Tratamento contínuo. [S1]
-Faixas altas exigem equipe especializada.
-Tiques/Tourette; TDAH
-associado a tiques
-Crianças/adolescentes -
-off-label
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-INICIAR 25 mcg VO à noite; aumentar a dose diária em 25 mcg a cada 1-2
-semanas, dividindo em 2-3 tomadas com maior fração noturna. Doses
->200-300 mcg/dia requerem atenção especial à sedação. Reavaliar
-eficácia em 4-6 semanas e, estável, a cada 6 meses. [S2]
-Protocolo de titulação lenta para tiques; teto e ritmo diferem dos
-esquemas específicos de TDAH.
-Desmame/abstinência
-de opioides e
-sedativos
-≥1 mês; UTI pediátrica
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-VO ou EV: 1-12 meses, 0,5-2 mcg/kg/dose a cada 6 horas; 1-18 anos, 1-2
-mcg/kg/dose a cada 6 horas, máximo 200 mcg/dose. Pode titular até 5
-mcg/kg/dose a cada 6 horas, máximo 200 mcg/dose, sob equipe de
-dor/UTI. [S3]
-Monitorar WAT-1, PA e FC. EV: diluir em SF 0,9% até ≤30 mcg/mL, infundir
-em 10-15 minutos. Duração e desmame conforme exposição prévia e
-abstinência.
-TDAH - formulação de
-liberação prolongada
-6-17 anos; formulação
-específica
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-VO: iniciar 100 mcg ao deitar por 1 semana; aumentar a dose diária em
-100 mcg por semana. Esquemas manhã/noite: total 200 mcg/dia =
-100/100 mcg; 300 mcg/dia = 100/200 mcg; 400 mcg/dia = 200/200 mcg.
-Máximo 400 mcg/dia. Tratamento contínuo com revisão de eficácia. [S4]
-Não substituir mg por mg pela liberação imediata. Desmame em reduções
-de até 100 mcg a cada 3-7 dias.
-TDAH / tiques -
-alternativa com
-liberação imediata
-6-18 anos; off-label
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-VO: iniciar 25-50 mcg à noite; aumentar 25-50 mcg da dose diária a cada
-3 dias conforme resposta, até 300 mcg/dia em 2-3 tomadas. [S3]
-Alternativa PCH mais rápida que protocolo Nottingham; escolher um
-protocolo e vigiar PA/FC.
-MONITORIZAÇÃO E PRECAUÇÕES Monitorar bradicardia/hipotensão; retirada abrupta causa hipertensão
-rebote. Desmamar por ≥1 semana; em tiques, reduzir 25 mcg a cada 2-4 dias quando compatível com dose.
-INDICAÇÕES DO PDF-BASE (registro documental, p. 21)
-Hipertensão arterial (uso adulto); TDAH, tiques/Tourette, abstinência de opioides e sedativos em UTI pediátrica
-(off-label).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] IWK - clonidine, Pediatric Drug Dosing Guidelines (dir.iwk.nshealth.ca)
-[S2] NHS Nottinghamshire - clonidine in tic disorders 2025 (nottsapc.nhs.uk)
-[S3] Perth Children’s Hospital - clonidine, monografia pediátrica (pch.health.wa.gov.au)
-[S4] FDA/DailyMed - Kapvay, liberação prolongada (dailymed.nlm.nih.gov)
-FICHA 127 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+REVISÃO DOCUMENTAL • SEM CÁLCULO AUTOMÁTICO
+Apresentações brasileiras: manter separados sal, base, via e formulação.
+
+Atensina (Mawdsleys), registro 1.5832.0003: comprimidos orais de 0,100 mg ou 0,150 mg de cloridrato, 30 unidades. A VP de 25/11/2025, consultada em espelho do PDF, descreve uso adulto para hipertensão e não recomenda uso em crianças e adolescentes. Nesse rótulo, as massas de clonidina base são, respectivamente, 0,086 mg e 0,129 mg. O Voto da Anvisa confirma a transferência e as duas apresentações; não sustenta incluir o antigo comprimido de 0,20 mg sob esse registro. A VPS desse mesmo expediente não foi autenticada diretamente. [S1, S2]
+Clonidin (Cristália), registro 1.0298.0193: solução injetável de 150 mcg/mL de cloridrato, ampola de 1 mL, equivalente a 129,482 mcg de clonidina base por mL. A VP e a VPS do fabricante, aprovadas em 13/05/2026, identificam uso adulto restrito a estabelecimentos de saúde e vias intratecal, epidural, intramuscular e intravenosa. Analgesia, adjuvância a anestésicos e pré-anestesia são contextos próprios; a lista de vias não permite intercâmbio entre seus regimes, uso enteral, BIC pediátrica ou extrapolação para neonato. [S3, S4]
+Genérico Newcom, registro 1.1011.0021: transferência documentada pela RE 1.693/2026, incluindo 150 mcg/mL, caixa com 25 ampolas de 1 mL, vias IM/IV/epidural/intratecal, apresentação 1.1011.0021.001-5. O recorte Anvisa identifica expediente de 20/07/2026; sem autenticação das duas bulas desse expediente, não herdar dados do antigo titular nem liberar instruções desse produto. [S5]
+
+INDICAÇÕES PEDIÁTRICAS • FONTES E CONTEXTOS DISTINTOS
+Hipertensão arterial: em crianças e adolescentes, uso distinto da bula brasileira de Atensina. A Diretriz Brasileira de HA 2025 prioriza IECA, BRA, bloqueador de canais de cálcio de ação prolongada ou diurético tiazídico quando a indicação de início farmacológico está presente. O esquema oral do IWK é referência institucional especializada, não primeira linha nem esquema de emergência hipertensiva. No IWK: 2,5–5 mcg/kg por dose a cada 12 h ou 1,67–3,3 mcg/kg por dose a cada 8 h, com titulação gradual; o maior regime descrito, 6,25 mcg/kg a cada 6 h, corresponde a 25 mcg/kg/dia antes do limite. Os tetos da mesma fonte são 900 mcg por 24 h em crianças e 1.200 mcg por 24 h em adolescentes/adultos; não usar como tetos brasileiros universais. [S2, S6, S7]
+Tiques/Tourette, inclusive com TDAH associado: o protocolo Nottinghamshire é off-label e de início especializado. Descreve 25 mcg à noite e incrementos de 25 mcg a cada uma a duas semanas pela resposta e tolerância; doses acima de 200–300 mcg/dia podem causar sedação. O serviço dispõe de comprimido específico de 25 mcg e solução própria; isso não presume fracionamento preciso ou solução comercial brasileira. [S8]
+Desmame de opioides/benzodiazepínicos: o protocolo australiano de Perth diferencia 1–12 meses e 1–18 anos. Não resolver automaticamente a fronteira de 12 meses/1 ano. No grupo de 1–12 meses, descreve 0,5–2 mcg/kg por dose a cada 6 h; no de 1–18 anos, 1–2 mcg/kg por dose a cada 6 h, teto de 200 mcg por dose na tabela do segundo grupo. A titulação maior descrita é decisão da equipe de dor/UTI, sem ser dose inicial. A preparação IV lenta daquele serviço não autoriza uso em bomba contínua nem uso pediátrico de uma ampola brasileira pela bula. PANDEM separa abstinência de opioides/benzodiazepínicos, para a qual recomenda WAT-1 ou Sophia, da abstinência de agonista alfa-2: observar também sinais como hipertensão ou taquicardia sem outra explicação. Não há escala isolada validada ali para abstinência de agonista alfa-2. [S9, S10]
+TDAH com liberação prolongada: a documentação FDA/DailyMed se refere ao comprimido de liberação prolongada dos EUA em 6–17 anos; não autoriza Atensina no Brasil. Não trocar mg por mg com liberação imediata, nem partir, mastigar ou triturar o comprimido de liberação prolongada. Não confundir com produtos de outra formulação. [S11, S12]
+TDAH/tiques com formulação oral de liberação imediata: Perth descreve, para 6–18 anos, início noturno de 25–50 mcg, com incrementos de 25–50 mcg na dose diária a cada 3 dias, conforme resposta, até 300 mcg/dia divididos. Não combinar a titulação desse protocolo com a de Nottinghamshire nem com a de liberação prolongada. Uso off-label frente à bula brasileira citada; exige produto, mensuração e monitorização definidos. [S2, S8, S9]
+
+SEGURANÇA
+Conferir PA, frequência cardíaca, sedação, função renal e interações, em especial com fármacos que reduzem frequência cardíaca, condução ou aumentam sedação. Não interromper abruptamente; o plano depende da formulação, exposição e indicação. Para Clonidin, conferir no rótulo as contraindicações específicas, incluindo restrições de via epidural, doença do nó sinusal/bloqueio AV e bradicardia. Não converter mg de base em mg de sal por arredondamento: conferir a unidade e a massa declaradas no rótulo. [S2, S3, S4, S8, S9, S12]
+
+REFERÊNCIAS
+[S1] Anvisa — transferência de Atensina e apresentações, Voto CD31/2023 https://www.gov.br/anvisa/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria/votos-dos-circuitos-deliberativos-1/2023/cd-31-2023-voto.pdf/%40%40display-file/file
+[S2] Mawdsleys — VP Atensina de 25/11/2025, PDF em espelho https://storage.googleapis.com/retailon-publico/inteliger/bulas/Bulas_Tarja_Verm/ATENSINA_158320003_paciente.pdf
+[S3] Cristália — Clonidin, VPS de 13/05/2026 https://www.cristalia.com.br/produto/66/bula-profissional
+[S4] Cristália — Clonidin, VP de 13/05/2026 https://www.cristalia.com.br/produto/66/bula-paciente
+[S5] Anvisa — RE 1.693/2026, transferência de titularidade https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&codTipo=&cod_menu=8499&cod_modulo=293&desItem=&desItemFim=&link=S&numeroAto=00001693&orgao=RE%2FGGMED%2FANVISA%2FMS&seqAto=000&tipo=RES&valorAno=2026
+[S6] SBC/SBN/SBH — Diretriz Brasileira de Hipertensão Arterial 2025, cap. 9.2 https://abccardiol.org/article/diretriz-brasileira-de-hipertensao-arterial-2025/
+[S7] IWK Health — clonidina, seção pediátrica Hipertensão, atualização 14/10/2025 https://www.dir.iwk.nshealth.ca/Home/DDGDetails/ab10baf4-138d-e911-80f2-005056b200d2?PatientPopulation=Ped
+[S8] Nottinghamshire APC — tiques, V2.0, março de 2025 https://www.nottsapc.nhs.uk/media/222jf3pa/clonidine-in-tic-disorders.pdf
+[S9] Perth Children’s Hospital — Clonidine, Medication Management Manual https://pch.health.wa.gov.au/~/media/Files/Hospitals/PCH/General-documents/Health-professionals/MedicationMonographs/Clonidine.pdf
+[S10] SCCM — PANDEM, sedação e síndrome de abstinência iatrogênica https://www.sccm.org/clinical-resources/guidelines/guidelines/pandem-guidelines-for-infants-and-children
+[S11] FDA — Kapvay pediátrico, rotulagem de liberação prolongada https://www.accessdata.fda.gov/scripts/sda/sdDetailNavigation.cfm?id=14CE0322593A1B7DE053564DA8C071F2&rownum=456&sd=labelingdatabase
+[S12] DailyMed — Clonidine hydrochloride extended-release tablets, §§2, 5, 8.4, 14, outubro de 2026 https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?audience=professional&setid=95b390cc-0578-4cb0-9c08-4853388b2ec9
+FICHA 127 / 498 • ATUALIZAÇÃO DOCUMENTAL 27/11/2026
 139
 ```
 
