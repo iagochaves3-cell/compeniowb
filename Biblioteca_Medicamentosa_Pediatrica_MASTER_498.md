@@ -5649,33 +5649,25 @@ FICHA 117 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 
 ```text
 118. Cisatracúrio
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Bloqueio
-neuromuscular para
-intubação
-2-12 anos; >12 anos
-ADMINISTRAR EV: 2-12 anos, 0,1 mg/kg; >12 anos, 0,15-0,2 mg/kg.
-Reforço: 0,03 mg/kg conforme recuperação do bloqueio; em >12
-anos, habitualmente após 40-65 minutos. Duração limitada ao
-procedimento. [S1]
-Bloqueio
-neuromuscular
-durante ventilação
-mecânica em UTI
->2 anos
-INFUNDIR EV 1-4 mcg/kg/min, titulando à resposta de estimulação
-nervosa periférica e ao objetivo ventilatório; reavaliar
-continuamente a necessidade e suspender tão logo possível. [S1]
-MONITORIZAÇÃO E PRECAUÇÕES NÃO produz analgesia, sedação ou amnésia: assegurar ambas
-antes e durante a paralisia. Exige ventilação e monitorização contínuas; evitar administração
-inadvertida em paciente consciente.
-INDICAÇÕES DO PDF-BASE (registro documental, p. 20)
-Bloqueio neuromuscular para intubação e ventilação mecânica em UTI pediátrica (a partir de 2 anos).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] CHEO - Cisatracurium (outreach.cheo.on.ca)
-FICHA 118 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+APRESENTAÇÃO E IDENTIDADE • CIS® BRASIL
+CIS® (Cristália), registro 1.0298.0404: solução intravenosa sem conservante antimicrobiano, para um único paciente. A bula descreve ampolas de 5 mL e 10 mL com 2 mg/mL de cisatracúrio equivalente (2,68 mg/mL de besilato). Isso corresponde a 10 mg ou 20 mg de cisatracúrio equivalente por ampola. Não confundir a massa do sal, a força nominal por mL ou a massa total da ampola. Não substituir por atracúrio nem extrapolar a formulação estrangeira. Uso restrito a estabelecimentos de saúde. [S1] [S2] [S7]
+ANESTESIA PEDIÁTRICA • NÃO EXTRAPOLAR POR IDADE
+A bula profissional consultada traz indicação etária a partir de 2 anos e descreve bolus intravenoso de 0,1 mg/kg no contexto anestésico dos 2 aos 12 anos, com administração em 5 a 10 segundos. Esse é o tempo de injeção, não o início do bloqueio. O cabeçalho da bula do paciente diz acima de 2 anos; confirmar a versão aplicável no limite de 2 anos exatos. A descrição de eficácia em menores de 2 anos não equivale à indicação nessa faixa. A manutenção depende do anestésico e da monitorização; não aplicar automaticamente o reforço descrito no protocolo estrangeiro. Não tratar como agente de sequência rápida de intubação: a bula norte-americana de Nimbex desaconselha esse uso pelo tempo de início e não define a autorização brasileira. [S1] [S2] [S3] [S4]
+UTI • NÃO COPIAR A TABELA DE VAZÕES
+O esquema IV da seção de UTI da bula brasileira consultada é para adultos; a seção de infusão em crianças de 2 a 12 anos está no contexto de manutenção anestésica. A referência do CHEO para bloqueio durante ventilação em crianças é um protocolo institucional canadense, não uma faixa pediátrica de UTI validada para uso universal no Brasil. A tabela de UTI adulta da bula profissional R_0404_02-1 também diverge dimensionalmente do cabeçalho de 2 mg/mL: na linha de 100 kg e 1 mcg/kg/min, consta 1,2 mL/h, mas esses parâmetros correspondem matematicamente a 3 mL/h. Esse é um exemplo de conferência, não indicação, dose recomendada nem ajuste de prescrição. Não usar a tabela discrepante para programar bomba. Conferir concentração final, unidades, cálculo direto e reverso e protocolo local com a farmácia. [S1] [S3] [S6]
+MONITORIZAÇÃO E PRECAUÇÕES
+Bloqueador neuromuscular não despolarizante. Não produz sedação nem analgesia e pode paralisar a musculatura respiratória preservando a consciência. Assegurar profundidade de sedação e analgesia adequadas antes e durante o bloqueio; só usar com equipe treinada, suporte ventilatório e monitorização disponíveis. Na UTI pediátrica, a diretriz PANDEM sugere combinar avaliação clínica com teste de quatro estímulos (TOF) e usar a menor exposição eficaz. Verificar antecedente de hipersensibilidade ao cisatracúrio, ao atracúrio ou ao ácido benzenossulfônico. A bula relata incompatibilidade com cetorolaco e emulsão injetável de propofol; antagonismo farmacológico e compatibilidade de linha são questões distintas. Ficha de consulta, sem cálculo automático. [S1] [S2] [S5]
+INDICAÇÕES DO PDF-BASE • registro histórico
+A ficha de origem reunia intubação e bloqueio em UTI pediátrica com base em um protocolo estrangeiro. A revisão mantém a distinção clínica, mas não transporta para a bula brasileira as faixas de UTIP ou o reforço da fonte canadense.
+FONTES DO ESQUEMA • 27/11/2026
+[S1] Cristália, CIS® bula profissional, apresentação, §§ 4–8 e tabelas https://www.cristalia.com.br/produto/65/bula-profissional
+[S2] Cristália, CIS® bula do paciente, apresentação e dizeres legais https://www.cristalia.com.br/produto/65/bula-paciente
+[S3] CHEO, protocolo parenteral canadense, rev. dez/2020 https://outreach.cheo.on.ca/manual/1516
+[S4] FDA, Nimbex, indicações e limitação de sequência rápida https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/020551s028lbl.pdf
+[S5] SCCM, diretriz pediátrica PANDEM 2022, monitorização do bloqueio https://www.sccm.org/clinical-resources/guidelines/guidelines/pandem-guidelines-for-infants-and-children
+[S6] Burmester e Mok, ensaio comparativo em UTIP, 2005 https://pubmed.ncbi.nlm.nih.gov/15815895/
+[S7] Anvisa, dados abertos de registro e índice de bulas https://dados.anvisa.gov.br/dados/CONSULTAS/PRODUTOS/
+FICHA 118 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 130
 ```
 
