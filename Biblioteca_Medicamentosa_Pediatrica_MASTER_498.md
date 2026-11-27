@@ -5617,57 +5617,28 @@ FICHA 116 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 
 ```text
 117. Ciprofloxacino
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Exacerbação
-pulmonar da fibrose
-cística por
-Pseudomonas
-5-17 anos; demais
-idades sob
-infectologista
-ADMINISTRAR 15-20 mg/kg/dose VO a cada 12 horas (máximo 750
-mg/dose), ou 10 mg/kg/dose EV a cada 8 horas (máximo 400
-mg/dose), infundido em 60 minutos. Duração de 10-14 dias para
-exacerbação aguda por Pseudomonas. [S1, S3]
-Usar um esquema segundo gravidade, tolerância e resposta; ajustar
-à função renal.
-Infecções graves por
-Gram-negativos
-multirresistentes
-≥4 semanas - uso
-selecionado/off-label
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-ADMINISTRAR 20 mg/kg/dose VO a cada 12 horas (máximo 750
-mg/dose), ou 10 mg/kg/dose EV a cada 8 horas (máximo 400
-mg/dose). Para infecções menos graves: VO 10-15 mg/kg/dose a
-cada 12 horas, máximo 500 mg/dose; EV 10-15 mg/kg/dose a cada
-12 horas, máximo 400 mg/dose. Duração determinada pelo foco,
-controle da fonte e culturas. [S1]
-Via EV em 60 minutos; a categoria documental não define foco e
-portanto não admite um único número de dias.
-Otite externa -
-associação ciproflox
-acino/hidrocortisona
-≥1 ano
-INSTILAR 3 gotas da suspensão otológica ciprofloxacino 0,2% +
-hidrocortisona 1% no ouvido afetado a cada 12 horas, por 7 dias.
-[S2]
-Não usar se perfuração timpânica conhecida/suspeita. Não confundir
-com formulação oftálmica ou associação com dexametasona.
-MONITORIZAÇÃO E PRECAUÇÕES Ajustar intervalo se TFG <30 mL/min/1,73 m². Separar VO de
-ferro/cálcio/antiácidos; monitorar QT, tendões, neuropatia e função renal.
-INDICAÇÕES DO PDF-BASE (registro documental, p. 19)
-Exacerbação pulmonar por *Pseudomonas* na fibrose cística (5-17 anos); otite externa (com hidrocortisona,
-a partir de 1 ano); infecções sistêmicas graves por Gram-negativos multirresistentes em pediatria
-(off-label).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Perth Children’s Hospital - ChAMP, Ciprofloxacin (pch.health.wa.gov.au)
-[S2] DailyMed - Cipro HC Otic (dailymed.nlm.nih.gov)
-[S3] Bayer - Cipro, bula brasileira (consultaremedios.com.br)
-FICHA 117 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+FIBROSE CÍSTICA • VIA ORAL
+O comprimido revestido de cloridrato de ciprofloxacino Eurofarma 500 mg, registro 1.0043.1185, expressa a quantidade em ciprofloxacino equivalente, não em massa do sal. A bula brasileira descreve, na exacerbação pulmonar aguda por Pseudomonas aeruginosa dos 5 aos 17 anos, 20 mg/kg por tomada, duas tomadas diárias, máximo diário de 1.500 mg, por 10–14 dias. O teto diário corresponde a 750 mg por tomada se ambas forem iguais. O comprimido disponível não garante que toda dose ponderal possa ser medida com precisão. Não substituir por XR, suspensão ou outra apresentação sem rever a bula correspondente. [S1] [S2]
+FIBROSE CÍSTICA • VIA INTRAVENOSA
+Eurofarma 1.0043.1427: solução pronta de ciprofloxacino 2 mg/mL para infusão intravenosa, 100 mL = 200 mg e 200 mL = 400 mg; não é ampola concentrada. A bula profissional traz infusão de pelo menos 60 minutos, mas há diferença interna de escopo: o cabeçalho identifica uso adulto e as seções de indicação e posologia descrevem o cenário pediátrico de fibrose cística, 5–17 anos. Conferir a apresentação e a versão no Bulário e com a farmácia antes de operacionalizar esse esquema. O regime IV não pode ser inferido da dose oral nem aplicado a outras idades. [S3] [S4]
+OTITE EXTERNA • ASSOCIAÇÃO OTOLÓGICA
+Otociriax, Farmoquímica, registro 1.0390.0142: suspensão otológica de 5 mL com conta-gotas. Por mL: 2,33 mg do cloridrato, equivalentes a 2 mg de ciprofloxacino, mais 10 mg de hidrocortisona. A bula do paciente brasileira informa três gotas na orelha afetada, duas vezes ao dia, por sete dias, para otite externa bacteriana aguda em pacientes maiores de um ano. No limite de um ano exato, não presumir inclusão; abaixo de um ano o uso é contraindicado. Não usar com perfuração timpânica confirmada ou suspeita, nem para otite média. Agitar e usar o gotejador original; 34 gotas/mL é fator desta apresentação, não de outros produtos. Não substituir por colírio, monofármaco otológico ou outra associação. [S5]
+OUTROS CENÁRIOS • NÃO EXTRAPOLAR
+O protocolo do Perth Children’s Hospital descreve usos pediátricos selecionados em contexto australiano; não equivale à autorização brasileira. Referência estrangeira de infecção urinária complicada não é indicação pediátrica brasileira nem primeira linha por padrão. Em possível infecção multirresistente, foco, cultura, susceptibilidade e avaliação especializada orientam a escolha; não usar uma dose genérica derivada apenas da gravidade. [S1] [S6] [S7]
+MONITORIZAÇÃO E PRECAUÇÕES
+Para uso sistêmico, verificar alergia a quinolonas, associação contraindicada com tizanidina, risco de QT prolongado e efeitos tendíneos ou neurológicos. Cátions como ferro, magnésio e cálcio podem interferir na absorção oral; conferir o intervalo indicado na bula da apresentação. Não programar ajuste pediátrico a partir de tabelas de função renal de adultos: a bula oral não estudou doses em crianças com disfunção renal/hepática. Para a forma otológica, considerar as contraindicações e excipientes específicos, incluindo derivado de soja. Esta ficha é documental, sem cálculo automático. A consulta ao cadastro não comprova disponibilidade comercial. [S1] [S2] [S3] [S5] [S8]
+INDICAÇÕES DO PDF-BASE • registro histórico
+A ficha de origem reunia fibrose cística, associação para otite externa e uso especializado em Gram-negativos resistentes. A revisão separa produto, via e jurisdição e não mantém as faixas genéricas como prescrições.
+FONTES DO ESQUEMA • 27/11/2026
+[S1] Eurofarma, cloridrato de ciprofloxacino VO, bula profissional https://eurofarma.com.br/produtos/bulas/healthcare/pt/bula-cloridrato-de-ciprofloxacino.pdf
+[S2] Eurofarma, cloridrato de ciprofloxacino VO, bula do paciente https://eurofarma.com.br/produtos/bulas/patient/pt/bula-cloridrato-de-ciprofloxacino.pdf
+[S3] Eurofarma, ciprofloxacino IV, bula profissional https://eurofarma.com.br/produtos/bulas/view/healthcare/pt/bula-ciprofloxacino.html
+[S4] Eurofarma, ciprofloxacino IV, bula do paciente https://eurofarma.com.br/produtos/bulas/view/patient/pt/bula-ciprofloxacino.html
+[S5] Farmoquímica, Otociriax, bula do paciente AR050825 https://www.fqmgrupo.com.br/fqmfarma/userfiles/products/17915685206ac92a88ae678.pdf
+[S6] Perth Children's Hospital, ChAMP pediátrico https://www.healthywa.health.wa.gov.au/-/media/Files/Hospitals/PCH/General-documents/Health-professionals/ChAMP-Monographs/Ciprofloxacin.pdf
+[S7] DailyMed, Cipro oral/suspensão, EUA https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=888dc7f9-ad9c-4c00-8d50-8ddfd9bd27c0
+[S8] Anvisa, dados abertos de situação de produtos https://dados.anvisa.gov.br/dados/CONSULTAS/PRODUTOS/
+FICHA 117 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 129
 ```
 
