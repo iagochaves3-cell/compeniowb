@@ -5936,36 +5936,30 @@ FICHA 125 / 498 • REVISÃO DOCUMENTAL • 27/11/2026
 
 ```text
 126. Clonazepam
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Epilepsias
-mioclônicas;
-ausências atípicas;
-espasmos infantis
-como segunda linha
-Até 10 anos ou ≤30 kg
-INICIAR VO 0,01-0,03 mg/kg/DIA, divididos em 2-3 tomadas; dose
-inicial nunca >0,05 mg/kg/dia. Aumentar a dose diária em 0,25-0,5
-mg a cada 3 dias, conforme resposta, até manutenção de 0,1-0,2
-mg/kg/dia. Uso contínuo. [S1]
-Não é primeira linha universal para espasmos infantis; reavaliar
-eficácia e sedação.
-Mesmas indicações
-epilépticas
-10-16 anos
-INICIAR 1-1,5 mg/DIA VO divididos em 2-3 tomadas. Incrementos de
-0,25-0,5 mg na dose diária a cada 3 dias; manutenção usual 3-6
-mg/dia. Após estabilização, a bula admite dose única noturna. [S1]
-Não somar com o esquema ponderal; individualizar e usar menor
-dose eficaz.
-MONITORIZAÇÃO E PRECAUÇÕES Não interromper abruptamente. Monitorar sedação, secreções,
-deglutição e ventilação; interação com opioides e outros anticonvulsivantes.
-INDICAÇÕES DO PDF-BASE (registro documental, p. 20)
-Tratamento de crises epilépticas mioclônicas, ausências atípicas e espasmos infantis (segunda linha).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Geolab - clonazepam, bula profissional (geolab.com.br)
-FICHA 126 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+CONSULTA CLÍNICA E REGULATÓRIA • SEM CÁLCULO AUTOMÁTICO
+
+BRASIL • APRESENTAÇÕES, UNIDADES E TITULARIDADE
+A RE 2.734/2026 publicou a transferência do Rivotril para Biopas Brasil, processo 25351.080320/2026-23, registro 1.8977.0015. O ato relaciona comprimidos de 2 mg (20 e 30), comprimido sublingual de 0,25 mg (30) e solução oral de 2,5 mg/mL (20 mL). Não confundir comprimidos orais, comprimido sublingual e solução oral. A referência a 08/2026 no ato não comprova renovação, vigência atual nem estoque. O índice do Bulário de 19/11/2026 aponta o expediente 15237112026, mas as bulas paciente e profissional desse expediente não foram conferidas. Não aplicar à Biopas uma bula anterior de outro registro por identidade de marca. [S1–S2]
+Geolab, registro 1.5423.0330: nas seções de solução oral das cópias paciente e profissional do fabricante (20 mL), a concentração de 2,5 mg/mL e a informação de 25 gotas/mL resultam em 0,1 mg por gota para aquele gotejador. Não extrapolar esse fator a outro produto nem arredondar automaticamente uma fração de gota. O mesmo PDF reúne seções de comprimidos; mg por comprimido, mg/mL e mg/gota não são intercambiáveis. O índice Geolab aponta expediente 8804992026 de 03/07/2026; as cópias do fabricante aqui lidas não foram autenticadas como o documento desse expediente. A farmácia e o prescritor devem conferir rótulo e bula vigente da apresentação real. [S3–S4]
+
+EPILEPSIA • DIFERENÇAS ENTRE PCDT E BULA
+O PCDT Epilepsia do Ministério da Saúde (anexo alterado em maio/2026) discute clonazepam para tipos específicos de crise, com destaque para mioclonias. A seção de solução oral traz esquema próprio para crianças de 2 a 12 anos, com frequência e escalonamento distintos da seção pediátrica da bula Geolab. Não fundir os dois esquemas, não aplicar o protocolo de 2–12 anos a neonatos e não extrapolar doses fixas de crianças maiores para lactentes. [S3, S5]
+A bula histórica Geolab distingue um esquema ponderal para recém-nascidos/crianças até 10 anos ou 30 kg e outro esquema fixo entre 10 e 16 anos. Há sobreposição na fronteira etária e quando peso e idade apontam para grupos diferentes. A fonte não permite uma escolha automática nesses cenários. Esta ficha não é orientação de resgate para crise em curso. [S3, S5]
+Em espasmos infantis, não apresentar clonazepam como primeira linha. O PCDT dá prioridade a corticosteroide ou vigabatrina conforme etiologia, com EEG e reavaliação; em esclerose tuberosa, destaca vigabatrina. Menção a clonazepam como segunda linha na bula Geolab é documental, não substitui o protocolo especializado. [S3, S5]
+
+MONITORIZAÇÃO E PRECAUÇÕES
+Monitorar sonolência, hipotonia, coordenação, secreções, deglutição e ventilação; a associação com opioides e outros depressores do sistema nervoso central pode aumentar sedação e depressão respiratória. Considerar tolerância e dependência; não suspender abruptamente e discutir retirada com quem acompanha a epilepsia. A existência de uma apresentação sublingual não é autorização para convertê-la em esquema de resgate ou para administração IV. [S1, S3–S5]
+
+INDICAÇÕES DO PDF-BASE • HISTÓRICO DOCUMENTAL
+O catálogo original reúne mioclonias, ausências atípicas e espasmos infantis e transcreve dois esquemas orais de manutenção/titulação. Preservado no histórico, não usado como posologia universal, prescrição copiável ou fonte de cálculo.
+
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] AnvisaLegis, RE 2.734/2026, DOU 13/07; transferência para Biopas https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=8499&cod_modulo=293&link=S&numeroAto=00002734&orgao=RE%2FGGMED%2FANVISA%2FMS&seqAto=000&tipo=RES&valorAno=2026
+[S2] Anvisa, dados abertos do Bulário em 19/11/2026, produtos 3970855 (Biopas) e 3310058 (Geolab), documentos 35785502 e 35265155 https://dados.anvisa.gov.br/dados/
+[S3] Geolab, bula profissional, seção solução oral pp. 20–34 e seção 8, versão do fabricante https://www.geolab.com.br/wp-content/uploads/2021/05/bula_1769016655804.pdf
+[S4] Geolab, bula paciente, seção solução oral pp. 10–17, versão do fabricante https://www.geolab.com.br/wp-content/uploads/2021/05/bula_paciente-10.pdf
+[S5] Ministério da Saúde, PCDT Epilepsia, anexo de 05/05/2026, seções clonazepam e espasmos infantis https://www.gov.br/saude/pt-br/assuntos/pcdt/e/epilepsia/view
+FICHA 126 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 138
 ```
 
