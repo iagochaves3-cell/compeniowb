@@ -5471,8 +5471,10 @@ DERMATITE ATÓPICA • LIMITAÇÃO PEDIÁTRICA
 A bula brasileira do Neoral não recomenda o uso pediátrico fora das indicações relacionadas a transplante, exceto na síndrome nefrótica. Dermatite atópica grave consta nas indicações gerais da bula e no PDF-base, mas sua posologia não deve ser apresentada como opção pediátrica da bula. Avaliação especializada se houver discussão fora da bula. [S1]
 MONITORIZAÇÃO E PRECAUÇÕES
 Aferir pressão arterial e função renal, acompanhar potássio, magnésio e níveis sanguíneos conforme indicação; revisar interações CYP3A4/P-gp, nefrotóxicos e apresentações antes de prescrever. Na síndrome nefrótica, a bula vincula a redução de dose à elevação persistente da creatinina em relação ao basal; não é uma regra universal para transplantados. Em indicação não relacionada a transplante, a bula restringe uso com hipertensão ou infecção não controladas, neoplasia ou disfunção renal, exceto na situação renal permissível descrita para síndrome nefrótica. [S1, S2, S3]
-VIA OFTÁLMICA • REFERÊNCIA ADULTA, NÃO PEDIÁTRICA
-Restasis 1.0147.0160 é emulsão oftálmica adulta, flaconete de 0,4 mL. A bula descreve 0,5 mg/mL; a Lista A registra 0,5 mg/g. Não converter massa em volume nem deduzir equivalência entre essas unidades. Segurança e eficácia pediátrica não estabelecidas; não aplicar aos produtos sistêmicos. [S4, S5, S8]
+VIA OFTÁLMICA • BRASIL: RESTASIS DE USO ADULTO
+Restasis 1.0147.0160 é emulsão oftálmica adulta, flaconete de 0,4 mL. A bula descreve 0,5 mg/mL; a Lista A registra 0,5 mg/g. Não converter massa em volume nem deduzir equivalência entre essas unidades. Segurança e eficácia pediátrica não estabelecidas para Restasis. [S4, S5, S8]
+VIA OFTÁLMICA • UNIÃO EUROPEIA: VERKAZIA
+Verkazia é uma emulsão oftálmica catiônica de ciclosporina 1 mg/mL. Na União Europeia, o produto é autorizado para ceratoconjuntivite vernal grave em crianças a partir de 4 anos e adolescentes. O ensaio VEKTIS estudou essa formulação em população pediátrica com doença grave. O produto é distinto de Restasis e das apresentações sistêmicas. Registro e disponibilidade no Brasil não confirmados; referência estrangeira, sem prescrição ou cálculo automático. [S11, S12]
 INDICAÇÕES DO PDF-BASE (registro documental, p. 19)
 Síndrome nefrótica corticodependente ou corticorresistente; imunossupressão em transplantes de órgãos e medula óssea; dermatite atópica grave. O PDF-base não resolve divergências de indicação, produto e preparo.
 FONTES DO ESQUEMA • CONSULTA EM 26/11/2026
@@ -5486,6 +5488,8 @@ FONTES DO ESQUEMA • CONSULTA EM 26/11/2026
 [S8] Allergan — bula profissional Restasis, fonte histórica do fabricante, CCDS V4.0 nov/2015. https://allergan-web-cdn-prod.azureedge.net/allerganbrazil/allerganbrazil/media/allergan-brazil/bula-para-o-profissional.pdf
 [S9] Novartis — Sandimmun Neoral cápsulas, bula do paciente BR. https://portal.novartis.com.br/medicamentos/wp-content/uploads/2022/08/Bula-SANDIMMUN-NEORAL-Capsula-Mole-Paciente.pdf
 [S10] Novartis — Sandimmun intravenoso, bula do paciente BR. https://portal.novartis.com.br/medicamentos/wp-content/uploads/2022/08/Bula-SANDIMMUN-Solucao-Injetavel-Paciente.pdf
+[S11] EMA — informação regulamentar de Verkazia, seções 1 a 4.4 e 5.1. https://www.ema.europa.eu/pt/documents/product-information/verkazia-epar-product-information_pt.pdf
+[S12] Leonardi et al. — ensaio VEKTIS, 2019. https://pubmed.ncbi.nlm.nih.gov/30593775/
 FICHA 113 / 498 • REFERÊNCIAS CLICÁVEIS • 26/11/2026
 125
 ```
