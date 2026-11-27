@@ -5746,50 +5746,36 @@ FICHA 120 / 498 • REVISÃO DOCUMENTAL • 27/11/2026
 
 ```text
 121. Clindamicina
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Infecções graves de
-pele/partes moles
-por MRSA sensível
-≥4 semanas
-ADMINISTRAR EV 15 mg/kg/dose a cada 8 horas, máximo 600
-mg/dose; alternativa VO 10 mg/kg/dose a cada 6 horas, máximo 450
-mg/dose. Celulite: total 5-10 dias, maior se
-necrosante/complicada. [S1, S2]
-Confirmar suscetibilidade, incluindo resistência induzível. Não somar
-alternativas.
-Osteomielite; artrite
-séptica
-≥4 semanas
-ADMINISTRAR EV 15 mg/kg/dose a cada 8 horas (máximo 600
-mg/dose); após melhora, VO 10 mg/kg/dose a cada 6 horas (máximo
-450 mg/dose). Em casos não complicados com boa resposta,
-tratamento total em torno de 3 semanas; prolongar por foco, agente
-ou complicações. [S1, S2]
-Drenar articulação/abscesso quando indicado; clindamicina não
-cobre Kingella de forma confiável.
-Infecções anaeróbias
-abdominais ou
-pulmonares
-≥4 semanas
-ADMINISTRAR EV 10 mg/kg/dose a cada 8 horas, máximo 450
-mg/dose; infecção grave, 15 mg/kg/dose a cada 8 horas, máximo
-600 mg/dose. VO usual 10 mg/kg/dose a cada 8 horas, máximo 450
-mg/dose. Duração até controle da fonte e resolução clínica;
-abscessos exigem curso individual prolongado. [S1]
-No abdome, associar cobertura de Gram-negativos. Categoria
-original ampla não define dias únicos.
-MONITORIZAÇÃO E PRECAUÇÕES Diluir EV até ≤18 mg/mL; infundir em 10-60 minutos, sem
-exceder 30 mg/min nem 20 mg/kg/h. Monitorar diarreia/C. difficile e hepatopatia.
+REVISÃO DOCUMENTAL • SEM CÁLCULO AUTOMÁTICO
+
+APRESENTAÇÕES BRASILEIRAS CONFERIDAS
+Hyclin (Hypofarma), registro de produto 1.0387.0036: solução injetável IV/IM em ampola de 4 mL, com 150 mg de clindamicina base/mL, equivalentes a 178,242 mg de fosfato/mL. A ampola contém 600 mg de base. Contém álcool benzílico; a bula consultada é para maiores de 1 mês, não para neonatos. Não ingerir a apresentação injetável. A bula descreve 20–40 mg/kg/dia IM ou IV em 3 ou 4 doses iguais nessa população. [S1, S2]
+Dalacin C (Pfizer), registro de produto 1.2110.0385: cápsula dura oral de 300 mg de clindamicina base (como cloridrato), embalagem de 16 cápsulas. A bula brasileira consultada é de uso adulto. Não presumir apresentação oral líquida brasileira nem transferir manipulação de cápsula de outro fabricante ou país. [S3]
+O índice Anvisa de 19/11/2026 vincula os produtos aos processos 250000358639734 e 25351098038201701, respectivamente. Essa identificação não comprova vigência individual de cada apresentação, disponibilidade comercial nem que os PDFs do fabricante correspondam ao último expediente do Bulário. [S7]
+
+INFUSÃO IV • NÃO ADMINISTRAR A SOLUÇÃO CONCENTRADA EM BOLUS
+Hyclin: diluir para concentração final não superior a 18 mg de base/mL; não ultrapassar 30 mg/min. O quadro da bula informa volumes de diluente, não uma ordem universal de volume final. Não confundir limite de diluição com estabilidade: os prazos tabulados para Hyclin no PDF são para 6 e 12 mg/mL nos diluentes especificados. [S1]
+O ChAMP é um protocolo pediátrico australiano, não a bula brasileira. Para infusão intermitente, apresenta janela de 10–60 min e exige respeitar o menor limite entre 30 mg/min e 20 mg/kg/h. A janela não autoriza ignorar qualquer dos limites: se o volume, tempo ou a vazão forem incompatíveis, confirmar o preparo com a farmácia. Não transferir a via ou o limite para protocolos neonatais ou para infusão contínua. [S4]
+
+INDICAÇÃO, AGENTE E POPULAÇÃO • NÃO SOMAR ESQUEMAS
+Pele e partes moles: clindamicina é opção em cenários selecionados e somente se houver suscetibilidade compatível; verificar resistência induzível quando indicada pelo antibiograma. Avaliar gravidade, controle de foco e epidemiologia local. Não universalizar dose e duração entre celulite simples, abscesso e infecção invasiva. [S1, S4, S5]
+Artrite bacteriana primária sem osteomielite: em crianças com melhora rápida e PCR em queda consistente ao fim da primeira semana, a PIDS/IDSA admite 10–14 dias de tratamento total em cenários definidos na diretriz; resposta lenta, foco não controlado e outros agentes podem exigir cursos mais longos. Clindamicina não é cobertura empírica confiável para Kingella kingae. [S5]
+Osteomielite hematogênica: a recomendação de 3–4 semanas de tratamento total é condicional, para quadro não complicado por S. aureus presumido ou confirmado com resposta inicial; complicações ou outros agentes exigem avaliação própria. Duração não é uma propriedade da clindamicina. [S6]
+Infecções anaeróbias abdominais ou pulmonares: selecionar pela suscetibilidade e sítio; em infecção intra-abdominal não presumir cobertura de Gram-negativos aeróbios, e determinar a duração pelo foco, drenagem e resposta. Não usar para meningite. Atenção à diarreia associada a C. difficile, à função hepática/renal em tratamento prolongado e à interação com bloqueadores neuromusculares. [S1, S4]
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 20)
-Infecções graves de pele e partes moles por Gram-positivos (incluindo MRSA), osteomielite, artrite séptica,
-infecções anaeróbias intra-abdominais e pulmonares.
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Perth Children’s Hospital - ChAMP, Clindamycin (pch.health.wa.gov.au)
-[S2] RCH - Antimicrobial guidelines (rch.org.au)
-FICHA 121 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
-133
+O acervo agrupava infecções graves de pele e partes moles por Gram-positivos, osteomielite, artrite séptica e infecções anaeróbias intra-abdominais e pulmonares. O agrupamento histórico não é um esquema único.
+
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] Hypofarma, Hyclin bula profissional https://hypofarma.com.br/wp-content/uploads/2022/07/1-0387-0036.pdf
+[S2] Hypofarma, Hyclin bula do paciente https://hypofarma.com.br/wp-content/uploads/2022/07/1-0387-0036_paciente.pdf
+[S3] Pfizer, Dalacin C cápsulas, bula profissional DLCCAP24 https://www.pfizer.com.br/files/Dalacin-C_Profissional_de_Saude_DLCCAP_24.pdf
+[S4] Perth Children's Hospital, ChAMP Clindamycin https://pch.health.wa.gov.au/-/media/Files/Hospitals/PCH/General-documents/Health-professionals/ChAMP-Monographs/Clindamycin.pdf
+[S5] PIDS/IDSA, artrite bacteriana aguda pediátrica https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/
+[S6] PIDS/IDSA, osteomielite hematogênica pediátrica https://www.idsociety.org/practice-guideline/bone-and-joint-infections---osteomyelitis/
+[S7] Anvisa, Bulário Eletrônico https://consultas.anvisa.gov.br/#/bulario/
+FICHA 121 / 498 • REVISÃO DOCUMENTAL • 27/11/2026
+132
 ```
 
 
