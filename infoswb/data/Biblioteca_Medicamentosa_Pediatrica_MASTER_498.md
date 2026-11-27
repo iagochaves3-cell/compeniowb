@@ -6082,56 +6082,29 @@ FICHA 128 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 
 ```text
 129. Clopidogrel
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Cardiopatias
-congênitas/circulação com shunt
-- antiagregação selecionada
-0-24 meses - off-label
-Regime farmacodinâmico estudado: 0,2 mg/kg/dose VO uma vez ao dia, sem ataque.
-Duração deve ser definida pela cardiologia segundo dispositivo e risco trombótico; estudo
-PICOLO avaliou efeito após 7-28 dias, não uma duração universal de tratamento.
-A inibição plaquetária demonstrada não prova prevenção de eventos em todas as
-cardiopatias; não usar como rotina automática.
-[S1]
-Stents e outros dispositivos em
-crianças maiores
-Crianças/adolescentes - off-label
-OMITIDO DA PRESCRIÇÃO
-AUTOMÁTICA
-Esquema omitido da prescrição automática.
-Cenário genérico de stents/dispositivos: sem regime universal seguro. Há evidência C
-histórica específica para flow diverter intracraniano: séries AJNR 2017 e SNI 2022 usaram
-clopidogrel 75 mg VO/dia em pacientes >45 kg, iniciado cinco dias antes. Associação com
-AAS e continuação após seis meses diferem entre séries; houve hiper-resposta plaquetária.
-Idades individuais por peso não recuperadas e consenso de 2026 sem íntegra: manter fora
-do seletor automático até definição individual pela neurointervenção. Não extrapolar para
-stents cardíacos, PICOLO, dose mg/kg ou fracionamento do comprimido.
-[S1, R1, R2, DELTA, F26, AJNR17, SNI22, NOVBR]
-Prevenção aterotrombótica
-Indicação adulta do original
-Não constitui indicação pediátrica habitual; sem esquema pediátrico padronizado.
-Preservação documental, sem extrapolação.
-[S1]
-MONITORIZAÇÃO E PRECAUÇÕES: Monitorar sangramento, hemograma e interações CYP 2C19; associação com AAS aumenta
-risco. Dose baixa de lactentes exige manipulação/concentração validada. Crianças maiores: separar dispositivos cardíacos de
-neurovasculares. Não há apresentação líquida brasileira confirmada nesta revisão; formulação magistral SEFH requer farmácia e
-validação local, sem autorização para preparo doméstico. Comprimido brasileiro consultado: 75 mg de clopidogrel base, não
-partir/abrir/mastigar. Rever AAS, anticoagulantes, AINEs e inibidores de CYP2C19 (incluindo omeprazol/esomeprazol).
-INDICAÇÕES DOCUMENTAIS: Prevenção de eventos aterotrombóticos em adultos; antiagregação após cirurgias de cardiopatias congênitas e stents em pediatria
-(off-label).
-FONTES • REVISÃO DIRIGIDA EM 14/09/2026
-[S1] PICOLO - ensaio primário de dose pediátrica de clopidogrel
-[R1] Finkelstein et al. Clopidogrel use in children. J Pediatr.147: 657–661
-[R2] University of Virginia — Clopidogrel for Platelet Inhibition in Pediatric Patients
-[DELTA] Consenso neurointervencionista pediátrico — íntegra não recuperada
-[F26] SEFH — suspensão magistral de clopidogrel 5 mg/mL; não estabelece regime por dispositivo
-[BR26] Dr. Reddy’s — clopidogrel, bula profissional brasileira
-[AJNR17] Barburoglu e Arat — flow diverters pediátricos; série histórica, AJNR 2017
-[SNI22] Santos-Franco et al. — flow diverters pediátricos, SNI 2022;13:522
-[NOVBR] Novartis — clopidogrel, bula profissional brasileira; comprimido inteiro de 75 mg base
-FICHA 129 / 498 • REFERÊNCIAS CLICÁVEIS • REV. 14/09/2026
+REFERÊNCIA DOCUMENTAL • SEM CÁLCULO AUTOMÁTICO
+
+APRESENTAÇÃO BRASILEIRA E UNIDADES
+Plavix, Sanofi Medley (1.8326.0370.001-7), consta no ato publicado no DOU em 15/04/2024 como comprimido revestido de 75 mg em embalagem de 28, processo 25351.411267/2019-98. Na bula do paciente de 01/07/2024, 97,875 mg de bissulfato equivalem a 75 mg de clopidogrel base por comprimido, de uso oral adulto. Não presumir fracionamento, disponibilidade atual, vigência de outro registro ou apresentação brasileira de 300 mg. O genérico Medley 75 mg/28 consta em página própria; conferir a bula exata de cada produto. [S1, S2, S3]
+
+EVIDÊNCIA PEDIÁTRICA POR CONTEXTO
+PICOLO avaliou a inibição da agregação plaquetária em crianças de até 24 meses. O efeito farmacodinâmico não comprova redução de trombose ou mortalidade e não define a duração da terapia. [S4]
+CLARINET randomizou 906 neonatos e lactentes com cardiopatia congênita cianótica e shunt sistêmico-pulmonar. Acrescentar clopidogrel à terapia convencional (que incluía AAS em 87,9%) não mostrou diferença significativa no desfecho clínico composto (19,1% contra 20,5%; p=0,43). Isso não sustenta a adição de rotina nesse cenário e não resolve a conduta em outros dispositivos. [S5]
+Na neurointervenção pediátrica, o consenso multissocietário de 2026 considera clopidogrel em situações selecionadas, com evidência nível C. Estente intracraniano, flow diverter e intervenções urgentes exigem plano individual da equipe especializada. Não transferir esse consenso para stent cardíaco, shunt ou AVC fora do contexto neurointervencionista. O tratamento pediátrico não decorre da indicação adulta de bula. [S2, S6]
+
+MONITORIZAÇÃO E PRECAUÇÕES
+Considerar contraindicação em sangramento patológico ativo, risco hemorrágico, procedimentos planejados e associação com AAS, anticoagulantes ou AINEs. Conferir interações por CYP2C19, incluindo omeprazol e esomeprazol, e individualizar monitorização com a equipe assistente. Suspensões de estudos ou de farmácia hospitalar não são apresentações comerciais equivalentes; concentração, veículo e estabilidade dependem da formulação específica. Não emitir volume ou orientar preparo doméstico. [S6, S7, S8]
+
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] Anvisa — DOU de 15/04/2024, p. 307, processo Plavix https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=15%2F04%2F2024&jornal=515&pagina=307
+[S2] Sanofi Medley — Plavix, bula do paciente histórica de 01/07/2024 https://www.sara.com.br/bula-do-paciente-plavix-75-mg-comprimido-revestido-com-28-medley-farmaceutica-ltda/7897595903440/pdf
+[S3] Medley — genérico de bissulfato de clopidogrel https://www.medley.com.br/medicamentos/cardiovascular/bissulfato-de-clopidogrel
+[S4] PICOLO — estudo farmacodinâmico pediátrico https://pubmed.ncbi.nlm.nih.gov/18195173/
+[S5] CLARINET — ensaio em lactentes com shunt sistêmico-pulmonar https://doi.org/10.1056/NEJMoa1114588
+[S6] ESMINT/ESNR/IPSO/SNIS/WFITN — consenso em neurointervenção pediátrica https://pubmed.ncbi.nlm.nih.gov/42276776/
+[S7] DailyMed — rótulo norte-americano, contraindicações e interações; não substitui bula brasileira https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e51d4bcc-01df-409d-9179-45e6536ac25b
+[S8] Dho e colaboradores — estudo de estabilidade farmacotécnica específico https://pubmed.ncbi.nlm.nih.gov/42143787/
+FICHA 129 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 141
 ```
 
