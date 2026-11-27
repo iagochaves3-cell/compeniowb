@@ -5649,44 +5649,32 @@ FICHA 118 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 
 ```text
 119. Citrato de Potássio
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Acidose tubular
-renal distal
-Crianças - nefrologia
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-CITRATO DE POTÁSSIO: referência brasileira descreve 4 mEq/kg/DIA
-VO, fracionados ao longo do dia e titulados para normalizar
-bicarbonato, potássio e calciúria. Tratamento prolongado,
-frequentemente vitalício. [S1]
-A dose total é de equivalentes alcalinos; a concentração da
-preparação deve estar expressa em mEq/mL. Fonte não fixa
-intervalo nem teto universal; fracionamento individualizado.
-Prevenção de
-nefrolitíase por
-hipocitratúria
-Crianças - off-label
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-Administrar inicialmente 1 mEq/kg/DIA VO, dividido em 2 tomadas a
-cada 12 horas. Titular pela citratúria e pH urinário; tratamento
-contínuo com reavaliação metabólica. [S2, S3]
-EAU fornece o fracionamento em 2 doses; UFG descreve faixa diária
-0,5-1 mEq/kg. Não há teto único sem conhecer função renal e
-composição.
-MONITORIZAÇÃO E PRECAUÇÕES Monitorar potássio, bicarbonato, creatinina, citratúria e pH;
-evitar em hipercalemia ou insuficiência renal que impeça excreção de potássio. Não confundir mg de
-citrato com mEq de potássio.
+ESQUEMAS POR INDICAÇÃO • POPULAÇÕES E FORMULAÇÕES NÃO INTERCAMBIÁVEIS
+LITOCIT® NO BRASIL • USO ADULTO. A bula brasileira Apsen VP/VPS de 08/12/2025, registro 1.0118.0128, contraindica este produto a menores de 18 anos. As referências pediátricas abaixo dizem respeito ao princípio ativo e ao manejo especializado, não autorizam o comprimido Litocit em crianças. Consulta documental; sem cálculo automático.
+INDICAÇÃO / POPULAÇÃO DOSE, INTERVALO E DURAÇÃO
+Apresentações da bula brasileira (via oral, liberação prolongada)
+• 5 mEq: 540 mg do sal monoidratado, 195 mg de potássio elementar por comprimido; caixa de 60.
+• 10 mEq: 1.080 mg do sal monoidratado, 390 mg de potássio elementar por comprimido; caixa de 60.
+• 15 mEq: 1.620 mg do sal monoidratado, 585 mg de potássio elementar por comprimido; caixas de 30 ou 60.
+Não partir nem mastigar. Não converter comprimido em solução oral ou dose em mL. Os mg do sal não são os mg de potássio; a equivalência em mEq é a declarada pelo produto. [S1]
+Hipocitratúria • esquema adulto do §8 da bula, não pediátrico
+A bula descreve dose inicial total de 30 mEq/dia quando a excreção urinária é >150 mg/dia e 60 mEq/dia quando <150 mg/dia. O número representa o total diário fracionado, não a dose de cada tomada. A bula recomenda evitar acima de 100 mEq/dia por falta de avaliação; não é meta de titulação. Exatamente 150 mg/dia não é definido nesses dois cortes. Titular com citrato e pH urinários na indicação e monitorar função renal e eletrólitos. [S1]
+Nefrolitíase cálcica com hipocitratúria • pediatria, nefrologia/urologia
+A EAU posiciona 1 mEq/kg/dia de partida repartido em duas doses; o protocolo de nefrologia pediátrica da UFG documenta 0,5–1 mEq/kg/dia para hipocitratúria idiopática. Não interpretar o total como mEq/kg por tomada; titulação e apresentação requerem avaliação especializada. A evidência pediátrica é limitada e não valida Litocit. [S2, S3, S4]
+Acidose tubular renal distal • pediatria, nefrologia
+ERKNet/ESPN recomenda alcalinização individualizada pelo perfil bioquímico, idade e risco de carga de potássio. Os 2–3 mEq/kg/dia iniciais descritos além da lactância referem-se ao total de álcalis, não a uma dose universal de citrato de potássio. Os 4 mEq/kg/dia de citrato da revisão brasileira histórica são referência distinta, não ponto de partida universal. Não aplicar essas faixas à hipocitratúria isolada, nem extrapolar para lactentes. Acompanhar bicarbonato, potássio, cloro, função renal e calciúria. [S5, S6]
+MONITORIZAÇÃO E PRECAUÇÕES
+Bula Litocit: hipercalemia/predisposição, insuficiência renal no limite especificado na bula, retenção ou obstrução gastrointestinal, úlcera e infecção urinária ativa são impedimentos relevantes. Rever outros aportes de potássio e medicamentos que o elevam (por exemplo, poupadores de potássio e bloqueadores do SRAA). Não extrapolar para soluções manipuladas, associações ou outras concentrações.
 INDICAÇÕES DO PDF-BASE (registro documental, p. 20)
-Acidose tubular renal distal e prevenção de litíase renal por hipocitratúria (uso adulto na bula; uso
-pediátrico especializado, off-label).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Jornal Brasileiro de Nefrologia/SBN - Acidose tubular renal em pediatria (bjnephrology.org)
-[S2] Universidade Federal de Goiás - Rotina em nefrologia pediátrica, distúrbios metabólicos (publica.ciar.ufg.br)
-[S3] EAU - Paediatric Urology, urinary stone disease (cn.patients.uroweb.org)
-FICHA 119 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+Acidose tubular renal distal e prevenção de litíase renal por hipocitratúria. O histórico pediátrico não é autorização de produto. A bula adulta contempla ATR com cálculos de cálcio, nefrolitíase por oxalato de cálcio com hipocitratúria e cálculos de ácido úrico com ou sem cálcio. [S1]
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] Apsen • Litocit, bulas vigentes VP/VPS, aprovação de 08/12/2025; selecionar o tipo de bula no fabricante. https://produtos.apsen.com.br/litocit
+[S2] EAU Paediatric Urology, março 2026 • seção de litíase urinária, p. 78, hipocitratúria. https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-Guidelines-on-Paediatric-Urology-2026.pdf
+[S3] UFG • Rotina da Nefrologia Pediátrica, distúrbios metabólicos. https://publica.ciar.ufg.br/ebooks/rotina-nefrologia-pediatrica/parte14.html
+[S4] Tekin et al. • Coorte retrospectiva pediátrica de litíase cálcica e hipocitratúria, J Urol 2002. https://pubmed.ncbi.nlm.nih.gov/12441986/
+[S5] ERKNet/ESPN • Recomendações práticas para ATR distal. https://doi.org/10.1093/ndt/gfab171
+[S6] Jornal Brasileiro de Nefrologia • Acidose Tubular Renal em Pediatria, revisão histórica. https://bjnephrology.org/wp-content/uploads/2019/08/jbn_v29n1a9.pdf
+FICHA 119 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 131
 ```
 
