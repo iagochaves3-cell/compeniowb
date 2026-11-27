@@ -5627,28 +5627,23 @@ FICHA 115 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 
 ```text
 116. Ciproeptadina + Cobamamida
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Anorexia/desnutriçã
-o; convalescença
-com necessidade de
-estimular apetite
-2-6 anos; >6 anos
-ADMINISTRAR VO antes das refeições: 2-6 anos, cobamamida 0,5-1
-mg + ciproeptadina 2-4 mg por dose a cada 12 horas; >6 anos,
-cobamamida 1 mg + ciproeptadina 4 mg a cada 12 horas. Máximo
-pediátrico de ciproeptadina: 8 mg/dia. Duração não fixada em bula;
-reavaliar benefício nutricional e sedação. [S1]
-A associação não substitui diagnóstico e tratamento nutricional. Não
-usar <2 anos. Se sonolência acentuada, reduzir a dose à metade.
-MONITORIZAÇÃO E PRECAUÇÕES Sedação e efeitos anticolinérgicos; evitar associação com outros
-depressores do SNC. Doses expressas separadamente por componente.
-INDICAÇÕES DO PDF-BASE (registro documental, p. 19)
-Estimulante do apetite em quadros de desnutrição e convalescença (acima de 2 anos).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Abbott - Cobavital, bula profissional (abbottbrasil.com.br)
-FICHA 116 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+ESCOPO E POPULAÇÃO
+Associação oral, em apresentações específicas de bula brasileira, para estímulo do apetite nos contextos descritos de astenia, anorexia, convalescença e alterações ponderoestaturais. Não substitui a investigação de baixo ganho de peso ou o acompanhamento nutricional. Sob as duas bulas consultadas, menores de 2 anos não devem usar; os cabeçalhos dizem acima de 2 anos, enquanto a posologia cita 2 a 6 anos. No limite de 2 anos exatos, confira a bula vigente e o contexto antes de usar; não automatizar a fronteira etária. [S1] [S2] [S3] [S4]
+COBAVITAL • MICROCOMPRIMIDO ORAL
+Abbott, registro 1.0553.0344: a bula BU17 descreve microcomprimidos rotulados 1 mg + 4 mg, em caixas de 16 ou 30. Cada unidade contém 1 mg de cobamamida e 4,35 mg de cloridrato de ciproeptadina, declarados equivalentes a 4 mg de ciproeptadina hemiidratada. Os 4 mg do rótulo não são 4 mg de cloridrato. Na bula, 2–6 anos: de meio a um microcomprimido, duas vezes ao dia antes das refeições; acima de 6 anos: um microcomprimido duas vezes ao dia, antes das refeições. Duas unidades ao dia correspondem a 2 mg de cobamamida e 8 mg de ciproeptadina hemiidratada (8,70 mg de cloridrato conforme composição), não a um limite intercambiável entre produtos. Registro consultado não comprova estoque ou valida xarope da mesma marca. [S1] [S2] [S5]
+COBAPETIT • XAROPE ORAL APÓS RECONSTITUIÇÃO
+Cifarma, registro 1.1560.0070: a bula do paciente disponível no titular descreve 0,8 mg/mL de cloridrato de ciproeptadina + 0,2 mg/mL de cobamamida na solução final. Reconstituir apenas com o conteúdo do sachê no frasco fornecido, agitar e medir com o dosador; volume final 100 mL, não são 100 mL de água para adicionar. Conservar ao abrigo da luz, a 15–30 °C, por até 30 dias após preparo, conforme a bula consultada. Na referência da Cifarma, 2–6 anos: 2,5–5 mL duas vezes ao dia; acima de 6 anos: 5 mL duas vezes ao dia, antes das refeições. O esquema é documental e específico dessa apresentação. Não converter mililitros em frações de microcomprimido. A versão profissional mais recente do portal não foi confirmada. [S3] [S5]
+MONITORIZAÇÃO E PRECAUÇÕES
+Hipersensibilidade à fórmula, glaucoma de ângulo fechado, retenção urinária e obstrução piloroduodenal ou úlcera estenosante são contraindicações nas fontes. Cobavital também traz restrições a lactentes, neonatos/prematuros e uso concomitante de IMAO. Sedação e sonolência são frequentes; se acentuadas, reavaliar com o prescritor, sem ajuste automático. Álcool e outros depressores do SNC podem intensificar sedação. Cobapetit contém sacarose; verificar restrições de absorção de açúcares e cautela no diabetes. A validade após reconstituição não é a duração do tratamento. [S1] [S2] [S3]
+CONFERÊNCIA DIMENSIONAL E LIMITES
+Cobavital: meia unidade contém 0,5 mg de cobamamida e 2,175 mg do cloridrato, equivalentes na bula a 2 mg de ciproeptadina hemiidratada; o dobro recupera os valores do microcomprimido inteiro. Cobapetit: 5 mL contêm 1 mg de cobamamida e 4 mg de cloridrato; divida as massas por 5 mL para obter as concentrações rotuladas. Não combinar os produtos, extrapolar para ciproeptadina isolada ou empregar regimes de associações com vitaminas. Sem cálculo automatizado. [S1] [S2] [S3]
+FONTES DO ESQUEMA • 27/11/2026
+[S1] Abbott, bula profissional Cobavital BU17 https://www.abbottbrasil.com.br/content/dam/corp/abbott/pt-br/documents/pdfs/nossas-bulas/C/BU-17-Cobavital-bula-profissional-FINAL.pdf
+[S2] Abbott, bula do paciente Cobavital BU17 https://www.abbottbrasil.com.br/nossas-bulas/cobavital-cobamamida-ciproeptadina.html
+[S3] Cifarma, bula do paciente Cobapetit https://www.cifarma.com.br/images/demo/bulas/bulas.novas/cobapetit.pdf
+[S4] AAP/NASPGHAN, avaliação e manejo do baixo ganho ponderal, 2026 https://doi.org/10.1542/peds.2025-075764
+[S5] Anvisa, dados abertos de situação de produtos https://dados.anvisa.gov.br/dados/CONSULTAS/PRODUTOS/
+FICHA 116 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 128
 ```
 
