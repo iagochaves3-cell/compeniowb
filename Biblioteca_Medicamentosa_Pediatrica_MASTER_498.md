@@ -5456,63 +5456,37 @@ FICHA 112 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 ```text
 113. Ciclosporina
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Síndrome nefrótica
-corticodependente
-ou corticorresistente
-Crianças
-ADMINISTRAR 6 mg/kg/DIA VO divididos a cada 12 horas, se função
-renal normal; se função renal comprometida, iniciar no máximo 2,5
-mg/kg/dia. Titular por proteinúria, creatinina e níveis; máximo
-pediátrico da bula 6 mg/kg/dia. Sem eficácia em 3 meses,
-suspender; manutenção na menor dose eficaz. [S1]
-Titular por proteinúria, função renal e níveis sanguíneos.
-Transplante de
-órgãos sólidos
-Crianças sob equipe
-transplantadora
-Esquema da bula: 10-15 mg/kg/DIA VO divididos a cada 12 horas,
-iniciado nas 12 horas anteriores ao transplante; manter 1-2 semanas
-e reduzir por níveis sanguíneos até aproximadamente 2-6 mg/kg/dia.
-Em associação imunossupressora, podem ser usadas doses iniciais
-menores. [S1]
-Ajustar por órgão, níveis sanguíneos e associações. Manutenção
-prolongada.
-Transplante de
-medula óssea
-Crianças sob equipe
-transplantadora
-Regime descrito: iniciar EV 3-5 mg/kg/DIA no dia anterior, continuar
-até 2 semanas; transição VO em torno de 12,5 mg/kg/DIA, divididos
-a cada 12 horas. Manutenção por pelo menos 3 meses,
-preferencialmente 6; reduzir gradualmente até cerca de 1 ano se
-permitido pela evolução. [S1, S2]
-EV: diluir o concentrado injetável em SF 0,9% ou SG 5% até 0,5-2,5
-mg/mL e infundir em 2-6 horas; recipiente/equipo sem PVC/DEHP.
-CHEO também descreve 1,5 mg/kg/dose EV a cada 12 horas,
-dependente do protocolo transplantador.
-Dermatite atópica
-grave
-Pediatria - off-label com
-experiência limitada
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-ADMINISTRAR 2,5 mg/kg/DIA VO divididos a cada 12 horas; sem
-resposta em 2 semanas, elevar até 5 mg/kg/dia. Após controle,
-reduzir gradualmente e tentar suspensão; curso de 8 semanas pode
-ser suficiente, conforme resposta. [S1]
-Experiência pediátrica limitada; avaliação especializada.
-MONITORIZAÇÃO E PRECAUÇÕES Monitorar pressão, creatinina, potássio, magnésio e interações
-CYP 3A 4. Aumento persistente da creatinina >30%: reduzir 25-50%; >50% exige redução adicional.
-Não intercambiar formulações sem níveis.
+BRASIL • APRESENTAÇÕES E VIAS
+Sandimmun Neoral é uma formulação oral de microemulsão: cápsulas moles de 25, 50 e 100 mg e solução de 100 mg/mL. A bioequivalência descrita refere-se à cápsula e à solução da própria marca. Não trocar automaticamente para ciclosporina oral não modificada nem usar a concentração da ampola para a via oral. Uma troca exige orientação da equipe, níveis sanguíneos e monitorização renal. [S1, S4, S6]
+Sandimmun concentrado IV é outra apresentação: 50 mg/mL, ampolas de 1 ou 5 mL. O número de registro de raiz comum na Lista A não torna as formas intercambiáveis. Confirmar a embalagem e a via; a Lista A não confirma estoque. [S2, S4]
+SÍNDROME NEFRÓTICA • VIA ORAL • NEFROLOGIA PEDIÁTRICA
+Bula brasileira do Neoral: indução de remissão em crianças com doença esteroide-dependente ou resistente e função renal preservada, exceto proteinúria: 6 mg/kg/dia, em duas administrações. Com prejuízo renal, a dose inicial não deve exceder 2,5 mg/kg/dia. A bula indica interromper se não houver eficácia após três meses. Individualizar pela resposta, função renal e níveis do fármaco; usar a menor dose eficaz para manutenção. [S1]
+KDIGO 2025, separadamente: em doença com recidivas frequentes ou corticodependente, quando indicada como poupadora de corticoide, dose oral inicial de 4 a 5 mg/kg/dia em duas administrações. Em doença corticorresistente, o esquema inicial de ciclosporina é de 5 mg/kg/dia em duas administrações e o inibidor de calcineurina deve ser interrompido se não houver ao menos resposta parcial em seis meses. Não fundir as doses, os critérios de resposta ou as janelas de reavaliação da diretriz e da bula. [S3]
+TRANSPLANTES • PROTOCOLO ESPECIALIZADO
+Em órgão sólido, início, manutenção e troca de via dependem do órgão, do esquema imunossupressor e dos níveis sanguíneos. A bula oral separa a dose pré-transplante de 10 a 15 mg/kg/dia em duas administrações da manutenção posterior em torno de 2 a 6 mg/kg/dia; esquemas combinados podem usar dose inicial menor. Não generalizar para medula ou para a via IV. [S1]
+Para transplante de medula, a bula IV descreve 3 a 5 mg/kg/dia e infusão contínua no período pós-transplante imediato, por até duas semanas, antes da transição oral. A transição, o tempo de manutenção e a retirada progressiva obedecem ao protocolo transplantador e às bulas da via correspondente. Não aplicar automaticamente o tempo de 2 a 6 horas do preparo geral ao regime contínuo nem importar o regime CHEO para o produto brasileiro. [S1, S2, S7]
+SANDIMMUN IV • PREPARO E ALERTAS
+O fabricante descreve diluição geral de 1:20 a 1:100 em SF 0,9% ou SG 5% e infusão lenta de 2 a 6 horas no contexto aplicável; esta ficha não calcula preparo nem programação de bomba. A bula brasileira orienta preferir vidro e condiciona o uso de plástico aos requisitos descritos na própria bula. Confirmar recipiente, equipo, concentração e protocolo com a farmácia; a regra local de outra instituição não substitui a bula. O concentrado contém óleo de rícino etoxilado e etanol. Risco de anafilaxia: observação contínua pelo menos nos primeiros 30 minutos, e depois frequente. Se ocorrer anafilaxia, interromper a infusão e acionar atendimento imediato. [S2]
+DERMATITE ATÓPICA • LIMITAÇÃO PEDIÁTRICA
+A bula brasileira do Neoral não recomenda o uso pediátrico fora das indicações relacionadas a transplante, exceto na síndrome nefrótica. Dermatite atópica grave consta nas indicações gerais da bula e no PDF-base, mas sua posologia não deve ser apresentada como opção pediátrica da bula. Avaliação especializada se houver discussão fora da bula. [S1]
+MONITORIZAÇÃO E PRECAUÇÕES
+Aferir pressão arterial e função renal, acompanhar potássio, magnésio e níveis sanguíneos conforme indicação; revisar interações CYP3A4/P-gp, nefrotóxicos e apresentações antes de prescrever. Na síndrome nefrótica, a bula vincula a redução de dose à elevação persistente da creatinina em relação ao basal; não é uma regra universal para transplantados. Em indicação não relacionada a transplante, a bula restringe uso com hipertensão ou infecção não controladas, neoplasia ou disfunção renal, exceto na situação renal permissível descrita para síndrome nefrótica. [S1, S2, S3]
+VIA OFTÁLMICA • REFERÊNCIA ADULTA, NÃO PEDIÁTRICA
+Restasis 1.0147.0160 é emulsão oftálmica adulta, flaconete de 0,4 mL. A bula descreve 0,5 mg/mL; a Lista A registra 0,5 mg/g. Não converter massa em volume nem deduzir equivalência entre essas unidades. Segurança e eficácia pediátrica não estabelecidas; não aplicar aos produtos sistêmicos. [S4, S5, S8]
 INDICAÇÕES DO PDF-BASE (registro documental, p. 19)
-Síndrome nefrótica corticodependente ou corticorresistente; imunossupressão em transplantes de órgãos e
-medula óssea; dermatite atópica grave.
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Sandoz - ciclosporina, bula profissional (uploads.consultaremedios.com.br)
-[S2] CHEO - ciclosporina injetável (outreach.cheo.on.ca)
-FICHA 113 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+Síndrome nefrótica corticodependente ou corticorresistente; imunossupressão em transplantes de órgãos e medula óssea; dermatite atópica grave. O PDF-base não resolve divergências de indicação, produto e preparo.
+FONTES DO ESQUEMA • CONSULTA EM 26/11/2026
+[S1] Novartis — Sandimmun Neoral, bula profissional BR, indicações, advertências e posologia. https://portal.novartis.com.br/medicamentos/wp-content/uploads/2022/08/Bula-SANDIMMUN-NEORAL-Capsula-Mole-Solucao-Medico.pdf
+[S2] Novartis — Sandimmun intravenoso, bula profissional BR, advertências, preparo e posologia. https://portal.novartis.com.br/medicamentos/wp-content/uploads/2022/08/Bula-SANDIMMUN-Solucao-Injetavel-Medico.pdf
+[S3] KDIGO 2025 — síndrome nefrótica pediátrica, pp. S259, S270 e S273–S274. https://kdigo.org/wp-content/uploads/2025/04/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children.pdf
+[S4] Anvisa — Lista A de medicamentos de referência, 10/07/2026, p. 10. https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia/arquivos/lista-a-incluidos-05022025.pdf/@@download/file
+[S5] AbbVie — bula do paciente Restasis, apresentação e uso adulto. https://www.abbvie.com.br/content/dam/abbvie-dotcom/br/documents/Restasis.pdf
+[S6] DailyMed — rótulo regulatório estrangeiro, não bioequivalência entre formulações orais. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5e5926a7-1de0-4b54-a5c0-286b6200ff82
+[S7] CHEO — monografia institucional canadense, não aplicável como regra brasileira. https://outreach.cheo.on.ca/manual/1529
+[S8] Allergan — bula profissional Restasis, fonte histórica do fabricante, CCDS V4.0 nov/2015. https://allergan-web-cdn-prod.azureedge.net/allerganbrazil/allerganbrazil/media/allergan-brazil/bula-para-o-profissional.pdf
+[S9] Novartis — Sandimmun Neoral cápsulas, bula do paciente BR. https://portal.novartis.com.br/medicamentos/wp-content/uploads/2022/08/Bula-SANDIMMUN-NEORAL-Capsula-Mole-Paciente.pdf
+[S10] Novartis — Sandimmun intravenoso, bula do paciente BR. https://portal.novartis.com.br/medicamentos/wp-content/uploads/2022/08/Bula-SANDIMMUN-Solucao-Injetavel-Paciente.pdf
+FICHA 113 / 498 • REFERÊNCIAS CLICÁVEIS • 26/11/2026
 125
 ```
 
