@@ -5686,42 +5686,27 @@ FICHA 119 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 ```text
 120. Claritromicina
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Infecções
-respiratórias por
-agentes atípicos;
-otite média;
-faringoamigdalite
-estreptocócica com
-alergia à penicilina
-≥4 semanas; em <6
-meses uso
-especializado
-ADMINISTRAR 7,5 mg/kg/dose VO a cada 12 horas, máximo 500
-mg/dose. Faringite estreptocócica: 10 dias; outras infecções:
-duração conforme foco e resposta, tipicamente curso curto de 5-10
-dias. [S1]
-Reservar por suscetibilidade e resistência local; não é primeira
-escolha indiscriminada para otite.
-Micobacterioses não
-tuberculosas
-≥4 semanas -
-infectologia
-ADMINISTRAR 7,5-15 mg/kg/dose VO a cada 12 horas, máximo 500
-mg/dose, SEMPRE em combinação apropriada. Duração varia por
-espécie, foco e conversão de culturas; não limitar o tratamento
-crônico a 10-14 dias. [S1]
-A faixa alta exige decisão especializada, especialmente com
-interações e QT.
-MONITORIZAÇÃO E PRECAUÇÕES TFG <30 mL/min/1,73 m²: reduzir dose usual em 50%. Forte
-inibidor CYP 3A 4: revisar colchicina, ciclosporina e outros substratos; risco de QT longo.
+INDICAÇÃO / POPULAÇÃO DOSE, INTERVALO E DURAÇÃO
+Suspensão oral Klaricid (Abbott), registro de produto 1.0553.0200. Duas concentrações após reconstituição: 25 mg/mL (125 mg/5 mL) e 50 mg/mL (250 mg/5 mL), ambas com volume final de 60 mL. Confirmar rótulo, concentração e seringa oral. Não transferir para comprimido de liberação prolongada, apresentação IV ou outro fabricante. [S1] [S2]
+Infecções não micobacterianas sensíveis: a seção 8 da bula profissional descreve o regime pediátrico dos 6 meses aos 12 anos, 7,5 mg/kg por tomada VO a cada 12 h (15 mg/kg/dia), máximo 500 mg por tomada, habitualmente por 5–10 dias conforme foco e gravidade. A seção 4 contraindica esta suspensão abaixo de 6 meses. Não tratar infecção viral nem extrapolar o corte de 4 semanas de um protocolo hospitalar estrangeiro. [S1] [S3]
+Faringite estreptocócica confirmada: penicilina/amoxicilina são preferidas; se claritromicina for selecionada como alternativa por alergia, o CDC especifica 7,5 mg/kg por tomada VO a cada 12 h, teto de 250 mg por tomada, 10 dias. Não aplicar o teto geral da bula a este esquema específico. Resistência a macrolídeos varia por local e tempo. [S4]
+Otite média aguda: não é escolha inicial habitual; eficácia limitada contra pneumococo e H. influenzae. Não usar o regime de faringite como protocolo de otite. [S5]
+Coqueluche: tratar/quimioprofilaxia conforme indicação epidemiológica e a Nota Técnica MS nº 165/2025. Azitromicina é primeira opção; claritromicina é segunda opção quando aplicável e não é recomendada abaixo de 1 mês. A recomendação ministerial para 1–5 meses é específica para coqueluche e não equivale a liberação do Klaricid nessa idade; a bula desta apresentação tem contraindicação expressa para menores de 6 meses. Encaminhar divergência à equipe assistencial/farmácia e checar o produto antes de qualquer uso. [S1] [S6]
+Micobacterioses não tuberculosas: não usar uma faixa universal nem esquema empírico. Distinguir espécie, local, suscetibilidade, imunidade e finalidade. A recomendação NIH para tratamento combinado de MAC em crianças com HIV aplica-se a esse contexto, não a todas as micobacterioses. Revisão por infectologia. [S1] [S7]
+MONITORIZAÇÃO E PRECAUÇÕES
+A bula contraindica em alergia a macrolídeos, QT prolongado/arritmia ventricular prévios, hipocalemia/hipomagnesemia e insuficiência hepática grave associada a insuficiência renal, entre outras situações. Contraindica associação com colchicina, simvastatina, lovastatina, midazolam oral, alcaloides do ergot e outros fármacos listados; checar lista completa e substratos de CYP3A4/P-gp. Em criança com depuração de creatinina abaixo de 30 mL/min/1,73 m², a bula prevê reduzir a dose à metade e limitar o curso a 14 dias; não copiar doses fixas dos exemplos para crianças nem generalizar a duração a outras situações. [S1]
+Conservar suspensão reconstituída por até 14 dias a 15–30 °C, sem refrigeração, protegido da luz e da umidade, com o frasco tampado. Agitar antes de medir. Referência documental, sem cálculo automático. [S1] [S2]
 INDICAÇÕES DO PDF-BASE (registro documental, p. 20)
-Infecções respiratórias por bactérias atípicas, otite média, faringoamigdalite em alérgicos à penicilina,
-tratamento de micobactérias não tuberculosas.
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Perth Children’s Hospital - ChAMP, Clarithromycin (pch.health.wa.gov.au)
-FICHA 120 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+Infecções respiratórias por bactérias atípicas, otite média, faringoamigdalite em alérgicos à penicilina e micobacterioses não tuberculosas. A transcrição não substitui as indicações e restrições da fonte exata.
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] Abbott Klaricid suspensão, bula profissional BU 23, 11/12/2025, §§ 1, 4, 6, 7 e 8 https://www.abbottbrasil.com.br/content/dam/corp/abbott/pt-br/documents/pdfs/nossas-bulas/k/BU-23-KLARICID-OS-Bula-Profissional-FINAL.pdf
+[S2] Abbott Klaricid suspensão, bula do paciente BU 23, 11/12/2025, §§ 3, 5 e 6 https://www.abbottbrasil.com.br/nossas-bulas/klaricid-so-claritromicina.html
+[S3] Perth Children's Hospital ChAMP, monografia pediátrica, protocolo estrangeiro https://pch.health.wa.gov.au/~/media/Files/Hospitals/PCH/General-documents/Health-professionals/ChAMP-Monographs/Clarithromycin.pdf
+[S4] CDC, faringite pelo estreptococo do grupo A, 18/11/2025 https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html
+[S5] American Academy of Pediatrics, escolha antibiótica em otite média aguda https://eqipp.aap.org/File%20Library/Courses/Antibiotics/FlowchartAOM.pdf
+[S6] Ministério da Saúde, Nota Técnica Conjunta nº 165/2025, Quadro 1 https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2025/nota-tecnica-conjunta-no-165-2025-dpni-svsa-ms.pdf
+[S7] NIH, MAC em crianças com HIV, tabela de tratamento https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-pediatric-opportunistic-infections/mycobacterium-avium-complex
+FICHA 120 / 498 • REVISÃO DOCUMENTAL • 27/11/2026
 132
 ```
 
