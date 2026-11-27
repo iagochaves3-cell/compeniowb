@@ -5560,27 +5560,26 @@ FICHA 114 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 
 ```text
 115. Cinchocaína + Policresuleno
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Hemorroidas;
-fissuras anais;
-prurido anal
-Produto de uso adulto
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-NÃO HÁ ESQUEMA PEDIÁTRICO ESTABELECIDO na bula consultada.
-Não transpor a aplicação ou dose retal adulta para crianças. [S1]
-Indicações preservadas do documento original; exigem avaliação
-etiológica pediátrica.
-MONITORIZAÇÃO E PRECAUÇÕES Preparação retal pode causar irritação e hipersensibilidade;
-verificar composição exata, pois marcas com nomes semelhantes podem conter componentes
-adicionais.
-INDICAÇÕES DO PDF-BASE (registro documental, p. 19)
-Alívio sintomático de hemorróidas, fissuras anais e prurido anal (uso adulto).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Proctox-H - policresuleno + cinchocaína, bula profissional (uploads.consultaremedios.com.br)
-FICHA 115 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+POPULAÇÃO PEDIÁTRICA
+Proctyl é de uso adulto nas duas apresentações. As bulas brasileiras consultadas não estabelecem posologia pediátrica. Não extrapolar o esquema adulto por peso, nem fracionar supositório para tentar obter dose infantil. [S1] [S2]
+APRESENTAÇÕES E VIA • REFERÊNCIA ADULTA
+Proctyl (Takeda, registro 1.0639.0111): uso tópico anorretal. Pomada: 50 mg/g de policresuleno + 10 mg/g de cloridrato de cinchocaína, bisnaga de 30 g ou embalagens com 10 bisnagas de 3 g, com aplicadores. Supositório: 100 mg de policresuleno + 27 mg de cloridrato de cinchocaína por unidade, não por grama; embalagem de 15 unidades. Conferir apresentação e bula da embalagem, sem inferir estoque. [S1] [S2] [S3]
+INDICAÇÕES E POSOLOGIA • BULA ADULTA
+A bula abrange hemorroidas sintomáticas, fissuras, prurido e eczema de origem anorretal e curativo pós-cirurgia proctológica. Para afecções externas, distingue a bisnaga de 30 g (cerca de 2 cm de pomada por aplicação, sem conversão para g ou mL) da bisnaga de 3 g (uso do conteúdo integral). Para afecções internas, prevê a bisnaga de 3 g com aplicador ou um supositório inteiro após evacuação. A frequência da bula é 2 a 3 aplicações ao dia até melhora; depois 1 por dia, preferencialmente ao deitar, conforme evolução e orientação profissional. Persistência após 7 dias requer avaliação, não renovação automática. [S1] [S2]
+MONITORIZAÇÃO E PRECAUÇÕES
+Não usar em caso de hipersensibilidade à fórmula. O supositório contém lecitina de soja e não deve ser usado em caso de alergia a soja ou amendoim. Pode haver ardor ou prurido locais; hipersensibilidade importante requer suspensão e avaliação. Evitar sobrepor outros medicamentos tópicos no mesmo local. Gestação e amamentação exigem avaliação profissional. [S1] [S2]
+IDENTIDADE REGULATÓRIA E LIMITES
+No recorte oficial de 20/11/2026, Proctyl consta ativo no nível de produto; os registros 1.1819.0074 e 1.1819.0151 de Proctox-H (Multilab, fonte histórica da ficha) constam inativos. Proctox sem “H” não é sinônimo dessas apresentações. Não transferir posologia ou intercambialidade pelo nome. A descontinuação histórica da pomada Medley é específica daquele produto. [S3] [S4] [S5] [S6]
+CONFERÊNCIA DIMENSIONAL
+Uma bisnaga de 3 g de Proctyl contém, no total, 150 mg de policresuleno e 30 mg de cloridrato de cinchocaína. Dividindo os totais por 3 g, recuperam-se 50 e 10 mg/g. O supositório tem composição própria por unidade. Sem parâmetro pediátrico e sem cálculo automatizado. [S1] [S2]
+FONTES DO ESQUEMA • 27/11/2026
+[S1] Takeda, bula profissional de 02/12/2025, cópia do documento original https://onepharma.com.br/wp-content/uploads/onepharma-bulas/pdfs-renomeados/bula-proctyl-50-mg-g-10-mg-g-pomada-takeda-profissional.pdf
+[S2] Takeda, bulas do paciente de 02/12/2025, cópia do documento original https://onepharma.com.br/wp-content/uploads/onepharma-bulas/pdfs-renomeados/bula-proctyl-50-mg-g-10-mg-g-pomada-takeda-paciente.pdf
+[S3] Anvisa, dados abertos de produtos e situação do registro https://dados.anvisa.gov.br/dados/CONSULTAS/PRODUTOS/
+[S4] Multilab, produto notificado Proctox https://www.multilab.com.br/produtos/isentos-de-prescricao/proctox/
+[S5] Multilab, bula profissional histórica de Proctox-H https://uploads.consultaremedios.com.br/drug_leaflet/pro/Bula-Proctox-H-Profissional-Consulta-Remedios.pdf
+[S6] Sanofi Medley, comunicado sobre descontinuação definitiva https://www.sanofi.com.br/pt/noticias/informacoes-de-produtos/2021-07-21-descontinuacao-policresuleno
+FICHA 115 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 127
 ```
 
