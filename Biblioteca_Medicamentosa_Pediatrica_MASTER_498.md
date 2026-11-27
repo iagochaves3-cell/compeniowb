@@ -5789,48 +5789,35 @@ FICHA 122 / 498 • REVISÃO DOCUMENTAL • 27/11/2026
 
 ```text
 123. Clobazam
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Epilepsia refratária -
-Lennox-Gastaut
-≥2 anos na bula
-internacional;
-documento original >3
-anos
-ADMINISTRAR VO: ≤30 kg, 5 mg/dia inicialmente, 10 mg/dia a partir
-do dia 7 e até 20 mg/dia a partir do dia 14; >30 kg, 10, 20 e até 40
-mg/dia, respectivamente. Doses >5 mg/dia divididas a cada 12
-horas. Titular no máximo semanalmente e apenas se necessário.
-Tratamento contínuo. [S1]
-Tetos: 20 mg/dia (≤30 kg) ou 40 mg/dia (>30 kg); não importar teto
-adulto de 80 mg/dia.
-Epilepsia refratária -
-síndrome de Dravet
-Crianças sob
-neurologia - off-label
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-VO: iniciar 0,2 mg/kg/DIA; titular gradualmente para 0,3-1 mg/kg/dia,
-dividido em 2 tomadas. Regime combinado do ensaio Dravet
-resumido pelo NICE: 0,5 mg/kg/dia junto a valproato e estiripentol.
-Tratamento contínuo, com avaliação de crises e sedação. [S3, S4]
-Off-label. Estiripentol e canabidiol podem elevar
-clobazam/metabólito: reduzir se sedação; não usar teto
-experimental elevado como meta. Faixa inicial/alvo do guia
-especializado.
-MONITORIZAÇÃO E PRECAUÇÕES Sedação/depressão respiratória, DRESS e interações CYP 2C19.
-Desmame gradual; a bula sugere reduzir 5-10 mg da dose diária por semana, mais lentamente se
-necessário ou em doses pediátricas pequenas.
-INDICAÇÕES DO PDF-BASE (registro documental, p. 20)
-Terapia adjuvante em epilepsias refratárias (síndromes de Lennox-Gastaut e Dravet) a partir de 3 anos.
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Lundbeck - Onfi, prescribing information (lundbeck.com)
-[S2] Consenso internacional - diagnóstico e manejo de Dravet (onlinelibrary.wiley.com)
-[S3] NICE NG 217 - evidência em Dravet, ensaio de Chiron (nice.org.uk)
-[S4] Strzelczyk/Schubert-Bast - Practical guide to ASMs in Dravet, tabela 3 (pmc.ncbi.nlm.nih.gov)
-FICHA 123 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
-135
+CONSULTA CLÍNICA E REGULATÓRIA • SEM CÁLCULO AUTOMÁTICO
+
+BRASIL • APRESENTAÇÕES E TITULARIDADE
+A RE 2.633/2026 publicou a transferência para Cellera Farmacêutica: Frisium 1.0440.0237 (processo 25351.053089/2026-03), quatro apresentações de comprimidos de 10 e 20 mg; Urbanil 1.0440.0239 (25351.053116/2026-30), sete apresentações de comprimidos de 10 e 20 mg. O cancelamento dos registros Pharlab na RE 2.634/2026 é por transferência de titularidade, não prova retirada do mercado. As datas de registro indicadas naquele ato são 10/2029 e 11/2026, respectivamente. Não confundir com validade do lote, vigência atual, renovação ou estoque. Renovação de Urbanil após o vencimento indicado não confirmada nesta revisão. [S1–S3]
+
+BRASIL • EPILEPSIA E LIMITES DOCUMENTAIS
+O PCDT do Ministério da Saúde situa clobazam como adjuvante em crises focais e generalizadas refratárias. Esta ficha não fornece esquema de resgate para crise convulsiva em curso. Comprimidos de 10 e 20 mg constam do protocolo; quantidade em mg por comprimido não é concentração em mg/mL. [S4]
+A bula profissional histórica Frisium/Pharlab identifica uso oral acima de 3 anos no cabeçalho e discute circunstâncias excepcionais em população menor em seção própria. Não transformar essas passagens em um corte eletrônico nem presumir que correspondam à bula Cellera. As versões paciente e profissional específicas dos expedientes Cellera de 29/10/2026 não foram confirmadas nesta revisão; conferir bula do produto efetivamente dispensado antes de definir idade, fracionamento, titulação ou dose. Não inferir intercambialidade entre marcas, formulações ou países. [S3, S5]
+
+REFERÊNCIAS INTERNACIONAIS • NÃO EQUIVALEM À BULA BRASILEIRA
+EUA: ONFI, comprimidos e suspensão oral, tem indicação adjuvante para crises associadas à síndrome de Lennox–Gastaut a partir de 2 anos. Essa indicação e as instruções de titulação, fracionamento, concentração da suspensão e retirada da bula americana não se transferem para Frisium ou Urbanil no Brasil. [S6]
+Reino Unido: NICE NG217 admite estiripentol com valproato e clobazam em Dravet quando a primeira linha é insuficiente, sob especialista. Não constitui esquema brasileiro universal nem justificativa para transpor doses do ensaio. [S7]
+
+MONITORIZAÇÃO E PRECAUÇÕES
+Vigiar sonolência, alterações de comportamento, resposta das crises e depressão respiratória, sobretudo com opioides ou outros depressores do sistema nervoso central. Canabidiol, estiripentol e características metabólicas relacionadas ao CYP2C19 podem alterar a exposição ao metabólito ativo: conferir interações e tolerabilidade antes de qualquer ajuste. Suspeita de reação cutânea grave ou hipersensibilidade sistêmica exige avaliação imediata. Fora de uma emergência, retirada planejada e individualizada; evitar interrupção abrupta pelo risco de abstinência e piora de crises. Nenhum calendário universal de desmame é fornecido. [S4–S7]
+
+INDICAÇÕES DO PDF-BASE • HISTÓRICO DOCUMENTAL
+O PDF-base referia terapia adjuvante em Lennox–Gastaut e Dravet e um recorte a partir de 3 anos. Esses dados são históricos; a autorização e a faixa etária dependem da fonte, do produto e do contexto acima.
+
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] Anvisa, RE 2.633/2026, DOU 06/07, seção 1, p. 153, reprodução do ato https://www.sijur.com.br/dou/2026/07/06/resolucao-re-2-633-agencia-nacional-de-vigilancia-sanitaria-parte-2.html
+[S2] AnvisaLegis, RE 2.634/2026, cancelamento por transferência https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9451&cod_modulo=134&link=S&numeroAto=00002634&orgao=RE%2FGGMED%2FANVISA%2FMS&seqAto=000&tipo=RES&valorAno=2026
+[S3] Anvisa dados abertos, TA Bulário 19/11/2026, IDs 3968032 e 3969209 https://dados.anvisa.gov.br/dados/
+[S4] Ministério da Saúde, PCDT Epilepsia, anexo atualizado em maio/2026 https://www.gov.br/saude/pt-br/assuntos/pcdt/e/epilepsia/view
+[S5] Pharlab, Frisium VPS01, cópia histórica, não Cellera https://cr-net-public-prod.s3.amazonaws.com/product_leaflet/B8DBAFE029F1CECDD54C3C005CED1C74.pdf
+[S6] FDA/DailyMed, ONFI, revisão de 16/10/2026 https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c
+[S7] NICE NG217, epilepsias de início na infância, Dravet https://www.nice.org.uk/guidance/ng217/chapter/6-Treating-childhood-onset-epilepsies
+FICHA 123 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
+133
 ```
 
 
