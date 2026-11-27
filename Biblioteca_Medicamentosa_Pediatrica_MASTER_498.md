@@ -6011,33 +6011,30 @@ FICHA 127 / 498 • ATUALIZAÇÃO DOCUMENTAL 27/11/2026
 
 ```text
 128. Cloperastina
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Tosse seca irritativa
-Crianças até 12 anos;
-ausência de idade
-mínima clara na bula
-consultada
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-FENDIZOATO DE CLOPERASTINA: ADMINISTRAR 1,77-3,54 mg/kg/DIA
-VO, divididos em 3 tomadas; alternativa: dividir a dose diária em 4
-partes e dar 1 pela manhã, 1 à tarde e 2 juntas à noite. A bula fixa
-teto de 212,4 mg/dia do SAL (equivale a 60 mL da concentração 3,54
-mg/mL). Curso sintomático curto, com reavaliação se persistente.
-[S1]
-Dose expressa no sal, não na base. A dose habitual para ≥40 kg da
-tabela é 141,6 mg/dia; teto não é alvo. Não indicar a lactentes sem
-avaliação específica.
-MONITORIZAÇÃO E PRECAUÇÕES Pode causar sedação, efeitos anticolinérgicos e mascarar causa
-da tosse; não usar rotineiramente em tosse produtiva. Conferir sal/concentração e evitar associação
-sedativa.
-INDICAÇÕES DO PDF-BASE (registro documental, p. 21)
-Tratamento sintomático da tosse seca, irritativa e não produtiva.
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] EMS - Clope, bula profissional atualizada 2025 (onepharma.com.br)
-FICHA 128 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+REFERÊNCIA DOCUMENTAL • SEM CÁLCULO AUTOMÁTICO
+
+APRESENTAÇÕES E COMPOSIÇÃO
+Seki, Zambon (1.0084.0140), via oral: xarope 3,54 mg de fendizoato/mL (equivalente a 1,80 mg de cloperastina base/mL), frasco de 120 mL; suspensão em gotas 35,4 mg de fendizoato/mL (equivalente a 18 mg de base/mL), frasco de 15 mL. Para o gotejador desta suspensão, 20 gotas/mL correspondem a 1,77 mg de fendizoato por gota. Não substituir uma forma pela outra no mesmo volume nem transferir o fator de gotas a outro produto. [S1, S2, S3]
+Clope EMS (1.0235.1323) e o genérico EMS (1.0235.1256) são produtos distintos: xarope 3,54 mg/mL, frasco de 120 mL cada. O histórico de Clope baseado na bula padrão de 14/02/2023 e o texto v2 baseado na de 29/09/2025 não são idênticos. Não atribuir o teto do texto histórico ao produto atual sem conferir o expediente e a bula exata. [S4, S5, S6]
+Tilugen Brainfarma (1.5584.0231): xarope 120 mL, 3,54 mg de fendizoato/mL; o equivalente de 2 mg/mL na bula refere-se ao cloridrato, não à base. Conferir a lista de excipientes da apresentação usada. [S7]
+
+APLICABILIDADE CLÍNICA E LIMITES
+A bula brasileira descreve alívio sintomático de tosse seca; não substitui avaliação etiológica. Tosse persistente, produtiva ou com dificuldade respiratória exige avaliação da causa, não supressão automática. O posicionamento pediátrico internacional orienta a avaliação; não redefine a bula brasileira. Não inferir elegibilidade de lactentes a partir de estudo citado na bula ou da falta de idade mínima explícita. [S1, S2, S4, S7, S8]
+A bula do paciente de Seki de 29/07/2025 documenta limites de 60 mL/dia do xarope ou 120 gotas/dia da suspensão própria. São tetos de rótulo, não doses-alvo, e não se aplicam automaticamente a outros produtos. A bula profissional de 2023 não traz a mesma frase na seção de posologia. O texto apresenta três tomadas iguais e uma alternativa com quatro partes distribuídas em três horários; não são intercambiáveis. Sem recomendação automática de dose, intervalo, duração ou idade. [S1, S2]
+
+MONITORIZAÇÃO E PRECAUÇÕES
+Verificar hipersensibilidade, sonolência, boca seca e interações com sedativos, anti-histamínicos, anticolinérgicos e álcool. Conferir açúcares e demais excipientes por apresentação. [S1, S2, S7]
+
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] Zambon — Seki, bula do paciente de 29/07/2025 https://seki.com.br/wp-content/uploads/2025/08/SEKI_BULA_PACIENTE.pdf
+[S2] Zambon — Seki xarope e gotas, bula profissional histórica https://databaseprodotti.zambon.com/sites/default/files/product_downloads/Bula%20do%20Profissional%20de%20Sa%C3%BAde%20-%20Seki%20e%20Gotas%20Xarope.pdf
+[S3] Anvisa — Lista de Medicamentos de Referência https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia
+[S4] EMS — apresentação de Clope https://www.ems.com.br/medicamentos/clope/
+[S5] Sara/EMS — bula do paciente Clope, conferir versão https://www.sara.com.br/bula-do-paciente-clope-354mgml-xarope-com-120ml-copo-dosador-ems/7896004770222/pdf
+[S6] EMS — apresentação do genérico https://www.ems.com.br/medicamentos/cloperastina-fendizoato/
+[S7] Neo Química — bula do paciente de Tilugen https://www.neoquimica.com.br/nossas-marcas/bula/tilugen
+[S8] SIAIP — posicionamento sobre tosse aguda em crianças e adolescentes https://all-imm.com/index.php/aei/article/download/1671/2385/26138
+FICHA 128 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 140
 ```
 
