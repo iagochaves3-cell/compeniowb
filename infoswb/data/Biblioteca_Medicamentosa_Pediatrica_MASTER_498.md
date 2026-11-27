@@ -5567,44 +5567,26 @@ FICHA 113 / 498 • REFERÊNCIAS CLICÁVEIS • 26/11/2026
 
 ```text
 114. Cimetidina
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Úlcera péptica
->1 ano; avaliação
-gastroenterológica
-Administrar 5-10 mg/kg/dose VO a cada 6 horas (20-40 mg/kg/dia).
-Tratar até cicatrização documentada; a fonte pediátrica não fixa
-duração única nem teto absoluto. [S1]
-Investigar H. pylori e causas medicamentosas; antagonista H 2
-isolado não erradica H. pylori.
-Doença do refluxo
-gastroesofágico
->1 ano; doença
-ácido-péptica
-confirmada
-Administrar 5-10 mg/kg/dose VO a cada 6 horas; total 20-40
-mg/kg/dia. Reavaliar resposta e necessidade de supressão ácida em
-4-8 semanas. [S1, S2]
-Não tratar regurgitação fisiológica com cimetidina.
-Condições
-hipersecretoras
-patológicas
->1 ano; especialista
-Administrar inicialmente 5-10 mg/kg/dose VO a cada 6 horas; titular
-pela resposta secretória e tolerância. Uso contínuo enquanto
-persistir a causa; doses além de 40 mg/kg/dia não padronizadas
-nesta fonte. [S1]
-Não importar doses adultas elevadas sem referência pediátrica.
-MONITORIZAÇÃO E PRECAUÇÕES Ajuste renal AEP: depuração >40 mL/min, intervalo 6 horas;
-20-40, 8 horas ou reduzir 25%; <20, 12 horas ou reduzir 50%. Interações relevantes com varfarina,
-anticonvulsivantes e outros substratos hepáticos.
+APRESENTAÇÕES E VIAS • BRASIL
+Cimetidina Teuto 1.0370.0402: comprimidos orais de 200 mg e 400 mg; a bula identifica uso acima de 1 ano. A cópia profissional consultada orienta não partir, abrir ou mastigar. Não converter comprimidos para mL, usar fração automática nem extrapolar menções a lactentes para liberar essa apresentação. [S1, S2]
+Cimetidina Teuto 1.0370.0285: solução injetável 150 mg/mL na Lista A da Anvisa, separada do registro oral. Hycimet 1.0387.0025: solução injetável 150 mg/mL, ampola de 2 mL (300 mg por ampola), IM ou IV nas bulas do fabricante. Volume da ampola não é volume final de infusão. Nenhuma informação aqui confirma estoque ou situação de todos os SKUs. [S3, S4, S5, S6]
+POSOLOGIA POR FONTE • NÃO INTERCAMBIAR FAIXAS
+A bula brasileira dos comprimidos Teuto consultada descreve 25 a 30 mg/kg/dia VO em doses divididas acima de 1 ano, sem fixar um único intervalo pediátrico. Não reaproveitar automaticamente a frequência nem o ajuste renal da ficha anterior. [S1, S2]
+Em DRGE, NASPGHAN/ESPGHAN traz faixa documental própria de 30 a 40 mg/kg/dia com máximo de 800 mg na Tabela 4. Não transportar esse esquema para úlcera, hipersecreção, lactentes ou via parenteral. Na esofagite erosiva associada a refluxo, a diretriz prioriza IBP e considera antagonista H₂ quando IBP não está disponível ou é contraindicado. Não usar supressão ácida para regurgitação isolada de lactente saudável. [S7]
+Pediatria hospitalar: as bulas das ampolas são específicas de produto e via. Conferir a revisão atual, idade, indicação, função renal, protocolo local e preparo antes de administrar. Não aplicar dose adulta nem liberar regime neonatal, diluição, velocidade ou cálculo automático a partir desta ficha. [S4, S5, S6]
+MONITORIZAÇÃO E PRECAUÇÕES
+Conferir interações antes da seleção, incluindo varfarina, fenitoína e teofilina. Disfunção renal exige revisão individual; não usar tabela adulta como regra pediátrica. A cimetidina pode elevar creatinina por inibição da secreção tubular; não atribuir automaticamente a ela uma alteração renal em evolução. Verificar contraindicações do produto e reavaliar necessidade de supressão ácida. [S2, S4, S5, S7]
 INDICAÇÕES DO PDF-BASE (registro documental, p. 19)
-Úlcera péptica, DRGE e condições hipersecretoras patológicas (bula oral rotulada acima de 1 ano).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] AEP - Cimetidina, Pediamécum (aeped.es)
-[S2] SBP - Doença do refluxo gastroesofágico, guia prático (sbp.com.br)
-FICHA 114 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+Úlcera péptica, DRGE e hipersecreção patológica. Não tratar essas indicações como um único esquema posológico ou confirmar H. pylori por resposta à cimetidina.
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] Teuto — bula do paciente, comprimidos 200 e 400 mg, MS 1.0370.0402. https://teutodigital.com.br/wp-content/uploads/2023/11/Cimetidina-VP-406409-15.pdf
+[S2] Teuto — bula profissional dos comprimidos (PDF do titular espelhado; revisão de 2023), itens 4–6, 8 e 9. https://uploads.consultaremedios.com.br/drug_leaflet/pro/Bula-Cimetidina-Comprimido-Teuto-Profissional-Consulta-Remedios.pdf
+[S3] Anvisa — Lista A de medicamentos de referência, 10/07/2026, p. 10. https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia/arquivos/lista-a-incluidos-05022025.pdf/@@download/file
+[S4] Hypofarma — Hycimet, bula profissional publicada pelo fabricante. https://hypofarma.com.br/wp-content/uploads/2022/07/1-0387-0025.pdf
+[S5] Hypofarma — Hycimet, bula do paciente publicada pelo fabricante. https://hypofarma.com.br/wp-content/uploads/2022/07/1-0387-0025_paciente.pdf
+[S6] Teuto — injetável, cópia profissional do fabricante aprovada em 13/07/2022, não presumir última revisão cadastral. https://teutodigital.com.br/wp-content/uploads/2023/10/Cimetidina-inj-VPS-406634-13.pdf
+[S7] NASPGHAN/ESPGHAN — DRGE pediátrica, Tabela 4 e recomendações 5.2–5.9. https://pmc.ncbi.nlm.nih.gov/articles/PMC5958910/
+FICHA 114 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 126
 ```
 
