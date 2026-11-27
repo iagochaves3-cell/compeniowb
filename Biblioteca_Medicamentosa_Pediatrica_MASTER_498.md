@@ -5868,41 +5868,35 @@ FICHA 124 / 498 • REVISÃO DOCUMENTAL • 27/11/2026
 ## Ficha 125: Clomipramina — página 137
 
 ```text
-125. Clomipramina
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Transtorno obsessiv
-o-compulsivo
-Crianças/adolescentes;
-sem dados <5 anos na
-bula brasileira
-INICIAR 25 mg/dia VO; aumentar gradualmente durante 2 semanas
-até o menor limite entre 3 mg/kg/dia e 100 mg/dia. Nas semanas
-seguintes, se necessário, até o menor entre 3 mg/kg/dia e 200
-mg/dia. Durante titulação, dividir tomadas. Tratamento contínuo
-com reavaliação. [S1]
-A bula não autoriza todas as indicações psiquiátricas do adulto em
-pediatria.
-Enurese noturna,
-após excluir causas
-orgânicas
->5 anos
-ADMINISTRAR VO após o jantar: 5-8 anos, 20-30 mg/dia; 9-12 anos,
-25-50 mg/dia; >12 anos, 25-75 mg/dia. Usar a menor dose da faixa
-inicialmente. Se enurese no começo da noite, parte pode ser dada às
-16 h. Após resposta, continuar por 1-3 meses e reduzir
-gradualmente. [S1]
-Avaliar risco/benefício frente às alternativas; não extrapolar doses
-acima destas faixas.
-MONITORIZAÇÃO E PRECAUÇÕES ECG e risco de arritmia, convulsões, síndrome serotoninérgica e
-toxicidade anticolinérgica. Risco elevado na ingestão acidental; retirada gradual.
+125. Clomipramina (cloridrato)
+CONSULTA CLÍNICA E REGULATÓRIA • SEM CÁLCULO AUTOMÁTICO
+
+BRASIL • APRESENTAÇÕES E REGISTRO
+Anafranil (Sandoz, registro 1.0047.0657, processo 25351.394944/2023-82): a renovação publicada no DOU de 29/06/2026 lista comprimidos revestidos de 25 mg em 20, 30 ou 60 unidades e liberação prolongada de 75 mg em 20 unidades. O vencimento indicado na renovação é 06/2036; a data 06/2026 na retificação de embalagem se refere ao ato de transferência anterior, não à renovação. Nenhuma dessas datas informa validade de lote ou disponibilidade. [S1, S2]
+Anafranil 25 mg oral: a VPS01 brasileira e a VP02 de 26/02/2026 identificam uso adulto e pediátrico acima de 5 anos no cabeçalho. Anafranil SR 75 mg de liberação prolongada consta como uso adulto. Não substituir a forma pediátrica pelo comprimido SR, nem deduzir fracionamento, trituração ou equivalência de liberação a partir da quantidade de princípio ativo. A VP e VPS específicas do expediente Sandoz de 21/09/2026 não foram confirmadas. [S3–S5]
+Clo (EMS Sigma Pharma, registro 1.3569.0614) deve ser consultado separadamente. A IN 402/2025 inclui o comprimido revestido de 10 mg na Lista de Medicamentos de Referência. A bula recuperada diferencia comprimidos revestidos de 10 e 25 mg, com cabeçalho pediátrico acima de 5 anos, da liberação prolongada de 75 mg, de uso adulto. O cadastro anexado ao processo em 28/08/2026 não comprova que a cópia disponível seja a mais recente. Não presumir aplicabilidade a genéricos de outros registros ou disponibilidade comercial. [S5–S7]
+
+INDICAÇÕES PEDIÁTRICAS • CONTEXTOS DISTINTOS
+TOC: indicação descrita para a apresentação não prolongada em bula brasileira; não generalizar indicações psiquiátricas adultas. NICE CG31, diretriz britânica, prevê avaliação especializada e recomenda ECG antes de iniciar clomipramina em crianças e adolescentes com TOC para avaliar alterações de condução. Não transpor um teto de outra população nem usar a forma SR para reproduzir uma titulação pediátrica. [S3, S8]
+Enurese noturna: a bula brasileira consultada exige exclusão de causas orgânicas. O cabeçalho refere uso acima de 5 anos, enquanto a tabela de primeira semana inclui a faixa de 5 a 8; não inferir elegibilidade aos 5 anos exatos nem reproduzir a faixa como manutenção automática. NICE CG111 não recomenda tricíclicos como primeira linha e discute imipramina, que é outro medicamento. Não transpor doses ou indicação entre os dois. [S3, S9]
+
+MONITORIZAÇÃO E PRECAUÇÕES
+Revisar riscos de alteração de condução ou QTc, hipotensão, convulsão, efeitos anticolinérgicos e toxicidade serotoninérgica. Conferir contraindicações da bula, incluindo IMAO, e interações com medicamentos que prolongam QT ou elevam exposição. Monitorar tolerabilidade, sintomas e risco de autoagressão no contexto psiquiátrico. Superdose é emergência pelo risco cardíaco e neurológico; orientar guarda segura. Acompanhamento e retirada devem ser individualizados. mg por unidade não é concentração em mg/mL; não calcular gotas, volume, equivalência de liberação ou titulação nesta ficha. [S3, S4, S8]
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 20)
-Tratamento do transtorno obsessivo-compulsivo (TOC) e enurese noturna refratária em crianças acima de 5
-anos.
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Anafranil - clomipramina, bula profissional (uploads.consultaremedios.com.br)
-FICHA 125 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+TOC e enurese noturna aparecem no documento anterior. A indicação e o esquema dependem da apresentação, do contexto clínico e da fonte aplicável.
+
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] Anvisa, RE 2.520/2026, renovação de Anafranil, reprodução do DOU https://www.sijur.com.br/dou/2026/06/29/resolucao-re-2-520-agencia-nacional-de-vigilancia-sanitaria-parte-3.html
+[S2] Anvisa, retificação da RE 3.506/2023, DOU 24/08/2026, reprodução https://www.sijur.com.br/dou/2026/08/24/resolucao-re-3-329-agencia-nacional-de-vigilancia-sanitaria-parte-2.html
+[S3] Sandoz, Anafranil e Anafranil SR, VPS01 brasileira, cópia datada https://uploads.consultaremedios.com.br/drug_leaflet/pro/Bula-Anafranil-Profissional-Consulta-Remedios.pdf
+[S4] Sandoz, Anafranil e Anafranil SR, VP02 de 26/02/2026 reproduzida na página do produto https://ecompedpharmaapp.retailon.com.br/anafranil-25mg-30drg-sandoz-138170
+[S5] Anvisa, dados abertos, recorte TA Bulário 19/11/2026 https://dados.anvisa.gov.br/dados/
+[S6] AnvisaLegis, IN 402/2025, Lista de Referência, Clo 10 mg https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=8542&cod_modulo=310&link=S&numeroAto=00000402&orgao=DC%2FANVISA%2FMS&seqAto=000&tipo=INM&valorAno=2025
+[S7] EMS Sigma Pharma, Clo, cópia de bula para profissionais, 10, 25 e 75 mg https://institucional.anossadrogaria.com.br/bula/976938.pdf
+[S8] NICE CG31, cuidados no TOC e ECG pré-tratamento https://www.nice.org.uk/guidance/cg31/resources/obsessivecompulsive-disorder-and-body-dysmorphic-disorder-treatment-pdf-975381519301
+[S9] NICE CG111, enurese em menores de 19 anos https://www.nice.org.uk/guidance/cg111/chapter/Recommendations
+FICHA 125 / 498 • REVISÃO DOCUMENTAL • 27/11/2026
 137
 ```
 
