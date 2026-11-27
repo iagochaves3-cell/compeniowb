@@ -5756,30 +5756,30 @@ FICHA 121 / 498 • REVISÃO DOCUMENTAL • 27/11/2026
 
 ```text
 122. Clioquinol + Hidrocortisona
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Dermatite com
-superinfecção
-bacteriana/fúngica
-sensível
->2 anos
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-APLICAR clioquinol + hidrocortisona em camada fina nas áreas
-afetadas 2-3 vezes ao dia. Tratamento inicial curto; reavaliar dentro
-de 1 semana e retirar quando controlada a infecção/inflamação. [S1]
-A bula não define dias fixos de cura; não usar prolongadamente nem
-em áreas extensas.
-MONITORIZAÇÃO E PRECAUÇÕES Não usar curativo oclusivo. Risco de absorção de iodo e
-interferência em exames tireoidianos; evitar olhos. Escolher antimicrobiano específico se resposta
-insuficiente.
+REVISÃO DOCUMENTAL • SEM CÁLCULO AUTOMÁTICO
+
+APRESENTAÇÃO E POPULAÇÃO
+Hidrocorte (Legrand, produto 1.6773.0155): creme dermatológico em bisnaga de 20 g com clioquinol 30 mg/g e hidrocortisona 10 mg/g. São dois componentes, não uma concentração combinada para prescrição. O índice Anvisa de 19/11/2026 vincula o produto ao processo 25351653470201011; a CMED documenta essa apresentação em 07/07/2025. Nenhum desses registros comprova estoque ou vigência individual atual. [S1, S3, S4]
+Idade: a identificação da bula do paciente aprovada em 15/12/2025 diz acima de 2 anos, e o item de contraindicações diz menor de 2 anos. Não interpretar essa diferença como autorização automática aos 2 anos exatos; conferir a faixa no produto e na bula aplicável. [S1, S2]
+
+INDICAÇÃO E USO LOCAL
+A associação tem indicação documental em dermatose responsiva a corticoide com infecção secundária por agente sensível. A bula também descreve formas superficiais de piodermite, intertrigo ou dermatomicose com inflamação aguda proeminente e picadas com infecção secundária. Isso não faz da associação primeira escolha universal nessas condições; confirmar o diagnóstico e a necessidade dos dois componentes. Não extrapolar para assadura, infecção sem inflamação aguda ou uso rotineiro em fraldas. [S1, S2]
+Quando indicada, a bula relata aplicação em camada fina, geralmente 2–3 vezes ao dia conforme gravidade. Não usar curativo oclusivo. Se não houver melhora em cerca de uma semana, reavaliar o diagnóstico e o tratamento; a bula profissional histórica orienta interromper e investigar o agente. Esse ponto de reavaliação não é uma duração fixa nem autorização para prolongar o uso. [S1, S2]
+
+MONITORIZAÇÃO E PRECAUÇÕES
+Evitar áreas extensas, erosões e uso prolongado, que elevam o risco de absorção sistêmica. Não aplicar em olhos, ferimentos ou pele com infecção viral; não usar no conduto auditivo externo se houver perfuração timpânica. Conferir as contraindicações da formulação, inclusive hipersensibilidade aos componentes, derivados quinolônicos ou iodo descrita na bula. [S1, S2]
+A bula do paciente informa metabissulfito de sódio, que pode causar reações alérgicas graves, especialmente em pessoas com asma. O clioquinol pode interferir em testes específicos do iodo ligado a proteínas e do iodo radioativo; não generalizar a interferência para todo exame tireoidiano. Se houver irritação ou alergia importante, suspender e avaliar. [S1]
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 20)
-Dermatites inflamatórias com infecção secundária fúngica ou bacteriana associada (acima de 2 anos).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] Hidrocorte - bula profissional (uploads.consultaremedios.com.br)
-FICHA 122 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
-134
+Dermatoses inflamatórias com infecção secundária fúngica ou bacteriana associada, acima de 2 anos. A transcrição não substitui a bula exata nem a avaliação da necessidade de tratamento por agente.
+
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] Legrand, bula do paciente Hidrocorte, aprovação impressa 15/12/2025, cópia disponibilizada pela farmácia https://www.sara.com.br/bula-do-paciente-hidrocorte-30mgg-10mgg-creme-dermatologico-com-20g-legrand/7896004812281/pdf?_rsc=VSBjVB58HOED8b19
+[S2] Legrand, bula profissional Hidrocorte, versão histórica reproduzida pelo distribuidor; não atribuída ao expediente de 2025 https://uploads.consultaremedios.com.br/drug_leaflet/pro/Bula-Hidrocorte-Profissional-Consulta-Remedios.pdf
+[S3] Anvisa/CMED, lista de 07/07/2025, p. 445, código 538815601165416 https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/cmed/precos/arquivos/pdf_conformidade_site_20250707_104547402.pdf#page=445
+[S4] Anvisa, Bulário Eletrônico https://consultas.anvisa.gov.br/#/bulario/
+FICHA 122 / 498 • REVISÃO DOCUMENTAL • 27/11/2026
+132
 ```
 
 
