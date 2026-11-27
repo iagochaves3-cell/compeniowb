@@ -5826,57 +5826,39 @@ FICHA 123 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 ## Ficha 124: Clobetasol — página 136
 
 ```text
-124. Clobetasol
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Dermatoses
-inflamatórias
-graves; psoríase
-localizada resistente
->1 ano - corticoide
-tópico de potência
-muito alta
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-CLOBETASOL 0,05%: aplicar camada fina 1-2 vezes ao dia; em
-crianças, limitar o curso, quando possível, a 5 dias e reavaliar
-semanalmente. Usar a menor quantidade que cubra a lesão. [S1]
-O teto adulto de 50 g/semana não representa dose segura
-pediátrica; não usar em dermatite de fraldas ou sob oclusão.
-Líquen escleroso
-anogenital em
-meninas
-Crianças/adolescentes -
-especialista
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-CLOBETASOL 0,05% pomada: aplicar uma vez ao dia por 1 mês; em
-dias alternados por 1 mês; depois 2 vezes por semana por 1 mês.
-Total inicial: 3 meses. Manutenção individual apenas se doença
-ativa. [S2]
-Regime específico de diretriz difere do curso curto para outras
-dermatoses; monitorar área/quantidade.
-Líquen escleroso
-genital em meninos
-Crianças/adolescentes -
-especialista
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-APLICAR corticoide ultrapotente, como clobetasol 0,05%, uma vez ao
-dia por 1-3 meses, com emoliente. Sem resposta/fimose persistente:
-avaliação urológica. [S2]
-Evitar extrapolar para uretra; doença genital exige
-acompanhamento.
-MONITORIZAÇÃO E PRECAUÇÕES Monitorar atrofia, estrias e supressão adrenal; evitar face, olhos
-e grandes áreas. Contraindicado em <1 ano na monografia consultada.
+124. Clobetasol (propionato)
+CONSULTA CLÍNICA E REGULATÓRIA • SEM CÁLCULO AUTOMÁTICO
+
+BRASIL • APRESENTAÇÕES E FAIXAS ETÁRIAS
+Psorex (GSK, registro 1.0107.0198): creme 0,5 mg/g em bisnagas de 15 ou 30 g; pomada 0,5 mg/g em bisnaga de 30 g. As bulas descrevem dermatoses responsivas e resistentes a corticoides menos potentes e contraindicam o tratamento de dermatoses em menores de 1 ano, inclusive erupção de fralda nessa faixa. Em crianças, se necessário, usar por poucos dias e reavaliar semanalmente; não usar o teto adulto para calcular quantidade pediátrica. Psoríase disseminada em placas fica fora do uso descrito para creme/pomada. [S1, S2]
+Psorex capilar (GSK): solução tópica 0,5 mg/g, frasco com 50 g, para dermatoses do couro cabeludo, como psoríase e eczema recalcitrante. O cabeçalho indica uso adulto e pediátrico acima de 1 ano; dermatoses em menores de 1 ano e infecção do couro cabeludo são contraindicações. A seção de composição traz mL junto com p/p e veículo em g: preservar o rótulo em mg/g e não converter para mg/mL, frasco em mL ou gotas. Solução inflamável; manter longe de chamas e fontes de calor. [S3]
+Clob-X gel (Galderma, registro 1.2916.0066): 0,5 mg/g, bisnaga de 30 g, para dermatoses resistentes descritas na bula. Contraindicado abaixo de 12 anos; o cabeçalho informa uso acima de 12 anos. Não resolver automaticamente a fronteira de exatamente 12 anos. [S4]
+Clob-X emulsão (Galderma): 0,5 mg/mL, frasco de 59 mL, para dermatoses responsivas em adultos e psoríase em placas moderada a grave conforme bula. Contraindicada abaixo de 18 anos. Prazo geral de até duas semanas, com regra distinta de eventual extensão em placas localizadas e sob reavaliação; não generalizar para outras indicações ou veículos. [S5]
+Clob-X xampu (Galderma): 0,5 mg/mL, frasco de 125 mL. Uso capilar adulto; contraindicado abaixo de 18 anos. Indicações: psoríase moderada a grave do couro cabeludo e dermatite seborreica moderada a grave do couro cabeludo, nesta última em alternância com xampu de cetoconazol. Aplicação na área afetada do couro cabeludo seco e enxágue após 15 minutos. Bula de 26/01/2026 traz teto de 50 g de produto por semana e distingue curso diário para psoríase de regime intermitente; não importar o equivalente volumétrico de bula anterior, da emulsão ou de outro país. [S6]
+No recorte Anvisa de 19/11/2026, Clob-X 1.2916.0066 é distinto de Clob-X 1.2916.0027. As bulas Galderma citadas para gel, emulsão e xampu não validam automaticamente creme ou pomada desse outro registro. Este recorte não confirma estoque. [S4–S7]
+
+SUS E DIRETRIZES • CONTEXTOS NÃO INTERCAMBIÁVEIS
+O PCDT da psoríase traz propionato de clobetasol 0,5 mg/g em creme e solução capilar, vinculados à localização e à avaliação clínica. Não estende essa referência ao xampu, gel, emulsão ou a outra população. [S8]
+Líquen escleroso genital em crianças: EuroGuiDerm e a diretriz S3 sustentam corticoide tópico de alta ou muito alta potência sob acompanhamento especializado. A escolha de potência, veículo, duração e manutenção é individual; alguns contextos pediátricos favorecem potência menor dentro das opções recomendadas. Não generalizar para prurido genital inespecífico, não aplicar o veículo capilar e não converter o esquema histórico em prescrição automática. [S9, S10]
+
+MONITORIZAÇÃO E PRECAUÇÕES
+A extensão da área tratada, oclusão, barreira lesada e exposição prolongada aumentam o risco de absorção sistêmica. Monitorar atrofia, estrias, infecção e sinais de supressão adrenal; verificar restrições específicas de olhos, face, dobras, aleitamento e infecção na bula do veículo escolhido. 0,5 mg/g e 0,5 mg/mL exigem denominadores diferentes; massa de propionato não é igual à de clobetasol base. Não converter automaticamente entre veículos, não calcular por peso e não gerar receita. [S1–S6]
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 20)
-Dermatoses inflamatórias graves de curta duração e resistentes a corticoides mais fracos (psoríase, líquen
-escleroso).
-FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
-[S1] eMC - Dermovate Ointment (medicines.org.uk)
-[S2] British Association of Dermatologists - Lichen sclerosus 2018 (lichensclerosus.ch)
-FICHA 124 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
+Dermatoses inflamatórias resistentes, psoríase e líquen escleroso constam da ficha histórica; a presença no PDF não equivale a indicação aprovada de todo produto.
+
+FONTES DO ESQUEMA • CONSULTA EM 27/11/2026
+[S1] GSK Brasil, Psorex creme, bula profissional e do paciente https://br.gsk.com/media/on5otauc/psorex-creme.pdf
+[S2] GSK Brasil, Psorex pomada, bula profissional e do paciente https://br.gsk.com/media/eu2dhuxq/psorex-pomada.pdf
+[S3] GSK Brasil, Psorex capilar, bula profissional e do paciente https://br.gsk.com/media/o3yp2ou3/psorex-capilar.pdf
+[S4] Galderma Brasil, Clob-X gel, bula de 26/01/2026 https://www.galderma.com/sites/default/files/2026-08/Bula_Clob-X_Gel.pdf
+[S5] Galderma Brasil, Clob-X emulsão, bula de 26/01/2026 https://www.galderma.com/sites/default/files/2026-08/Bula_Clob-X_Emulsao.pdf
+[S6] Galderma Brasil, Clob-X xampu, bula de 26/01/2026 https://www.galderma.com/sites/default/files/2026-08/Bula_Clob-X_Xampu.pdf
+[S7] Anvisa, consulta do registro 1.2916.0027 (recorte de 19/11/2026 conferido separadamente) https://consultas.anvisa.gov.br/#/medicamentos/250000201589931/
+[S8] Ministério da Saúde, PCDT da Psoríase, anexo de 18/06/2025 https://www.gov.br/saude/pt-br/assuntos/pcdt/p/psoriase/view
+[S9] EuroGuiDerm, tratamento do líquen escleroso, parte 2 https://pure.eur.nl/files/154291574/Acad_Dermatol_Venereol_-_2024_-_Kirtschig_-_EuroGuiderm_guideline_on_lichen_sclerosus_Treatment_of_lichen_sclerosus.pdf
+[S10] Diretriz S3 AWMF, líquen escleroso, parte 2 https://pmc.ncbi.nlm.nih.gov/articles/PMC13467283/
+FICHA 124 / 498 • REVISÃO DOCUMENTAL • 27/11/2026
 136
 ```
 
