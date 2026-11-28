@@ -6225,35 +6225,15 @@ FICHA 131 / 498 • REFERÊNCIAS CLICÁVEIS • REV. 14/09/2026
 
 ```text
 132. Cloroquina
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Malária por P.vivax,
-P.malariae ou
-P.ovale sensíveis
-Pediatria - dose em
-cloroquina BASE
-ADMINISTRAR VO 10 mg de base/kg no dia 1; 7,5 mg de base/kg no
-dia 2; 7,5 mg de base/kg no dia 3. Total 25 mg de base/kg em 3 dias.
-Não ultrapassar esquema adulto: 600 mg no dia 1 e 450 mg nos dias
-2 e 3. [S1]
-Para vivax/ovale, a cura radical exige tratamento dos hipnozoítos
-compatível com idade e avaliação G6PD; cloroquina sozinha não
-evita recaída. Malária grave requer outro esquema.
-Lúpus eritematoso
-sistêmico; artrite
-reumatoide
-Crianças; reumatologia
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-Administrar 2,5 mg/kg de CLOROQUINA BASE VO a cada 24 horas,
-máximo 150 mg de base/dose. Tratamento contínuo conforme
-resposta, com avaliação oftalmológica e revisão periódica. [S3]
-Dose de cloroquina, não hidroxicloroquina. Conferir equivalência do
-sal e ajustar ao risco retiniano.
-MONITORIZAÇÃO E PRECAUÇÕES Risco de cardiotoxicidade, hipoglicemia e retinopatia. Confirmar
-equivalência do sal: comprimido de difosfato 250 mg pode corresponder a 150 mg base. Superdose é
-particularmente tóxica em crianças.
+CLOROQUINA BASE E DIFOSFATO • REVISÃO FOCAL DE SEGURANÇA
+Farmanguinhos/Fiocruz (1.1063.0094): comprimido revestido oral com 150 mg de cloroquina base, equivalentes a 241,91 mg de difosfato; caixa de 500. A bula identifica uso a partir de 1 ano e não autoriza partir ou mastigar o comprimido.
+Quinacris/Cristália (1.0298.0110): comprimido revestido oral com 150 mg de cloroquina base, equivalentes a 242 mg de difosfato; caixa de 200. Não use a idade ou o fracionamento de uma bula como regra da outra. A equivalência histórica de 250 mg de sal não corresponde ao rótulo de nenhum dos dois produtos citados.
+O cadastro aberto da Anvisa de 20/11/2026 identifica os dois registros-mãe e contém linhas ativas e inativas de cada um. Esse dado não confirma vigência de uma embalagem específica nem disponibilidade no serviço.
+Atenção: na malária não complicada, consulte o Guia do Ministério da Saúde de 2026 por espécie e cenário. As tabelas 1 a 5 não usam cloroquina abaixo de 10 kg ou de 1 ano. Não aplique a tabela etária da bula do Quinacris para lactentes contra o guia brasileiro. Malária grave, infecção mista e recorrência têm esquemas próprios.
+Atenção: as duas bulas contraindicam uso em deficiência de G6PD, enquanto as tabelas 4 e 5 do guia brasileiro incluem cloroquina para determinados pacientes com atividade baixa de G6PD. Não use o resultado do teste como liberação automática: confronte bula e protocolo com a referência do programa de malária. Para P. ovale o guia não recomenda tafenoquina; não transponha o fluxograma de P. vivax. P. malariae não requer cura radical de hipnozoítos.
+Não substitua cloroquina por hidroxicloroquina. Os esquemas antigos foram preservados no histórico do catálogo e não orientam prescrição. Para lúpus, use o PCDT atual e a avaliação especializada, considerando toxicidade retiniana e cardíaca.
+
+MONITORIZAÇÃO E PRECAUÇÕES Risco de cardiotoxicidade, hipoglicemia e retinopatia. Confira base e sal no rótulo da apresentação exata. Superdose é particularmente tóxica em crianças.
 INDICAÇÕES DO PDF-BASE (registro documental, p. 21)
 Tratamento da malária por espécies sensíveis (*P. vivax*, *P. malariae*, *P. ovale*); lúpus eritematoso
 sistêmico e artrite reumatoide.
@@ -6261,6 +6241,13 @@ FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] Ministério da Saúde - Guia de tratamento da malária (gov.br)
 [S2] Ministério da Saúde - PCDT LES 2013, documento histórico (bvsms.saude.gov.br)
 [S3] AEP - Cloroquina, Pediamécum (aeped.es)
+[D1] Farmanguinhos/Fiocruz · bula profissional: https://www.far.fiocruz.br/wp-content/uploads/2024/12/Farmanguinhos-cloroquina_Bula_Profissional-Saude.pdf
+[D2] Farmanguinhos/Fiocruz · bula do paciente: https://www.far.fiocruz.br/wp-content/uploads/2024/12/Farmanguinhos-cloroquina_Bula_Paciente.pdf
+[D3] Quinacris/Cristália · bula profissional: https://www.cristalia.com.br/produto/270/bula-profissional
+[D4] Quinacris/Cristália · bula do paciente: https://www.cristalia.com.br/produto/270/bula-paciente
+[D5] Ministério da Saúde · Guia de malária, 3ª edição, 2026; tabelas 1 a 5, seções 3.3.3 e 3.3.4: https://bvsms.saude.gov.br/bvs/publicacoes/guia_tratamento_malaria_brasil_3ed.pdf
+[D6] Ministério da Saúde · PCDT de lúpus, página oficial: https://www.gov.br/saude/pt-br/assuntos/pcdt/l/lupus-eritematoso-sistemico/view
+[D7] Anvisa · diretório oficial de registros: https://dados.anvisa.gov.br/dados/CONSULTAS/PRODUTOS/
 FICHA 132 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 144
 ```
