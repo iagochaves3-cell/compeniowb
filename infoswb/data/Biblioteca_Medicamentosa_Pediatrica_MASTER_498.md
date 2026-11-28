@@ -16179,11 +16179,17 @@ gestacional e maturidade antes da prescrição.
 MONITORIZAÇÃO E PRECAUÇÕES Somar todas as apresentações e associações; reduzir exposição
 em hepatopatia, desnutrição e doença renal grave. EV 10 mg/mL: prescrever a dose em mg e o volume em mL (confusão entre mg e mL causou sobredoses de 10 vezes em crianças pequenas). Reavaliar diariamente a necessidade; tratar
 desconforto, não um número isolado de temperatura.
+ALERTA SANITÁRIO ANVISA • HALEXMINOPHEN • LOTE ESPECÍFICO
+Halexminophen (paracetamol 10 mg/mL, solução para infusão intravenosa em bolsa plástica de sistema fechado de 100 mL), lote 0000216652: recolhimento voluntário e suspensão da comercialização, distribuição e uso por desvio de qualidade da embalagem primária. RE 4.387, de 06/11/2026, publicada em 09/11/2026, Anexo item 1, expediente 1161443/26-9. [D1, D2]
+Não utilizar unidades desse lote; conferir a apresentação e o lote na embalagem e seguir o fluxo institucional de recolhimento. Esta medida não inclui a apresentação de 50 mL, outros lotes nem outros produtos de paracetamol. Alerta regulatório, sem mudança posológica.
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 44)
 Alívio de febre e dor leve a moderada de diversas etiologias; suporte analgésico multimodal.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] Perth Children’s Hospital - Paracetamol (pch.health.wa.gov.au)
 [S2] Royal Children’s Hospital - Acute pain management (rch.org.au)
+[D1] Anvisa: RE 4.387/2026, Anexo item 1: https://anvisalegis-empresa.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9451&cod_modulo=134&link=S&numeroAto=00004387&orgao=RE%2FGGFIS%2FANVISA%2FMS&seqAto=000&tipo=RES&valorAno=2026
+[D2] Anvisa: comunicado de recolhimento: https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-determina-apreensao-de-emagrecedor-e-de-produtos-sem-notificacao-sanitaria
 FICHA 341 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 353
 ```
