@@ -6647,6 +6647,13 @@ FICHA 143 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 144. Cromoglicato Dissódico
+REVISÃO DOCUMENTAL • CROMOGLICATO DISSÓDICO • 28/11/2026
+Cromolerg (Allergan, registro 1.0147.0096): colírio estéril de 5 mL para afecções alérgicas conjuntivais. A bula brasileira do titular documenta 20 mg/mL (2%) e 40 mg/mL (4%), para uso oftálmico adulto e pediátrico, sem idade mínima explícita nessa bula de paciente. Não inferir autorização neonatal. Hipersensibilidade aos componentes contraindica o uso. [D1]
+A bula atual informa 26 gotas/mL na apresentação de 20 mg/mL e 28 gotas/mL na de 40 mg/mL, com 0,769 e 1,428 mg/gota declarados, respectivamente. Esses fatores pertencem aos frascos documentados: não usar fator universal ou trocar concentrações por equivalência de gotas. A Lista de Medicamentos de Referência (LMR) imprime mg/g para as entradas oftálmicas; esta ficha não converte mg/g em mg/mL. Para a composição do frasco, usa a unidade declarada diretamente na bula. [D1–D2]
+Rilan (Belfar, 1.0571.0184): a LMR identifica sprays nasais de 20 e 40 mg/mL, separados do colírio. A transferência de titularidade é documentada pela IN Anvisa 402/2025. Não foi confirmada bula profissional atual do titular nesta checagem: não inferir faixa etária ou conteúdo por jato a partir de bula antiga ou de outro aplicador. Presença na LMR não confirma estoque. [D2–D3]
+A apresentação inalatória descrita pela bula norte-americana é preventiva, não é broncodilatador de resgate em crise. A fonte não comprova registro brasileiro vigente; não usar colírio nem spray nasal no nebulizador. A ficha mantém as vias separadas e não libera dose, conversão automática ou prescrição. [D4]
+
+REGISTRO HISTÓRICO DO PDF-BASE • ESQUEMA ESTRANGEIRO NÃO OPERACIONAL
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
 INDICAÇÃO / POPULAÇÃO
 DOSE, INTERVALO E DURAÇÃO
@@ -6662,10 +6669,15 @@ Não transferir volume de gotas de 2% para 4% sem prescrição;
 efeito preventivo requer regularidade.
 MONITORIZAÇÃO E PRECAUÇÕES Evitar contaminação do frasco. Conservante pode irritar córnea;
 retirar lentes e seguir intervalo do produto. Dor, fotofobia ou baixa visual exigem exame.
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 22)
 Tratamento e profilaxia da conjuntivite alérgica e ceratoconjuntivite vernal.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] eMC - Sodium cromoglicate 2% eye drops (medicines.org.uk)
+[D1] AbbVie/Allergan: bula brasileira de Cromolerg, apresentações, composição e precauções: https://www.abbvie.com.br/content/dam/abbvie-com2/br/documents/Cromolerg.pdf
+[D2] Anvisa: Lista de Medicamentos de Referência, Cromolerg Oculum e Rilan: https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia/arquivos/lista-a-incluidos-05022025.pdf
+[D3] Anvisa: IN 402/2025, Anexo V, alteração do registro por transferência de titularidade: https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9431&cod_modulo=310&link=S&numeroAto=00000402&orgao=DC%2FANVISA%2FMS&seqAto=000&tipo=INM&valorAno=2025
+[D4] DailyMed: bula inalatória norte-americana, contexto estrangeiro: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0209cd6c-5c43-0b93-e063-6294a90ac964
 FICHA 144 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 156
 ```
