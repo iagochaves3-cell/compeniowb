@@ -6561,45 +6561,24 @@ FICHA 141 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 142. Concentrado de Fibrinogênio
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Afibrinogenemia/hip
-ofibrinogenemia
-congênita - RiaSTAP
-Crianças/adolescentes
-Dose EV(mg/kg)=[fibrinogênio alvo−medido, ambos em mg/dL]÷
-1,7. Se nível desconhecido, 70 mg/kg. Manter fibrinogênio ≥100
-mg/dL até hemostasia. Repetir conforme níveis/resposta, sem
-intervalo fixo. Infusão ≤5 mL/min. [S1]
-Fórmula específica do produto; considerar recuperação individual.
-Deficiência
-congênita - Fibryga
-<12 anos; ≥12 anos
-Dose EV(mg/kg)=[alvo−medido em mg/dL]÷ 1,4 se <12 anos; ÷ 1,8
-se ≥12 anos. Alvo 100 mg/dL em sangramento menor ou 150 mg/dL
-em maior. Se nível desconhecido, 70 mg/kg. Infusão ≤5 mL/min;
-repetição conforme hemostasia/níveis. [S2]
-Regulador internacional; não prova indicação de produto no Brasil.
-Hipofibrinogenemia
-adquirida com
-hemorragia
-<12 anos; ≥12 anos -
-Fibryga
-ADMINISTRAR EV 70 mg/kg se <12 anos ou 50 mg/kg se ≥12 anos.
-Repetir conforme hemorragia e fibrinogênio ≤200 mg/dL ou FIBTEM
-A10 ≤10 mm. Infusão ≤20 mL/min, ajustada à tolerância. Duração
-até hemostasia e recuperação laboratorial. [S2]
-Não extrapolar este esquema automaticamente a outro
-concentrado.
-MONITORIZAÇÃO E PRECAUÇÕES Monitorar fibrinogênio funcional/viscoelasticidade e trombose;
-não tratar disfibrinogenemia com estas indicações. Conferir conteúdo real do frasco e não confundir
-mg/dL com g/L.
+REVISÃO DE APRESENTAÇÕES E SEGURANÇA • 28/11/2026
+Haemocomplettan P: a bula brasileira de 19/12/2025 (CSL, registro informado 1.0151.0119) descreve fibrinogênio IV de 1 g após reconstituição com 50 mL e de 2 g com 100 mL de água para injetáveis; ambos a 20 mg/mL. Fibrinogênio em massa, não em UI. O frasco apresentado em bula não atesta estoque atual. [D1–D2]
+Haemocomplettan P: cabeçalho adulto e pediátrico. A seção de indicações inclui diátese hemorrágica em hipo-, a- e disfibrinogenemia congênitas e cenários adquiridos especificados no rótulo. Isso não torna a reposição automática, especialmente em recém-nascidos e pacientes com risco trombótico. Não transferir a restrição de disfibrinogenemia de outro produto para esta bula. [D1–D2]
+Fibryga: a aprovação brasileira de 02/03/2022 para deficiência adquirida é de terapia complementar em hemorragia grave não controlada com hipofibrinogenemia adquirida durante cirurgia; o estudo citado pela Anvisa foi em adultos. O folheto brasileiro do paciente de 01/04/2022 localizado declara uso adulto e frasco de 1 g, aproximadamente 20 mg/mL após 50 mL de água para injetáveis. A versão profissional brasileira mais recente e a disponibilidade de cada apresentação ainda precisam ser confirmadas. [D3–D4]
+Os rótulos FDA de Fibryga e RiaSTAP são dos EUA e não equiparam as indicações brasileiras. Ambos não indicam uso para disfibrinogenemia nos EUA; Fibryga contempla deficiência adquirida com sangramento no escopo FDA, enquanto RiaSTAP se limita à deficiência congênita com sangramento agudo. Não transpor doses pediátricas, velocidades, alvos ou coeficientes entre produtos, populações, indicações e jurisdições. [D5–D6]
+Não confundir concentrado com crioprecipitado. Em deficiência adquirida, avaliar a coagulopatia como um todo. O risco de trombose e de reação de hipersensibilidade exige supervisão especializada. Doses e equações anteriormente transcritas das bulas estrangeiras permanecem nas versões históricas; não geram prescrição, dose ou velocidade automáticas nesta ficha. [D1–D6]
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 22)
 Reposição em afibrinogenemia congênita ou hipofibrinogenemia adquirida grave com sangramento ativo.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] CSLBehring - RiaSTAP, prescribing information (labeling.cslbehring.com)
 [S2] Octapharma - Fibryga, prescribing information 2025 (fibrygausa.com)
+[D1] Haemocomplettan P — CSL Behring, bula profissional brasileira: https://labeling.cslbehring.com/pi/br/haemocomplettan-p/pt/haemocomplettan-p-bula-prof-saude.pdf
+[D2] Haemocomplettan P — CSL Behring, bula do paciente brasileira: https://labeling.cslbehring.com/pi/br/haemocomplettan-p/pt/haemocomplettan-p-bula-paciente.pdf
+[D3] Anvisa — Fibryga, ampliação da indicação no Brasil em 02/03/2022: https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/novos-medicamentos-e-indicacoes/fibryga-fibrinogenio-humano-nova-indicacao
+[D4] Octapharma Fibryga — cópia brasileira de 01/04/2022 da bula do paciente, via Sara: https://www.sara.com.br/bula-do-paciente-fibryga-1-g-po-liof-solucao-injetavel-frasco-ampola-de-vidro-transparente-frasco/7898961181134/pdf?_rsc=11ozs
+[D5] FDA — Fibryga, EUA: https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/fibryga
+[D6] FDA — RiaSTAP, EUA: https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/riastap
 FICHA 142 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 154
 ```
