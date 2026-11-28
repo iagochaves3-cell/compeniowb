@@ -6590,45 +6590,23 @@ FICHA 142 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 143. Crioprecipitado
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Hipofibrinogenemia
-com hemorragia ou
-procedimento
-Todas as idades
-pediátricas
-CRIOPRECIPITADO: TRANSFUNDIR 5-10 mL/kg EV; velocidade usual
-10-20 mL/kg/h, modificada conforme sangramento e tolerância.
-Reavaliar fibrinogênio e clínica após a dose; repetir somente se
-persistir indicação. [S1]
-Usar volume e conteúdo do hemocomponente local; número de
-bolsas não é constante.
-Deficiência de fator
-XIII; doença de von
-Willebrand sem
-concentrado
-específico disponível
-Crianças - resgate
-excepcional
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-Não há dose pediátrica universal de crioprecipitado que assegure
-atividade-alvo de FXIII ou vWF, pela variabilidade do produto.
-Hematologia deve calcular pela atividade necessária/disponível e
-monitorar resposta. [S1]
-Indicações históricas preservadas; concentrados específicos são
-preferidos. Não transpor automaticamente a dose de reposição de
-fibrinogênio.
-MONITORIZAÇÃO E PRECAUÇÕES Avaliar compatibilidade, identificação e reações transfusionais.
-Crioprecipitado não é tratamento de escolha para corrigir INR isolado ou hemofilia quando
-concentrados específicos disponíveis.
+REVISÃO DOCUMENTAL • CRIOPRECIPITADO • 28/11/2026
+Crioprecipitado é um hemocomponente obtido do plasma, distinto de concentrados industriais de fibrinogênio. Contém fibrinogênio, fator XIII, fator VIII e fator de von Willebrand. A Portaria GM/MS 11.685/2026 enquadra deficiência de fibrinogênio e deficiência de fator XIII quando o fator purificado não estiver disponível; hemofilia e doença de von Willebrand têm regra de comunicação quando houver uso excepcional. Não é intercambiável com concentrados específicos. [D1]
+Controle de qualidade, não dose: o art. 106, § 4º, estabelece pelo menos 150 mg de fibrinogênio por unidade em, no mínimo, 75% das unidades avaliadas. É um parâmetro amostral, não uma garantia de massa em uma bolsa individual. O Anexo 6 prevê 10 a 40 mL para a unidade; 40 mL não é média, dose nem volume de um pool. Conferir volume real, composição e número de unidades/alíquotas com a hemoterapia. Não calcular conteúdo individual por divisão dos limites da norma. [D1]
+A Portaria GM/MS 11.685, de 2 de julho de 2026, em vigor desde 30/09/2026 segundo a Anvisa, mantém a regra já presente no marco histórico de 2016: em crianças de até dez anos ou 35 kg, utilizar crioprecipitado isogrupo ou ABO compatível. Dispensar prova cruzada para o componente não significa dispensar tipagem ou verificações pré-transfusionais; os recém-nascidos e lactentes de até quatro meses têm critérios próprios. [D1–D3]
+Verificar indicação, sangramento, fibrinogênio, produto disponível e protocolo local com a hemoterapia. O esquema de volume e taxa do RCH é de outro serviço e depende do produto local; não transferir automaticamente para bolsas brasileiras nem converter massa, unidades ou volume com valores amostrais. A ficha não gera dose, velocidade ou prescrição automática. [D1, D4–D5]
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 22)
 Hemorragias por deficiência de fibrinogênio, fator XIII e doença de von Willebrand quando concentrados
 específicos não estão disponíveis.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] RCH - Blood product prescription (rch.org.au)
 [S2] Ministério da Saúde - Guia para uso de hemocomponentes (bvsms.saude.gov.br)
+[D1] Ministério da Saúde — Portaria GM/MS 11.685/2026, Anexo IV-B, art. 106–107, regras pré-transfusionais e Anexo 6: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11685_03_07_2026.html
+[D2] Anvisa — Vigência da Portaria e orientação sobre transição: https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/ministerio-da-saude-atualiza-procedimentos-hemoterapicos-e-anvisa-orienta-periodo-de-transicao
+[D3] Ministério da Saúde — Portaria 158/2016, referência histórica: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2016/prt0158_04_02_2016.html
+[D4] Ministério da Saúde — Guia para uso de hemocomponentes, 2ª edição: https://bvsms.saude.gov.br/bvs/publicacoes/guia_uso_hemocomponentes_2ed.pdf
+[D5] Royal Children’s Hospital — Blood product prescription, referência australiana: https://www.rch.org.au/clinicalguide/guideline_index/Blood_product_prescription/
 FICHA 143 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 155
 ```
