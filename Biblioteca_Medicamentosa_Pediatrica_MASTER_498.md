@@ -6527,51 +6527,27 @@ FICHA 139 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 140. Colistimetato de Sódio (Colistina)
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Infecções graves por
-Gram-negativos
-multirresistentes
-≥4 semanas
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-COLISTIMETATO EV, dose expressa em COLISTINA BASE: 2,5-5
-mg/kg/DIA divididos a cada 8 h; máximo 450 mg de base/dia. Usar
-peso ideal. Duração pelo foco, suscetibilidade e controle da infecção.
-[S1]
-Neonatos: uso excepcional; foram usados 2,5-5 mg de base/kg/dia
-divididos a cada 6-12 h, sob infectologia.
-Fibrose cística -
-tratamento
-sistêmico
-≥4 semanas
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-Dose EV de até 8 mg de COLISTINA BASE/kg/DIA dividida a cada 8 h,
-máximo 450 mg/dia, foi descrita, com maior toxicidade; reservar à
-infectologia e monitorização intensiva. Duração segundo resposta
-pulmonar. [S1]
-Não é faixa rotineira segura para qualquer criança.
-Fibrose cística -
-Pseudomonas, via
-inalatória
-≥4 semanas
-<2 anos: 500.000-1.000.000 UI inaladas a cada 12 h; recorrência
-pode requerer a cada 8 h.≥2 anos: 1-2 milhões UI a cada 12 h por 3
-semanas; refratário: 2 milhões UI a cada 8 h por até 3 meses.
-Colonização crônica: 1-2 milhões UI a cada 12 h de forma contínua.
-[S1]
-Usar preparação adequada à nebulização; não trocar UI por mg de
-sal/base sem equivalência específica.
-MONITORIZAÇÃO E PRECAUÇÕES Neurotoxicidade e nefrotoxicidade; ajustar à função renal e
-suspender por toxicidade renal relevante. Não interpretar mg de colistimetato como mg de colistina
-base. Monitorar broncoespasmo na inalação.
+COLISTIMETATO DE SÓDIO • UNIDADES, APRESENTAÇÕES E SEGURANÇA
+Colistimetato de sódio (CMS) é pró-fármaco da colistina. Especificar se a quantidade está em UI de CMS, mg de CMS ou mg de atividade de colistina base (CBA). A tabela EMA é aproximada: 1.000.000 UI ≈ 80 mg de CMS ≈ 34 mg de CBA; 4.500.000 UI ≈ 360 mg de CMS ≈ 150 mg de CBA. A bula ABL informa aproximadamente 33,3 mg de colistina para 1.000.000 UI. Não multiplicar essas aproximações arredondadas como se fossem idênticas, nem trocar CMS por sulfato de colistina ou polimixina B. [D1–D3]
+ABL, registro 1.5562.0039: as bulas do titular identificam frascos de 1.000.000 UI (80 mg de CMS) e 2.000.000 UI (160 mg de CMS), para via intravenosa ou inalatória. A seção própria de 4.500.000 UI identifica frasco de 360 mg de CMS, equivalente a 150 mg de colistina base, para via intravenosa ou intramuscular; não é apresentação inalatória. [D1–D2]
+Promixin, Zambon, registro 1.0084.9957: a bula do titular identifica aproximadamente 1.000.000 UI por frasco de pó, para via intravenosa ou inalatória. O valor por mL no cadastro não substitui volume final e concentração da preparação específica. A Lista A identifica Colis-Tek, Opem, registro 1.2748.0023, rotulado por colistina base; não tratar como equivalente de preparo, nem extrapolar outras forças ou vias sem a bula exata. A Lista A não demonstra estoque ou vigência individual de cada apresentação. [D4–D6]
+Infecção invasiva por gram-negativos: decisão hospitalar guiada por foco, sensibilidade, alternativas disponíveis, função renal e revisão por infectologia/farmácia. Não transportar esquemas de adultos, inalação ou peso ideal de uma referência estrangeira para todos os pacientes pediátricos. Não extrapolar a posologia neonatal dos esquemas pediátricos; ajustar à maturidade e à função renal conforme protocolo especializado. [D1, D3, D4, D7]
+Nebulização é uma indicação distinta nas apresentações brasileiras cuja bula autoriza essa via, para infecção/colonização pulmonar por P. aeruginosa suscetível na fibrose cística. Não intercambiar com apresentação apenas injetável ou transportar a dose IV. A bula brasileira consultada do Promixin contraindica a nebulização na asma; tosse e broncoespasmo podem ocorrer. [D1, D4–D5]
+Monitorar função renal e sinais de neurotoxicidade; considerar risco de bloqueio neuromuscular, especialmente com relaxantes musculares. Confrontar hipersensibilidade a polimixinas, miastenia gravis e medicamentos nefro/neurotóxicos com a bula da apresentação. Risco não é computado a partir do total de UI. [D1, D3–D5]
+Conferir registro, via, forma de expressão da dose e identificação do frasco com a farmácia antes de preparar. A equivalência documental não é prescrição; não gera dose, volume, diluição, velocidade ou conversão automática. As posologias antigas permanecem no documento-fonte e no histórico, não como esquemas confirmados para o produto brasileiro. [D1–D7]
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 22)
 Tratamento de infecções graves por bacilos Gram-negativos multirresistentes (*Acinetobacter*,
 *Pseudomonas*, *KPC*); terapia inalatória em fibrose cística.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] Perth Children’s Hospital - Colistimethate monograph (pch.health.wa.gov.au)
+[D1] ABL, bula profissional das apresentações de 1, 2 e 4,5 milhões de UI: https://www.ablbrasil.com.br/wp-content/uploads/2026/07/Colistimetato-de-sodio-Bula-Profissional_IB180326_IB180520b.pdf
+[D2] ABL, bula do paciente das apresentações de 1, 2 e 4,5 milhões de UI: https://www.ablbrasil.com.br/wp-content/uploads/2026/07/Colistimetato-de-sodio-Bula-Paciente_IB180326_IB180520b.pdf
+[D3] EMA, revisão regulatória das polimixinas e tabela de equivalências aproximadas: https://www.ema.europa.eu/en/medicines/human/referrals/polymyxin-containing-medicines
+[D4] Zambon, bula profissional brasileira do Promixin: https://databaseprodotti.zambon.com/sites/default/files/product_downloads/PROMIXIN%20-%20PROFISSIONAL.pdf
+[D5] Zambon, bula do paciente brasileira do Promixin: https://databaseprodotti.zambon.com/sites/default/files/product_downloads/PROMIXIN%20-%20PACIENTE.pdf
+[D6] Anvisa, Lista A dos medicamentos de referência: registros de Colis-Tek e Promixin: https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia/arquivos/lista-a-incluidos-05022025.pdf
+[D7] Perth Children’s Hospital, ChAMP: monografia pediátrica, referência australiana: https://pch.health.wa.gov.au/-/media/Files/Hospitals/PCH/General-documents/Health-professionals/ChAMP-Monographs/Colistimethate-Sodium.pdf
 FICHA 140 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 152
 ```
