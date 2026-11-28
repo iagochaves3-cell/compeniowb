@@ -6430,53 +6430,28 @@ FICHA 136 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 137. Colchicina
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Febre familiar do
-Mediterrâneo
-≥4 anos
-COLCHICINA VO total diário: 4-<6 anos, 0,3-1,8 mg; 6-12 anos,
-0,9-1,8 mg; >12 anos, 1,2-2,4 mg. Administrar uma vez ao dia ou
-dividido a cada 12 h; titular em passos de 0,3 mg/dia por
-resposta/tolerância. Tratamento contínuo, usualmente prolongado.
-[S1]
-Faixas de bula norte-americana para comprimidos 0,6 mg; outras
-concentrações exigem ajuste preciso (no Brasil, CMED: comprimidos de
-0,5 mg e 1 mg, sem 0,6 mg; 0,3 mg/dia não é obtido exatamente: 1/2
-comprimido de 0,5 mg = 0,25 mg, aproximado e só se sulcado; 1,8 mg =
-3,6 comprimidos de 0,5 mg; arredondar com critério ou avaliar
-formulação manipulada). Não aplicar teto 2,4 mg aos
-menores.
-Pericardite aguda ou
-recorrente
-Crianças - off-label
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-Referência ESC pediátrica: ≤5 anos, 0,5 mg VO uma vez ao dia; >5
-anos, 1-1,5 mg/DIA divididos em 2-3 tomadas. Sem dose de ataque.
-Em associação ao anti-inflamatório: 3 meses após primeiro episódio;
-≥6 meses nas recorrências, individualizando. [S2]
-Fonte 2015; evidência pediátrica limitada. Reduzir por intolerância,
-função renal/hepática e interações; não usar faixa máxima
-automaticamente.
-Gota
-Indicação adulta no
-original
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-Sem esquema pediátrico estabelecido para crise ou profilaxia da
-gota; não transpor regime adulto. [S1]
-Condição rara em crianças exige investigação etiológica.
-MONITORIZAÇÃO E PRECAUÇÕES Margem terapêutica estreita. Claritromicina, azóis, ciclosporina
-e inibidores P-gp/CYP 3A 4 podem causar toxicidade fatal; associação é contraindicada na
-insuficiência renal/hepática. Monitorar hemograma, fígado, rim e miopatia.
+COLCHICINA • FORMULAÇÕES, INDICAÇÕES E SEGURANÇA
+Brasil, Colchis (Apsen): 0,5 mg por comprimido (1.0118.0109; caixas de 20 ou 30) e 1 mg por comprimido (1.0118.0595; caixa de 30). São registros distintos, ambos descritos como de uso oral adulto nas bulas digitais ao paciente. Não fracionar por inferência do vinco; conferir a instrução da apresentação real. [D1, D2]
+Brasil, colchicina Geolab 0,5 mg (1.5423.0203), caixa com 30 comprimidos no material do titular. Os registros constam em recortes oficiais da Anvisa, que não comprovam estoque ou a vigência de cada embalagem. O comprimido norte-americano de 0,6 mg não é intercambiável por contagem de comprimidos com as apresentações brasileiras. [D3, D5]
+Na febre familiar do Mediterrâneo pediátrica, EULAR/PReS orienta tratamento sob acompanhamento especializado, com titulação conforme idade, resposta inflamatória e tolerância. Isso não torna a bula brasileira adulta uma autorização pediátrica. As faixas da rotulagem norte-americana para 0,6 mg não são convertidas automaticamente para apresentações brasileiras nem para outras indicações. [D4, D5]
+Na pericardite pediátrica, a diretriz ESC 2025 discute a colchicina como adjuvante para reduzir recorrência. É contexto distinto da febre familiar do Mediterrâneo e da gota. Não extrapolar a tabela geral de doses da ESC para crianças ou assumir indicação pediátrica em bula brasileira. [D1, D2, D6]
+As bulas brasileiras consultadas descrevem indicação de gota em adultos; os esquemas de crise e profilaxia não são adaptados automaticamente para crianças. [D1, D2]
+Margem terapêutica estreita. Conferir inibidores de P-gp e/ou CYP3A4 antes de usar, especialmente claritromicina. A bula Apsen e o Ministério da Saúde registram risco de elevação acentuada de exposição e toxicidade grave. A rotulagem norte-americana contraindica a combinação com inibidores de P-gp ou fortes de CYP3A4 se houver disfunção renal ou hepática. Não aplicar uma tabela estrangeira de ajustes ao produto brasileiro. [D1, D5, D7]
+As bulas brasileiras de Colchis trazem restrições para doença renal ou hepática grave e orientações específicas que não devem ser convertidas em ajuste pediátrico automático. Rever função renal e hepática, hemograma e risco de miopatia, inclusive quando houver estatina/fibrato. Se houver suspeita de intoxicação, avaliar com urgência e consultar o CIATox. [D1, D2]
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 22)
 Tratamento e profilaxia da febre familiar do Mediterrâneo e crises de gota (uso adulto); pericardite aguda e
 recorrente em pediatria (off-label).
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] DailyMed - colchicine tablets (dailymed.nlm.nih.gov)
 [S2] ESC 2015 - Web addenda, tabelas pediátricas de pericardite (sks.sk)
+[D1] Apsen: Colchis 0,5 mg, VP digital: https://produtos.apsen.com.br/colchis-0-5-mg
+[D2] Apsen: Colchis 1 mg, VP digital: https://produtos.apsen.com.br/colchis-1-0-mg
+[D3] Geolab: colchicina 0,5 mg, ficha do titular: https://www.geolab.com.br/produtos/colchicina/
+[D4] EULAR/PReS: recomendações 2024 para febre familiar do Mediterrâneo: https://pubmed.ncbi.nlm.nih.gov/40234174/
+[D5] DailyMed: COLCRYS 0,6 mg, referência dos EUA: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d6adc880-5499-4691-93f3-27c87902d5fc
+[D6] ESC 2025: miocardite e pericardite, capítulo pediátrico: https://academic.oup.com/eurheartj/article/46/40/3952/8234483
+[D7] Ministério da Saúde: interação claritromicina–colchicina: https://bvsms.saude.gov.br/bvs/publicacoes/guia_cuidado_farmaceutico_hanseniaseimp.pdf
 FICHA 137 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 149
 ```
