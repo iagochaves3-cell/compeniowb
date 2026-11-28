@@ -6259,40 +6259,28 @@ FICHA 132 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 133. Clorpromazina
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Agitação importante;
-náuseas/vômitos refratários
-6 meses-12 anos
-ADMINISTRAR 0,55 mg/kg/dose VO a cada 4-6 h conforme necessidade. Reavaliar antes de
-repetir e usar pelo menor período possível.
-Conversão da bula 0,25 mg/libra. A fonte oral não define teto pediátrico uniforme; doses
-psiquiátricas elevadas do texto não constituem teto de emergência.
-[S1]
-Soluço intratável
-Pediatria
-Sem posologia pediátrica estabelecida na bula aberta; não transpor 25-50 mg por tomada
-do adulto.
-A própria bula contraindica extrapolar para condições sem dose pediátrica definida.
-[S1]
-Coreia de Sydenham
-Pediatria - indicação off-label do
-original
-OMITIDO DA PRESCRIÇÃO
-AUTOMÁTICA
-Esquema omitido da prescrição automática.
-Registro histórico de 2 mg/kg/dia não define sozinho intervalo e teto; consenso de 2025
-alerta para efeitos adversos dos antipsicóticos antigos. Não usar dose de agitação.
-[S1, R1, R2, DELTA]
-MONITORIZAÇÃO E PRECAUÇÕES: Monitorar pressão, ECG/QT, distonia, sedação e síndrome neuroléptica maligna. Não usar para
-mascarar vômitos por doença neurológica/obstrução; maior sensibilidade em lactentes.
+CLORPROMAZINA BASE E CLORIDRATO • REVISÃO FOCAL DE SEGURANÇA
+Longactil/Cristália (registro 1.0298.0226), solução oral: 40 mg de base/mL equivalem a 44,575 mg de cloridrato/mL. Bula descreve caixa com 10 frascos de 20 mL e 40 gotas/mL do próprio gotejador.
+Atenção: a VP e a VPS de Longactil oral chamam cada gota de “1 mg de cloridrato”, mas a composição e o gotejador declarados dão 1 mg de base por gota e 1,114375 mg de sal por gota. Esta é uma conferência de rótulo, não fator operacional. Confirme apresentação, unidade e dispositivo com a farmácia; conversão e prescrição automáticas não liberadas.
+Longactil/Cristália injetável, exclusivamente intramuscular na bula: 5 mg de base/mL = 5,57 mg de cloridrato/mL, caixa com 10 ampolas de 5 mL. Não transpor para via intravenosa nem para a preparação oral.
+Longactil/Cristália, comprimidos revestidos orais: 25 mg de base = 27,86 mg de cloridrato; 100 mg de base = 111,44 mg de cloridrato; embalagens de 200 comprimidos de cada força.
+Amplictil/Blanver (1.1524.0020), via oral: solução de 40 mg de base/mL = 44,5 mg de cloridrato/mL em frasco de 20 mL. O gotejador próprio é descrito como 40 gotas/mL. A bula do titular também lista comprimidos revestidos de 25 mg e 100 mg em embalagens de 20. Não transferir gotejador, unidade, forma ou via entre produtos.
+As bulas brasileiras consultadas identificam uso pediátrico acima de 2 anos. O esquema por peso a partir de 6 meses da ficha antiga vinha de fonte estrangeira e não é pauta para estas apresentações. A coreia de Sydenham permanece menção histórica off-label, sem extrapolação de esquema. Nenhuma posologia pediátrica foi automatizada.
+O cadastro aberto da Anvisa de 20/11/2026 contém linhas ativas e inativas de Longactil e linhas ativas de Amplictil. O extrato não confirma o status de cada SKU nem disponibilidade no serviço. A VP Amplictil está no fabricante; a VPS Blanver encontrada em espelho é documental e não foi vinculada ao arquivo vigente no Bulário.
+
+MONITORIZAÇÃO E PRECAUÇÕES Confira pressão, risco de QT, sedação, distonia e síndrome neuroléptica maligna no contexto assistencial. Não mascarar vômitos com suspeita de causa neurológica ou obstrutiva; não extrapolar para lactentes. Glaucoma de ângulo fechado, retenção urinária e uso concomitante de levodopa constam entre as situações de não uso nas bulas orais consultadas.
 INDICAÇÕES DOCUMENTAIS: Agitação psicomotora grave, soluços intratáveis, náuseas e vômitos refratários; coreia de Sydenham (off-label).
-FONTES • REVISÃO DIRIGIDA EM 14/09/2026
-[S1] DailyMed - clorpromazina oral
-[R1] Kulkarni ML, Anees S. Sydenham's chorea. Indian Pediatrics. 1996; 33: 112–115.
-[R2] Evaluation, Diagnosis, and Treatment of Sydenham Chorea: Consensus Guidelines. Pediatrics.156(6): e 2025072466.
-[DELTA] Revisão dirigida em 14/09/2026
+FONTES DO ESQUEMA • REFERÊNCIAS DOCUMENTAIS · 28/11/2026
+
+[D1] Cristália · Longactil oral · VPS: https://www.cristalia.com.br/produto/286/bula-profissional
+[D2] Cristália · Longactil oral · VP: https://www.cristalia.com.br/produto/286/bula-paciente
+[D3] Cristália · Longactil intramuscular · VPS: https://www.cristalia.com.br/produto/264/bula-profissional
+[D4] Cristália · Longactil intramuscular · VP: https://www.cristalia.com.br/produto/264/bula-paciente
+[D5] Cristália · Longactil comprimidos · VPS: https://www.cristalia.com.br/produto/322/bula-profissional
+[D6] Cristália · Longactil comprimidos · VP: https://www.cristalia.com.br/produto/322/bula-paciente
+[D7] Blanver · Amplictil · VP: https://blanver.com.br/wp-content/uploads/2025/07/bula_Amplictil_Paciente.pdf
+[D8] Blanver · Amplictil · cópia da VPS (espelho, vigência não atestada): https://cr-net-public-prod.s3.amazonaws.com/product_leaflet/8F5BEE7307D7553E2C485D3E28F6D0EA.pdf
+[D9] Anvisa · diretório oficial de registros: https://dados.anvisa.gov.br/dados/CONSULTAS/PRODUTOS/
 FICHA 133 / 498 • REFERÊNCIAS CLICÁVEIS • REV. 14/09/2026
 145
 ```
