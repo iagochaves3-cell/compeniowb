@@ -6534,39 +6534,25 @@ FICHA 138 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 139. Colestiramina
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Prurido colestático
-Crianças
-COLESTIRAMINA: ADMINISTRAR 60 mg/kg/dose VO uma ou duas
-vezes ao dia. Iniciar uma vez ao dia e aumentar em intervalos de 5-7
-dias conforme resposta/tolerância. Duração conforme
-colestase/prurido; reavaliar continuamente. [S1]
-Dose de resina, não peso total do sachê; não usar em obstrução
-biliar completa.
-Diarreia por má
-absorção de ácidos
-biliares
-Crianças -
-individualizar,
-especialmente
-recém-nascidos
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-Dose inicial descrita em bula: 2-8 g/DIA de resina VO divididos em 3
-tomadas, utilizando o extremo inferior nos menores e ajustando à
-resposta. Deve haver benefício em 3 dias; sem resposta, procurar
-alternativa. [S1]
-Faixa ampla não é prescrição automática por idade/peso; cautela em
-neonatos e risco de obstrução.
-MONITORIZAÇÃO E PRECAUÇÕES Nunca ingerir pó seco; dispersar em líquido. Dar outros
-medicamentos ≥1 h antes ou 4-6 h depois. Monitorar constipação, vitaminas lipossolúveis e acidose
-hiperclorêmica.
+COLESTIRAMINA • APRESENTAÇÃO, INDICAÇÕES E SEGURANÇA
+Brasil: Questran Light, Moksha8, registro 1.6425.0004; apresentação 1.6425.0004.001-9, pó para suspensão oral, caixa com 50 envelopes. Cada envelope contém 4 g de resina colestiramina anidra; 4,68 g é a massa total do pó, não a dose de resina. O cadastro informa 854,4 mg/g; a pequena diferença ao multiplicar os números cadastrais não autoriza recalcular a quantidade nominal de resina do envelope. A indicação da Lista A de 4 g/90 mL não define uma solução comercial pronta nem autoriza fracionar por volume. [D1–D4]
+Via oral. Dispersar antes de ingerir, conforme a bula do produto; não ingerir o pó seco. Não presumir estabilidade do envelope aberto, concentração homogênea para fracionamento ou equivalência com outros sachês. A bula consultada orienta usar imediatamente após abrir o envelope. [D1]
+Questran Light da bula Moksha8 consultada: contém aspartamo, equivalente a 16,8 mg de fenilalanina por envelope, e 32,5 mg de propilenoglicol por envelope. São valores desta formulação, não da classe. Considerar a advertência para fenilcetonúria; abaixo de 4 kg, a bula ressalta cautela com outros substratos da álcool-desidrogenase e monitorização em disfunção renal ou hepática. Não é autorização para uso neonatal. [D1]
+Prurido associado à obstrução biliar parcial consta na bula brasileira. Obstrução biliar completa e hipersensibilidade aos componentes são contraindicações. Não extrapolar a posologia para toda colestase ou usar a resposta ao medicamento para diagnosticar a causa. Casos pediátricos exigem avaliação da etiologia e acompanhamento. [D1, D5]
+A bula brasileira descreve uso adjuvante na diarreia por má absorção de ácidos biliares, mas traz advertência contra o uso na diarreia aguda ou persistente da criança, além de vedar o uso com fezes sanguinolentas ou diarreia exsudativa. Não tratar essas situações como indicação automática; na diarreia aguda do lactente, não atrasar reidratação. Uma faixa ampla da seção de posologia pediátrica não autoriza prescrição neonatal, nem substitui diagnóstico e seguimento especializado. [D1, D5]
+Hipercolesterolemia é indicação distinta, com avaliação de causas secundárias, tratamento dietético e acompanhamento do perfil lipídico, inclusive triglicérides. A posologia adulta e os dados sobre prevenção coronariana não devem ser transferidos para crianças. [D1, D5]
+Pode reduzir a absorção de medicamentos por via oral, como levotiroxina, varfarina e ácido ursodesoxicólico. A bula consultada orienta administrar os demais medicamentos pelo menos 1 hora antes ou 4 a 6 horas depois; conferir recomendações específicas de cada interação. Rever medicamentos de faixa terapêutica estreita ao iniciar ou suspender a resina. [D1, D5]
+Monitorar constipação e risco de impactação ou obstrução intestinal, especialmente em pediatria. Uso prolongado pode reduzir vitaminas lipossolúveis, em particular A, D e K; avaliar sangramento por deficiência de vitamina K. A bula alerta para acidose hiperclorêmica em crianças e na insuficiência renal, inclusive risco acrescido com espironolactona. Cálculo e prescrição automáticos não habilitados. [D1, D5]
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 22)
 Prurido associado a colestase crônica, diarreia por má absorção de ácidos biliares.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] Questran Light - bula profissional (uploads.consultaremedios.com.br)
+[D1] Questran Light Moksha8, bula ao paciente RevVP07, cópia do documento do titular: https://uploads.consultaremedios.com.br/drug_leaflet/Bula-Questran-Light-Paciente-Consulta-Remedios.pdf
+[D2] Anvisa, Lista A: colestiramina e registro de referência: https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia/arquivos/lista-a-incluidos-05022025.pdf
+[D3] Município de São Paulo: apresentação 1.6425.0004.001-9 em ata de 2025: https://prefeitura.sp.gov.br/documents/d/saude/ata58425-pdf
+[D4] Anvisa: consulta do registro 25351.041286/2019-42: https://consultas.anvisa.gov.br/#/medicamentos/25351041286201942/
+[D5] Bristol-Myers Squibb: bula profissional histórica Rev.0818; não atribuir ao titular atual: https://www.bms.com/assets/bms/brazil/documents/hcp/bulas-profissionais-otimizadas/QUESTRAN%20LIGHT_PO%20ORAL_VPS_Rev.0818.pdf
 FICHA 139 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 151
 ```
