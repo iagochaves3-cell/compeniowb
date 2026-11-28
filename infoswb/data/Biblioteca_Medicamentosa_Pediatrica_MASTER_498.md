@@ -6726,6 +6726,14 @@ FICHA 144 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 145. Dantroleno Sódico
+REVISÃO DOCUMENTAL • DANTROLENO SÓDICO • 28/11/2026
+Dantrolen (Cristália, registro 1.0298.0206) é pó para solução intravenosa de uso hospitalar em adultos e crianças. O frasco contém 20 mg de dantroleno sódico, equivalentes a 23,75 mg do hemieptaidratado; não contabilizar as duas massas como doses diferentes. A caixa documentada contém 12 frascos e 12 diluentes de 60 mL. [D1–D3]
+Para esta apresentação brasileira, a bula profissional orienta adicionar 60 mL de água para injetáveis estéril, sem conservante, e declara 0,33 mg/mL após preparo. É uma concentração arredondada de bula, não 20 mg/mL nem 1 mg/mL. SF 0,9%, glicose 5% e outras soluções ácidas não servem para reconstituir esse produto. Proteção de luz direta, 15–30 °C e até 6 horas após preparo são condições da bula. Evitar extravasamento. Não usar o volume de diluente de outra apresentação. [D1–D2]
+Na crise de hipertermia maligna, o dantroleno IV é resgate hospitalar acompanhado de medidas de suporte e interrupção dos agentes desencadeantes. A bula também contempla uso perioperatório em suscetíveis; isso não significa profilaxia de rotina. O EMHG não recomenda dantroleno pré-operatório de rotina e recomenda técnica anestésica sem desencadeantes. Não confundir prevenção pré-operatória com manejo da recrudescência após uma crise. [D1, D4–D5]
+Formulações estrangeiras não são intercambiáveis: Ryanodex (EUA) é suspensão IV de 250 mg, reconstituída com 5 mL, 50 mg/mL conforme bula. Agilus (UE) é solução IV de 120 mg de hemieptaidratado; adicionam-se 20 mL de água, obtendo-se 22,6 mL finais e 5,3 mg/mL conforme a EMA. O cálculo com 20 mL como volume final é incorreto para Agilus. Dantrium cápsulas é outra forma, com alerta de hepatotoxicidade; não substitui o resgate IV. Os documentos estrangeiros não confirmam registro ou disponibilidade no Brasil. [D6–D8]
+Síndrome neuroléptica maligna é contexto separado, fora da indicação brasileira de crise de hipertermia maligna. A evidência para dantroleno nesse cenário é limitada; não transferir dose, velocidade ou manutenção do protocolo anestésico. As referências históricas abaixo não constituem prescrição. Esta revisão não libera nova dose nem cálculo. [D1, D9]
+
+REGISTRO HISTÓRICO • NÃO OPERACIONAL POR ESTE ADENDO
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
 INDICAÇÃO / POPULAÇÃO
 DOSE, INTERVALO E DURAÇÃO
@@ -6780,6 +6788,16 @@ FONTES • REVISÃO DIRIGIDA EM 14/09/2026
 [R3] Utah Poison Control — dantroleno na SNM, 30/05/2025
 [R4] Red de Antídotos — Dantroleno 120 mg
 [DELTA] Bula/referência reaberta em 14/09/2026
+FONTES DO ESQUEMA • REVISÃO DOCUMENTAL
+[D1] Cristália: bula profissional brasileira de Dantrolen: https://www.cristalia.com.br/produto/76/bula-profissional
+[D2] Cristália: bula brasileira do paciente: https://www.cristalia.com.br/produto/76/bula-paciente
+[D3] Anvisa: IN 353/2025, Dantrolen 20 mg, Lista de Medicamentos de Referência: https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9431&cod_modulo=310&link=S&numeroAto=00000353&orgao=DC%2FANVISA%2FMS&seqAto=000&tipo=INM&valorAno=2025
+[D4] EMHG: crise de hipertermia maligna, revisão 2024: https://www.emhg.org/recommendations-1/2024/11/4/recognising-and-managing-a-malignant-hyperthermia-crisis-v2024
+[D5] EMHG: manejo perioperatório e profilaxia: https://www.emhg.org/recommendations-1/2018/2/27/perioperative-management-of-mh-suspected-or-susceptible-patients
+[D6] DailyMed: Ryanodex IV, bula norte-americana: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f7b3ac0-604d-4c78-b545-5e0f8ea3d698
+[D7] EMA: Agilus IV, informação europeia do produto: https://www.ema.europa.eu/en/documents/product-information/agilus-epar-product-information_en.pdf
+[D8] DailyMed: Dantrium cápsulas e aviso hepático: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=57b4eec1-49e1-432c-95ae-0fe36e32d64b
+[D9] Utah Poison Control: limites da evidência em síndrome neuroléptica maligna: https://poisoncontrol.utah.edu/news/2025/05/utility-of-dantrolene-treating-neuroleptic-malignant-syndrome
 FICHA 145 / 498 • REFERÊNCIAS CLICÁVEIS • REV. 14/09/2026
 157
 ```
