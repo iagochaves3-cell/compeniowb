@@ -6434,54 +6434,29 @@ FICHA 137 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 138. Colecalciferol (Vitamina D3)
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Prevenção de
-deficiência;
-manutenção da
-homeostase mineral
-Nascimento-12 meses;
->12 meses
-COLECALCIFEROL VO: 400 UI uma vez ao dia no primeiro ano; 600 UI
-uma vez ao dia após 12 meses, considerando dieta e fatores de
-risco. Manutenção contínua durante período de necessidade. [S1]
-1 mcg=40 UI; a concentração por gota varia muito.
-Deficiência de
-vitamina D -
-reposição
-0-18 anos, deficiência
-confirmada
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-Alternativa descrita pela SBP/Endocrine Society: 2.000 UI VO
-diariamente por 6 semanas OU 50.000 UI VO uma vez por semana
-por 6 semanas, com controle laboratorial e posterior manutenção.
-Em lactentes, priorizar esquema diário; dose semanal alta exige
-supervisão especializada. [S1]
-As alternativas NÃO se somam. Pós-reposição: 400-1.000 UI/dia <1
-ano; 600-1.000 UI/dia ≥1 ano. Dose acima da prevenção tem
-duração delimitada.
-Raquitismo
-nutricional
-Crianças/adolescentes
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-Esquema do consenso global citado pela SBP: ≤12 meses, 2.000 UI
-VO/dia; 1-12 anos, 3.000-6.000 UI/dia; >12 anos, 6.000 UI/dia; por
-12 semanas, associado a aporte adequado de cálcio. Depois
-manutenção 400 UI/dia no primeiro ano ou 600 UI/dia após. [S1]
-Alternativa AAP citada: neonato 1.000 UI/dia; 1-12 meses
-1.000-5.000 UI/dia; >12 meses 5.000 UI/dia, por 8-12 semanas.
-Escolher um protocolo, sem combinar faixas.
-MONITORIZAÇÃO E PRECAUÇÕES Dosar 25-OH-D, cálcio, fósforo, fosfatase alcalina e PTH quando
-indicado; vigiar hipercalcemia/hipercalciúria. Não usar megadoses crônicas ou confundir deficiência
-nutricional com raquitismo genético.
+COLECALCIFEROL • APRESENTAÇÕES, PREVENÇÃO E TRATAMENTO
+Addera D3 (Cosmed), solução oral em gotas da bula brasileira ao paciente: 3.300 UI/mL, 25 gotas/mL e 132 UI/gota; frascos de 10 ou 20 mL. A identificação indica uso pediátrico acima de 3,3 kg. Não generalizar esse limite para outros produtos ou assumir elegibilidade no valor exato. [D1]
+Outra apresentação da mesma bula: solução oral de 10.000 UI/mL, 25 gotas/mL e 400 UI/gota; frasco de 10 mL. A identificação indica uso pediátrico acima de 2 meses. As apresentações não são intercambiáveis pelo número de gotas. UI/gota é propriedade do produto e dispositivo; não inferir um fator genérico. [D1]
+Medicamentos e suplementos são categorias distintas. Conferir no rótulo a regularização, a quantidade por unidade e, em líquidos, se o valor é por gota, mL ou porção. Para colecalciferol, 1 mcg = 40 UI; não aplicar esse fator a calcitriol ou calcifediol. [D1, D6, D7]
+Prevenção sem fatores de risco: as duas cópias públicas do Documento Científico 181 da SBP concordam em 400 UI/dia abaixo de 1 ano, mas o Quadro 8 para 1–18 anos diverge: 600 UI/dia na cópia 24540h e 600–1.200 UI/dia na 24540j. A precedência editorial não foi confirmada no acervo autenticado. Não escolher automaticamente uma faixa ou confundir prevenção com tratamento. O Manual de Alimentação tem recorte próprio (inclui 600 UI/dia dos 12 aos 24 meses e ressalva para lactentes que ingerem pelo menos 1.000 mL/dia de fórmula). [D2, D3, D4]
+Com fatores de risco (por exemplo, má absorção, hepatopatia, nefropatia ou anticonvulsivantes), individualizar conforme a condição. A faixa proposta para grupos de risco não é uma dose geral. Para prematuros, usar protocolo neonatal e somar aportes da fórmula, fortificador e demais suplementos. O Manual de Alimentação descreve início da suplementação oral profilática após peso superior a 1.500 g e nutrição enteral plena; isso não autoriza usar produto cuja bula exclua o paciente. [D1–D4]
+Deficiência documentada: o Quadro 7 da SBP compara esquemas de diferentes sociedades, não é uma prescrição única para 0–18 anos. Distinguir reposição diária, esquemas intermitentes e manutenção; não combinar os esquemas. Não usar a antiga linha semanal de dose alta como recomendação genérica, especialmente em lactentes. A escolha depende do diagnóstico, idade, gravidade e seguimento. [D2, D3]
+Raquitismo nutricional: o consenso internacional trata essa condição separadamente da hipovitaminose assintomática, recomenda assegurar o aporte de cálcio durante o tratamento e reavaliar a resposta. Não extrapolar para raquitismo hereditário, doença renal ou outras causas. [D2, D3, D5]
+Na bula consultada, hipervitaminose D e hipercalcemia são contraindicações. Conferir todas as fontes de vitamina D e os análogos concomitantes; excesso pode causar hipercalcemia, hipercalciúria e lesão renal. Disfunção renal e uso de tiazídicos exigem avaliação. [D1]
+Não usar o teor de uma apresentação para converter gotas de outra. Não confundir porção com gota, nem concentração em UI/mL com dose. Cálculo automático e prescrição não habilitados nesta ficha.
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 22)
 Prevenção e tratamento da deficiência de vitamina D, raquitismo carencial e suporte à homeostase mineral
 óssea.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] SBP - Hipovitaminose D, atualização 2024 (sbp.com.br)
+[D1] Addera D3/Cosmed, bula ao paciente: seções de 3.300 UI/mL e 10.000 UI/mL: https://bula-anvisa.s3.sa-east-1.amazonaws.com/178170028_paciente.pdf
+[D2] SBP 181/2024, arquivo 24540h, Quadros 7 e 8: https://www.sbp.com.br/fileadmin/11/DC_HipovitD_diagn-tratam-prevenc_Atualiz.pdf
+[D3] SBP 181/2024, arquivo 24540j, Quadros 7 e 8: https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/novembro/25/24540j-DC_HipovitD_diagn-tratam-prevenc_Atualiz.pdf
+[D4] SBP, Manual de Alimentação, suplementação de vitamina D: https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/outubro/31/24607e-ManAlim-OrientAlim_Lactente_ao_adl_na_escola-gest.pdf
+[D5] Consenso internacional sobre raquitismo nutricional, seções 2.2 e 2.3: https://pmc.ncbi.nlm.nih.gov/articles/PMC4880117/
+[D6] Anvisa: identificação e segurança de suplementos alimentares: https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/entenda-os-suplementos-alimentares-o-que-voce-precisa-saber-para-usar-com-seguranca-1
+[D7] Anvisa: equivalência em UI de colecalciferol: https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/alimentos/manuais-guias-e-orientacoes/alegacoes_plenamente_reconhecidas_nota_tecnica_43.pdf
 FICHA 138 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 150
 ```
