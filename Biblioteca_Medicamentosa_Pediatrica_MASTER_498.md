@@ -6349,30 +6349,25 @@ FICHA 134 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 135. Codeína
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Dor moderada
-Adolescentes ≥12 anos
-- uso restrito
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-CODEÍNA solução oral 3 mg/mL (15 mg = 5 mL): 0,5-1 mg/kg/dose VO a cada 4-6 h, reduzindo
-a dose calculada/omitindo tomadas para NÃO ultrapassar 60 mg no
-total de 24 h, teto pediátrico da bula brasileira consultada. Dor
-aguda: menor período possível, com reavaliação e retirada à
-melhora; bula descreve até cerca de 4 dias. [S1]
-Não usar <12 anos, após tonsilectomia/adenoidectomia em <18
-anos, em metabolizador CYP 2D6 ultrarrápido ou com depressão
-respiratória. Evitar também se a função respiratória puder estar comprometida (apneia do sono, obesidade, doença pulmonar/cardíaca/neuromuscular grave, trauma maior ou cirurgia extensa; EMA/MHRA/FDA, não consta na bula S1) e usar só se paracetamol ou ibuprofeno isolados forem insuficientes. O teto 60 mg/DIA não é 60 mg/dose.
-MONITORIZAÇÃO E PRECAUÇÕES Metabolismo imprevisível em morfina; monitorar ventilação e
-sedação. Evitar benzodiazepínicos e outros depressores. A apresentação comprimido desta bula não
-é indicada em pediatria.
-INDICAÇÕES DO PDF-BASE (registro documental, p. 21)
-Dor moderada a intensa em adolescentes elegíveis acima de 12 anos (contraindicada para analgesia
-pós-tonsilectomia em menores de 18 anos).
+CONSULTA DOCUMENTAL • DOR MODERADA
+Acima de 12 anos na identificação da bula; não inferir elegibilidade aos 12 anos exatos.
+A solução oral é contraindicada abaixo de 12 anos e em menores de 18 para a dor após adenoidectomia ou amigdalectomia. O cabeçalho indica uso acima de 12 anos; as duas frases não autorizam uso aos 12 exatos por inferência. Não usar em depressão respiratória. Metabolizadores ultrarrápidos de CYP2D6 têm risco de toxicidade por morfina; escolher alternativa e consultar as restrições da apresentação. Monitorar sedação e ventilação; avaliar depressores do sistema nervoso central. [D1, D3]
+APRESENTAÇÕES E RESTRIÇÕES • REVISÃO DOCUMENTAL DE 28/11/2026
+Solução oral de Codein 3 mg/mL, frasco de 120 mL com dosador. A bula profissional a descreve para dor moderada. O limite pediátrico oral informado é 60 mg no total de 24 horas, não 60 mg por dose nem uma meta. Não ajustar intervalos ou omitir tomadas por cálculo automático. [D1]
+Codein injetável: 30 mg/mL, 25 ampolas de 2 mL; somente intramuscular ou subcutâneo na bula, não IV. O cabeçalho também descreve uso acima de 12 anos. Concentração dez vezes maior que a solução oral; não intercambiar via, volume ou regime. O restante da ampola aberta deve ser descartado. [D1]
+Comprimidos de Codein 30 mg e 60 mg, caixas com 12 ou 30 unidades: uso oral adulto no produto consultado; não trasladar o regime da solução pediátrica. [D1–D2]
+Segurança internacional, separada da bula brasileira: a EMA restringe a analgesia pediátrica a dor aguda moderada acima de 12 anos quando outros analgésicos não são suficientes. A FDA limita os opioides prescritos para tosse e resfriado a adultos nos EUA; isso não é uma extensão da indicação do Codein nem uma regra brasileira. [D3–D4]
+Registro de produto 1.0298.0199. A lista de referência da Anvisa diferencia comprimidos, solução oral e injetável. O recorte agregado de 20/11/2026 não estabelece disponibilidade comercial nem estado individual de cada embalagem. [D5]
+
+INDICAÇÕES DO PDF-BASE • p. 21 (histórico)
+A fonte-base tratava da analgesia em adolescentes elegíveis; para indicação e idade, conferir a bula da apresentação acima.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] Cristália - Codein, bula profissional (uploads.consultaremedios.com.br)
+[D1] Cristália — bula profissional Codein por apresentação: https://www.cristalia.com.br/produto/72/bula-profissional
+[D2] Cristália — Codein comprimidos 30 e 60 mg: https://www.cristalia.com.br/produto/comprimidos-30-e-60-mg
+[D3] EMA — restrições para analgesia pediátrica: https://www.ema.europa.eu/en/medicines/human/referrals/codeine-containing-medicines
+[D4] FDA — alerta de opioides para tosse e resfriado: https://www.fda.gov/media/110565/download
+[D5] Anvisa — Lista A de medicamentos de referência: https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia/arquivos/lista-a-incluidos-05022025.pdf
 FICHA 135 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 147
 ```
