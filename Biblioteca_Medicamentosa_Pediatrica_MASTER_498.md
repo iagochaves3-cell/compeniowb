@@ -6116,6 +6116,12 @@ ALERTA SANITÁRIO • ANVISA • RE 4.622/2026, PUBLICADA EM 26/11/2026
 Não utilizar cloreto de sódio 20% Isofarma/Halex Istar, registro 1.0311.0159.002-1, lote 6060169, validade 17/06/2028. A Anvisa suspendeu comercialização, distribuição e uso do lote, com recolhimento voluntário, por partículas estranhas.
 A mesma resolução determina recolhimento e suspensão de uso do cloreto de sódio 0,9% Sandom (notificação simplificada), lotes a partir de 01/11/2025. Se localizado no estoque, segregar e avisar a farmácia. Não estender o alerta a outras marcas, lotes ou concentrações não abrangidos pelo ato.
 
+APRESENTAÇÕES E CONCENTRAÇÕES • CONFERÊNCIA FOCAL DE BULA
+Isofarma/Halex Istar (registro de produto informado na bula: 1.0311.0159). NaCl 0,9% (9 mg/mL): solução injetável IV, em caixas de 200 ampolas de 10 mL, 100 ampolas de 20 mL ou 80 bolsas de 100 mL. Cada litro contém 154 mEq de sódio e 154 mEq de cloreto (0,154 mEq/mL de cada íon).
+No mesmo registro, NaCl 10% (100 mg/mL) e 20% (200 mg/mL) são concentrados para diluição e infusão, em caixas de 200 ampolas de 10 mL. O rótulo informa, respectivamente, 1,711 e 3,422 mEq/mL de sódio e os mesmos valores de cloreto. São concentrações da ampola, não da infusão final. Não são soluções prontas para administração IV direta nem substitutas de 0,9%, 2,7% ou 3%.
+NaCl 0,9% Halex Istar em bolsas Soluflex tem registro distinto, 1.0311.0011, e o mesmo teor de 154 mEq/L de cada íon. Os números de registro e apresentações identificam as bulas consultadas; não confirmam registro vigente ou estoque. O alerta acima se aplica somente aos produtos e lotes descritos na resolução.
+Escopo desta revisão: apresentação, via e unidade dos produtos listados. Não revisa a posologia histórica abaixo, não autoriza preparo ou substituição e não habilita cálculo automático. Formulações nasais não são para injeção.
+
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
 INDICAÇÃO / POPULAÇÃO
 DOSE, INTERVALO E DURAÇÃO
@@ -6175,6 +6181,10 @@ FONTES DO ESQUEMA • REVISÃO FOCAL EM 14/09/2026
 [S5] Farmasa - Rinosoro SIC 3%, bula profissional (uploads.consultaremedios.com.br)
 [S6] Farmasa - Rinosoro Jet 0,9%, bula (bulas.med.br)
 [D1] Anvisa • Resolução RE 4.622/2026, anexo itens 1 e 4: https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&codTipo=&cod_menu=1696&cod_modulo=134&desItem=&desItemFim=&link=S&numeroAto=00004622&orgao=RE%2FGGFIS%2FANVISA%2FMS&pesquisa=true&seqAto=000&tipo=RES&valorAno=2026
+[D2] Isofarma 0,9%, 10% e 20% · bula profissional: https://halexistar.com.br/wp-content/uploads/2026/09/2-1261705.pdf
+[D3] Isofarma 0,9%, 10% e 20% · bula do paciente: https://halexistar.com.br/wp-content/uploads/2026/09/1-911042.pdf
+[D4] Halex Istar 0,9% Soluflex · bula profissional: https://halexistar.com.br/wp-content/uploads/2026/09/2-1514413.pdf
+[D5] Halex Istar 0,9% Soluflex · bula do paciente: https://halexistar.com.br/wp-content/uploads/2026/09/1-913500.pdf
 FICHA 131 / 498 • REFERÊNCIAS CLICÁVEIS • REV. 14/09/2026
 143
 ```
