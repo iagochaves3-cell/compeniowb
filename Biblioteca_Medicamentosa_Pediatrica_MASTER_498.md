@@ -6806,6 +6806,14 @@ FICHA 146 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 147. Deferasirox
+REVISÃO DOCUMENTAL • DEFERASIROX • 28/11/2026
+Brasil: Exjade (Novartis, 1.0068.1040) consta na Lista A da Anvisa com comprimidos para suspensão de 125 mg, 250 mg e 500 mg. A indicação da bula profissional brasileira é sobrecarga crônica de ferro de origem transfusional, incluindo crianças com 2 anos completos ou mais no item 1. O PCDT do Ministério da Saúde de janeiro de 2026 também trabalha com comprimidos para suspensão nessas três apresentações e exclui menores de 2 anos. Não é protocolo de intoxicação aguda por ferro. [D1–D4]
+Exjade brasileiro: o comprimido dispersível deve ser preparado como suspensão oral conforme a bula, não mastigado ou engolido inteiro. A bula orienta jejum, pelo menos 30 minutos antes da refeição, com dispersão em água ou suco compatível e ingestão do resíduo redisperso. O volume empregado para dispersão não cria uma concentração comercial em mg/mL, nem autoriza guardar ou fracionar a preparação. [D2–D3]
+EUA: Jadenu revestido e Jadenu Sprinkle granulado são formas orais diferentes do comprimido dispersível, rotuladas em 90 mg, 180 mg e 360 mg do princípio ativo. A redução de cerca de 30% descrita no rótulo norte-americano só se refere à troca de Exjade para Jadenu/Jadenu Sprinkle, com arredondamento e revisão clínica; não é conversão universal nem aplica automaticamente no sentido inverso. Os grânulos são administrados sobre alimento macio; não confundir com suspensão do comprimido dispersível. A indicação norte-americana de talassemia não dependente de transfusão a partir de 10 anos tem critérios próprios e não está estabelecida pela bula brasileira examinada. O rótulo dos EUA não confirma registro brasileiro das formas Jadenu. [D2, D5–D6]
+Função renal: Exjade brasileiro e PCDT usam depuração de creatinina abaixo de 40 mL/min ou creatinina sérica acima de duas vezes o limite superior como contraindicações. A bula brasileira orienta cautela entre 40 e 60 mL/min e não determina redução inicial pela metade por essa faixa isolada. A redução inicial de 50% na faixa de 40 a 60 mL/min/1,73 m² no quadro abaixo pertence ao rótulo norte-americano, que usa TFG estimada indexada. As duas métricas e seus ajustes não devem ser tratados como equivalentes. [D2, D4–D5]
+Monitorizar função renal e tubular, função hepática, hemograma e sobrecarga de ferro; acompanhar audição e visão conforme protocolo aplicável. Desidratação, superquelação, toxicidade renal ou hepática e sinais de hemorragia digestiva exigem avaliação; a bula dos EUA explicita interrupção durante doença com depleção de volume em pediatria. No Exjade brasileiro, distinguir Child-Pugh B (redução inicial de aproximadamente 50%) de Child-Pugh C (não utilizar). Não confundir a redução hepática brasileira com a renal dos EUA. Sem alteração de doses automáticas ou autorização de troca. [D2, D4–D6]
+
+QUADRO RETIDO • RÓTULO NORTE-AMERICANO • NÃO APLICAR AO BRASIL AUTOMATICAMENTE
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
 INDICAÇÃO / POPULAÇÃO
 DOSE, INTERVALO E DURAÇÃO
@@ -6830,7 +6838,7 @@ dispersível correspondem a 3,5-7 e 28 mg/kg/dia da revestida.
 ADMINISTRAR uma vez ao dia. [S1]
 As formulações não são intercambiáveis mg por mg. Duração
 contínua enquanto houver sobrecarga, com pausas por toxicidade.
-MONITORIZAÇÃO E PRECAUÇÕES TFG 40-60: reduzir início 50%; TFG <40: contraindicado. Pausar
+MONITORIZAÇÃO E PRECAUÇÕES DO RÓTULO NORTE-AMERICANO TFG 40-60: reduzir início 50%; TFG <40: contraindicado. Pausar
 em desidratação aguda. Monitorar rim/função tubular, fígado, hemograma, audição/visão e risco de
 sangramentoGI.
 INDICAÇÕES DO PDF-BASE (registro documental, p. 23)
@@ -6838,6 +6846,12 @@ Tratamento da sobrecarga crônica de ferro secundária a transfusões sanguínea
 outras anemias (a partir de 2 anos).
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] DailyMed - Jadenu, deferasirox (dailymed.nlm.nih.gov)
+[D1] Anvisa: Lista A de medicamentos de referência, julho de 2026: https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia/lista-de-medicamentos-de-referencia
+[D2] Novartis: bula profissional brasileira de Exjade, VPS15, itens 1, 4, 5 e 8: https://www.pro.novartis.com/br-pt/sites/pro_novartis_com_br/files/2026-01/Bula-EXJADE-Comprimido-para-Suspensao-Medico.pdf
+[D3] Novartis: bula do paciente, Exjade comprimidos para suspensão: https://www.pro.novartis.com/br-pt/sites/pro_novartis_com_br/files/2026-01/Bula-EXJADE-Comprimido-para-Suspensao-Paciente.pdf
+[D4] Ministério da Saúde: PCDT de Sobrecarga de Ferro, Portaria Conjunta 38/2026: https://www.gov.br/saude/pt-br/assuntos/pcdt/s/sobrecarga-de-ferro
+[D5] DailyMed: rótulo norte-americano de Jadenu e Jadenu Sprinkle, seções 1–5 e 8: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fee89140-fff1-4443-9f42-24ac004fcda1
+[D6] DailyMed: guia do paciente de Jadenu e Jadenu Sprinkle: https://dailymed.nlm.nih.gov/dailymed/medguide.cfm?setid=fee89140-fff1-4443-9f42-24ac004fcda1
 FICHA 147 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 159
 ```
