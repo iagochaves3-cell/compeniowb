@@ -6809,6 +6809,15 @@ FICHA 145 / 498 • REFERÊNCIAS CLICÁVEIS • REV. 14/09/2026
 
 ```text
 146. Daptomicina
+REVISÃO DOCUMENTAL • DAPTOMICINA • 28/11/2026
+A lista A da Anvisa, edição de 23/07/2026, identifica Daptomicina Accord 500 mg (1.5537.0094) como referência na apresentação de pó liofilizado. A bula Accord também descreve a apresentação de 350 mg; ela não é a linha de 500 mg da lista. Cubicin convencional MSD (1.0171.0228) é identificado pelas bulas brasileiras consultadas; não presumir situação comercial ou função de referência atual pelo nome histórico. Trisk (Eurofarma, 1.0043.1285) é um similar de 500 mg conforme sua bula. [D1–D7]
+Accord e Trisk: para o frasco de 500 mg, as bulas profissionais orientam 10 mL de cloreto de sódio 0,9% para reconstituição e declaram 50 mg/mL no frasco reconstituído. Para a apresentação Accord de 350 mg, constam 7 mL e 50 mg/mL. Isso não é concentração final da bolsa. Não usar diluente com glicose nesses produtos. O Cubicin convencional, na bula MSD consultada, também usa cloreto de sódio 0,9%. [D2, D4, D6]
+Cubicin RF (EUA) é outra formulação. Para reconstituir no frasco, sua bula FDA prevê água estéril para injeção ou água bacteriostática para injeção conforme o rótulo; não usar solução salina nessa etapa. Isso não impede o uso de cloreto de sódio 0,9% para a diluição posterior para infusão descrita na mesma bula. Não transportar diluentes, instruções de injeção ou estabilidade entre produtos. O rótulo FDA não confirma disponibilidade ou registro de RF no Brasil. [D8]
+Nas bulas brasileiras examinadas, separar infecção complicada de pele e partes moles por Gram-positivos sensíveis de bacteremia por S. aureus em pacientes de 1 a 17 anos. Endocardite direita associada à bacteremia é indicação descrita para adultos, não extrapolar para crianças. No esquema pediátrico de função renal normal, as infusões são de 60 minutos de 1 a 6 anos e de 30 minutos de 7 a 17 anos. Injeção de 2 minutos é exclusiva de adultos nas bulas citadas; não usar abaixo de 1 ano ou aplicar ajuste renal de adultos à pediatria. [D2, D4, D6, D9]
+Não é tratamento de pneumonia: o surfactante pulmonar inibe a atividade. Distinguir dessa limitação a pneumonia eosinofílica, reação adversa que exige avaliação e interrupção conforme bula. Avaliar CPK basal e pelo menos semanalmente durante o tratamento; intensificar conforme função renal, elevação, sintomas musculares ou exposição concomitante/recente a estatinas. Não há novo cálculo de dose, preparo ou vazão neste adendo. [D2, D4, D6, D8, D10]
+ABL 500 mg: página do fabricante identifica 1.5562.0063.002-7 e a bula atual do paciente confirma o registro-base 1.5562.0063. A bula profissional mais recente vinculada pelo fabricante não pôde ser relida; não transferir automaticamente o preparo de Accord, Trisk ou RF para a ABL. [D11–D12]
+
+ESQUEMAS DOCUMENTAIS • SEM NOVA LIBERAÇÃO PARA CÁLCULO
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
 INDICAÇÃO / POPULAÇÃO
 DOSE, INTERVALO E DURAÇÃO
@@ -6840,6 +6849,18 @@ Infecções complicadas de pele e partes moles por Gram-positivos e bacteremia p
 partir de 1 ano de idade).
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] DailyMed - Cubicin, daptomycin (dailymed.nlm.nih.gov)
+[D1] Anvisa: lista A de medicamentos de referência, edição de julho de 2026: https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia/lista-de-medicamentos-de-referencia
+[D2] Accord: bula profissional brasileira, apresentações 350 e 500 mg: https://accordfarma.com.br/bulas/Daptomicina_Bula_Profissional_04.2023.pdf
+[D3] Accord: bula do paciente: https://accordfarma.com.br/bulas/Daptomicina_Bula_Paciente_04.2023.pdf
+[D4] Eurofarma: bula profissional de Trisk: https://eurofarma.com.br/produtos/bulas/view/healthcare/pt/bula-trisk.html
+[D5] Eurofarma: bula do paciente de Trisk: https://eurofarma.com.br/produtos/bulas/view/patient/pt/bula-trisk.html
+[D6] MSD: bula profissional brasileira de Cubicin convencional: https://www.msd.com.br/wp-content/uploads/sites/86/2023/03/cubicin_pro.pdf
+[D7] MSD: bula brasileira do paciente de Cubicin convencional: https://www.msd.com.br/wp-content/uploads/sites/86/2023/03/cubicin_pac.pdf
+[D8] FDA: rótulos norte-americanos de Cubicin e Cubicin RF, seções 2.1 e 2.7: https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/021572s069lbl.pdf
+[D9] Arrieta et al.: ensaio pediátrico de bacteremia por S. aureus: https://pubmed.ncbi.nlm.nih.gov/29406465/
+[D10] Silverman et al.: inibição pelo surfactante pulmonar: https://pubmed.ncbi.nlm.nih.gov/15898002/
+[D11] ABL Brasil: produto e registro da apresentação: https://www.ablbrasil.com.br/daptomicina-abl-brasil/
+[D12] ABL Brasil: bula do paciente IB111125: https://www.ablbrasil.com.br/wp-content/uploads/2026/08/Daptomicina-Bula-Paciente_IB111125.pdf
 FICHA 146 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 158
 ```
