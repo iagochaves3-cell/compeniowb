@@ -6115,6 +6115,13 @@ FICHA 129 / 498 • REFERÊNCIAS CLICÁVEIS • 27/11/2026
 
 ```text
 130. Cloreto de Potássio
+REFERÊNCIA DOCUMENTAL • SEM CÁLCULO AUTOMÁTICO
+NUNCA administrar cloreto de potássio concentrado por via IV direta ou em bolus. As ampolas abaixo são concentrados para diluição, não soluções prontas. Verifique produto, concentração do rótulo, acesso venoso e protocolo do setor antes de preparar ou administrar.
+APRESENTAÇÕES E UNIDADES
+Isofarma/Halex Istar, registro de produto 1.0311.0160: ampolas de 10 mL de 10% (100 mg de KCl/mL; 1,341 mEq/mL de K⁺ e 1,341 mEq/mL de Cl⁻) ou 19,1% (191 mg de KCl/mL; 2,562 mEq/mL de cada íon), em caixas de 120 ou 200. Samtec e Equiplex descrevem ampolas de 10 mL de 10%, 15% e 19,1%, respectivamente 100, 150 e 191 mg de KCl/mL; rótulos consultados expressam 1,340, 2,010 e 2,560 mEq/mL de cada íon. Não intercambiar arredondamentos, formulações, concentrações ou vias. A massa em mg é de KCl, não de potássio elementar. Os mEq/mL da ampola não correspondem aos mEq/L da solução final.
+APLICABILIDADE
+Os esquemas e o exemplo abaixo são documentação histórica do catálogo, não prescrição nem instrução universal de preparo. O exemplo de 2,56 mEq/mL só ilustra aquela potência do rótulo. O RCH separa reposição aguda, manutenção e setor assistencial; não extrapolar a neonatos ou ao protocolo de cetoacidose diabética. Antes de usar, conferir função renal, diurese, eletrólitos, indicação, aporte total de potássio, necessidade de ECG e monitorização do acesso. Preferência por via enteral em pacientes elegíveis não autoriza uso oral da ampola IV.
+
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
 INDICAÇÃO / POPULAÇÃO
 DOSE, INTERVALO E DURAÇÃO
@@ -6153,6 +6160,13 @@ Prevenção e tratamento da hipocalemia, perdas gastrointestinais e composição
 manutenção.
 FONTES DO ESQUEMA • REVISÃO FOCAL EM 14/09/2026
 [S1] RCH - Hypokalaemia (rch.org.au)
+[D1] Isofarma/Halex Istar • bula profissional: https://halexistar.com.br/wp-content/uploads/2026/09/2-191711617.pdf
+[D2] Isofarma/Halex Istar • bula do paciente: https://halexistar.com.br/wp-content/uploads/2026/09/1-9421815.pdf
+[D3] Samtec • bula profissional: https://www.samtec.com.br/media/upload/bulas/bula-4-cloreto-de-potassio-bl4-r4.pdf
+[D4] Equiplex • página técnica: https://equiplex.com.br/produto/solucao-de-cloreto-de-potassio/
+[D5] Anvisa • risco de troca de ampolas: https://antigo.anvisa.gov.br/listagem-de-alertas/-/asset_publisher/R6VaZWsQDDzS/content/cloreto-de-potassio-injetavel-risco-de-troca-de-frascos-/33868?inheritRedirect=false
+[D6] NIST • cloreto de potássio: https://webbook.nist.gov/cgi/cbook.cgi?Formula=KCl&NoIon=on
+[D7] Royal Children's Hospital • hipocalemia: https://www.rch.org.au/clinicalguide/guideline_index/Hypokalaemia/
 FICHA 130 / 498 • REFERÊNCIAS CLICÁVEIS • REV. 14/09/2026
 142
 ```
@@ -6164,6 +6178,10 @@ FICHA 130 / 498 • REFERÊNCIAS CLICÁVEIS • REV. 14/09/2026
 
 ```text
 131. Cloreto de Sódio
+ALERTA SANITÁRIO • ANVISA • RE 4.622/2026, PUBLICADA EM 26/11/2026
+Não utilizar cloreto de sódio 20% Isofarma/Halex Istar, registro 1.0311.0159.002-1, lote 6060169, validade 17/06/2028. A Anvisa suspendeu comercialização, distribuição e uso do lote, com recolhimento voluntário, por partículas estranhas.
+A mesma resolução determina recolhimento e suspensão de uso do cloreto de sódio 0,9% Sandom (notificação simplificada), lotes a partir de 01/11/2025. Se localizado no estoque, segregar e avisar a farmácia. Não estender o alerta a outras marcas, lotes ou concentrações não abrangidos pelo ato.
+
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
 INDICAÇÃO / POPULAÇÃO
 DOSE, INTERVALO E DURAÇÃO
@@ -6222,6 +6240,7 @@ FONTES DO ESQUEMA • REVISÃO FOCAL EM 14/09/2026
 [S4] NICE NG 29 - fluidoterapia e hiponatremia pediátrica (nice.org.uk)
 [S5] Farmasa - Rinosoro SIC 3%, bula profissional (uploads.consultaremedios.com.br)
 [S6] Farmasa - Rinosoro Jet 0,9%, bula (bulas.med.br)
+[D1] Anvisa • Resolução RE 4.622/2026, anexo itens 1 e 4: https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&codTipo=&cod_menu=1696&cod_modulo=134&desItem=&desItemFim=&link=S&numeroAto=00004622&orgao=RE%2FGGFIS%2FANVISA%2FMS&pesquisa=true&seqAto=000&tipo=RES&valorAno=2026
 FICHA 131 / 498 • REFERÊNCIAS CLICÁVEIS • REV. 14/09/2026
 143
 ```
