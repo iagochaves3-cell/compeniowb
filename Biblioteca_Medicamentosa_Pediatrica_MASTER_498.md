@@ -6530,32 +6530,26 @@ FICHA 140 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 141. Complexo Protrombínico Concentrado
-ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
-INDICAÇÃO / POPULAÇÃO
-DOSE, INTERVALO E DURAÇÃO
-Reversão urgente de
-antagonista da
-vitamina K com
-hemorragia
-Crianças - off-label,
-hematologia
-RESTRIÇÃO / CONTEXTO
-ESPECÍFICO
-Complexo protrombínico de 4 fatores EV, dose expressa em UI de
-fator IX: INR de 2 a 3,9 → 25 UI/kg; INR de 4 a 6 → 35 UI/kg; INR >6 →
-50 UI/kg. Máximos respectivos: 2.500, 3.500 e 5.000 UI. Dose inicial
-única, associada à vitamina K; medir INR após administração. [S1]
-Esquema pediátrico institucional; a bula brasileira informa ausência
-de dados pediátricos. Repetição exige hematologista, não é
-automática.
-MONITORIZAÇÃO E PRECAUÇÕES Bula Beriplex: infundir ≤3 UI/kg/min e ≤210 UI/min. Risco
-trombótico/CIVD; contém heparina, verificar HIT. Confirmar produto 4 fatores e potência de FIX.
+REVISÃO DE APRESENTAÇÕES E SEGURANÇA • 28/11/2026
+Beriplex P/N (CSL Behring; registro indicado na bula 1.0151.0117) e Octaplex (Octapharma; 1.3971.0012) são concentrados intravenosos não ativados de quatro fatores (II, VII, IX e X). Ambos têm frasco nominal de 500 UI com 20 mL de água para injetáveis, mas isso não torna as preparações intercambiáveis. [D1–D4]
+Beriplex P/N: o quadro de composição da VPS de 19/12/2025 declara atividade de fator IX de 400–620 UI por frasco (20–31 UI/mL); a divisão nominal 500/20 = 25 UI/mL não substitui a atividade da apresentação. Octaplex: a VPS de 16/07/2024 declara 500 UI de fator IX por frasco e 25 UI/mL após reconstituição. Não converter UI de fator IX em UI de outro fator, em mg, ou em unidades de agente ativado. [D1–D4]
+As duas bulas brasileiras trazem uso adulto e pediátrico no cabeçalho, mas as VPS informam falta de dados em pediatria. Para deficiência adquirida por antagonista de vitamina K, a indicação é correção rápida quando necessária; os esquemas, limites e velocidades não são universais. A reversão por dose fixa ou calculada, seu monitoramento e eventual repetição requerem protocolo do produto, indicação e avaliação especializada. Não extrapolar para hemorragia neonatal ou outros anticoagulantes. [D1–D4]
+Beriplex e Octaplex contêm heparina; antecedente de trombocitopenia induzida por heparina consta como contraindicação. Avaliar risco de trombose e coagulação intravascular disseminada conforme produto e quadro. As diferenças de atividade, excipientes e velocidade não devem ser omitidas quando muda o produto. [D1–D4]
+Concentrado não ativado de três fatores (baixo teor de fator VII) não equivale ao de quatro fatores. FEIBA é concentrado parcialmente ativado com unidades de atividade de bypass, não unidades intercambiáveis de fator IX. As apresentações de 500 e 1.000 unidades foram identificadas em compra pública de 2023, não como confirmação de disponibilidade ou bula brasileira atual. Em hemofilia A com inibidores sob emicizumabe, o protocolo do Ministério da Saúde orienta evitar CCP ativado quando há alternativa, pelo risco trombótico e de microangiopatia; decisão excepcional sob Centro de Hemofilia. [D5–D6]
+A tabela pediátrica institucional anterior permanece preservada na versão histórica. Nesta ficha ela não é uma regra de cálculo: o endereço institucional anterior não pôde ser relido nesta revisão. Não liberar prescrição, dose, diluição ou velocidade automatizadas. A reprodução de apresentações nas bulas não comprova estoque atual.
+
 INDICAÇÕES DO PDF-BASE (registro documental, p. 22)
 Reversão rápida de deficiência de fatores da coagulação dependentes de vitamina K (anticoagulantes
 cumarínicos) em hemorragias graves.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] NHS GGC - Antithrombotic therapy, paediatrics (clinicalguidelines.scot.nhs.uk)
 [S2] CSLBehring - Beriplex, bula 2025 (labeling.cslbehring.com)
+[D1] Beriplex P/N — CSL Behring, bula profissional brasileira, 19/12/2025: https://labeling.cslbehring.com/pi/br/beriplex-pn/pt/beriplex-pn-bula-prof-saude.pdf
+[D2] Beriplex P/N — CSL Behring, bula do paciente brasileira, 19/12/2025: https://labeling.cslbehring.com/pi/br/beriplex-pn/pt/beriplex-pn-bula-paciente.pdf
+[D3] Octaplex — Octapharma, bula profissional brasileira, 16/07/2024: https://www.uniaoquimica.com.br/wp-content/uploads/2023/10/Bula_Octaplex_Profissional.pdf
+[D4] Octaplex — Octapharma, bula do paciente brasileira, 16/07/2024: https://www.uniaoquimica.com.br/wp-content/uploads/2023/10/Bula_Paciente_Octaplex01.pdf
+[D5] Ministério da Saúde — FEIBA, processo de compra de 2023 (documental histórico): https://www.gov.br/saude/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/inexigibilidade-de-licitacao/2023/inexigibilidade-de-licitacao-062-2023-processo-no-25000-039337-2023-32/projeto-basico-inex-62.pdf
+[D6] Ministério da Saúde — Protocolo brasileiro de emicizumabe com inibidores: https://www.gov.br/conitec/pt-br/midias/protocolos/protocolo_uso/protocolo-de-uso-de-emicizumabe
 FICHA 141 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 153
 ```
