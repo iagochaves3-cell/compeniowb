@@ -6348,9 +6348,7 @@ fraldas
 Lactentes/crianças
 RESTRIÇÃO / CONTEXTO
 ESPECÍFICO
-CLOTRIMAZOL 1%: aplicar camada fina 2-3 vezes ao dia na pele
-afetada. A bula aberta não individualiza a duração de candidíase de
-fraldas; reavaliar precocemente e manter até resolução. [S1]
+Para candidíase de fraldas, a diretriz pediátrica do RCH indica creme dermatológico de clotrimazol 1% duas vezes ao dia. Não atribuir a frequência à bula brasileira nem impor duração fixa a partir de outra indicação. [D7]
 A duração de 1-2 semanas citada para candidíase genital não foi
 automaticamente aplicada à dermatite de fraldas.
 MONITORIZAÇÃO E PRECAUÇÕES Uso externo, evitar mucosas/olhos e associação indiscriminada
@@ -6358,8 +6356,25 @@ com corticoide potente. Trocar fraldas e reduzir umidade; rever diagnóstico se 
 INDICAÇÕES DO PDF-BASE (registro documental, p. 21)
 Tratamento tópico de dermatite de fraldas complicada por Candida, dermatofitoses superficiais e pitiríase
 versicolor.
+APRESENTAÇÕES E VIAS • REVISÃO DOCUMENTAL DE 28/11/2026
+Canesten Bayer, creme dermatológico 10 mg/g (1%), bisnaga de 20 g. A bula indica uso adulto e pediátrico, sem estabelecer neste cabeçalho uma idade mínima específica. Não extrapolar para neonatos nem para via intravaginal. [D1]
+Canesten Bayer, solução dermatológica 10 mg/mL, frasco spray ou gotejador de 30 mL. É exclusiva para aplicação na pele; não corresponde a gotas orais, oftálmicas ou à dose do creme. Não converter borrifadas em gotas ou mg sem fator específico documentado. [D2]
+Gino-Canesten Bayer, formas de uso vaginal adulto: creme de 6 dias (50 mg/5 g = 10 mg/g, bisnaga 35 g e seis aplicadores), creme de 3 dias (100 mg/5 g = 20 mg/g, bisnaga 20 g e três aplicadores), comprimido vaginal de 500 mg e cápsula mole vaginal de 500 mg (cada um com seu aplicador). Mesma concentração ou massa não torna as apresentações intercambiáveis. [D3–D6]
+Candidíase de fraldas não é dermatite irritativa isolada nem candidíase vaginal. Manter medidas de barreira e higiene; se não houver melhora ou houver piora, reavaliar a causa. A diretriz pediátrica não autoriza substituir o creme dermatológico pela solução alcoólica ou pelo creme vaginal. [D7]
+Baycuten N contém clotrimazol associado a acetato de dexametasona; não equivale ao monofármaco. A Bayer anunciou a descontinuação definitiva dessa associação em 18/04/2026, distinta de cancelamento de registro ou recolhimento. [D8]
+Identificação documental: TA/Anvisa de 20/11/2026 distingue Canesten/Gino-Canesten 1.7056.0102 da cápsula vaginal 1.7056.0124. O pó tópico 10 mg/g e o comprimido vaginal 100 mg constam da lista Anvisa de referências excluídas com motivo de cancelamento, não extensível às outras formas. Uma entrada agregada do registro ou uma bula publicada não comprova vigência de cada apresentação, estoque ou disponibilidade. [D9]
+
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] Vitamedic - clotrimazol, bula profissional (uploads.consultaremedios.com.br)
+[D1] Bayer — Canesten creme dermatológico: https://www.bulario.bayer.com.br/cuidados-com-a-saude/canesten-creme
+[D2] Bayer — Canesten solução dermatológica: https://www.bulario.bayer.com.br/cuidados-com-a-saude/canesten-solucao
+[D3] Bayer — Gino-Canesten creme 6 dias: https://www.bulario.bayer.com.br/cuidados-com-a-saude/gino-canesten-creme-6-dias
+[D4] Bayer — Gino-Canesten creme 3 dias: https://www.bulario.bayer.com.br/cuidados-com-a-saude/gino-canesten-creme-3-dias
+[D5] Bayer — Gino-Canesten comprimido vaginal: https://www.bulario.bayer.com.br/cuidados-com-a-saude/gino-canesten-comprimido-vaginal
+[D6] Bayer — Gino-Canesten cápsula vaginal: https://www.bulario.bayer.com.br/cuidados-com-a-saude/gino-canesten-capsula-vaginal
+[D7] Royal Children’s Hospital — Nappy rash / Candida infection: https://www.rch.org.au/clinicalguide/guideline_index/nappy_rash/
+[D8] Bayer — comunicado exclusivo da associação Baycuten N: https://www.bayer.com.br/pt-br/imprensa/comunicados/2026/descontinuacao-definitiva-baycuten-n
+[D9] Anvisa — lista A de referências excluídas: https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/medicamentos/medicamentos-de-referencia/arquivos/lista-a-excluidos-05022025.pdf/%40%40download/file
 FICHA 134 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 146
 ```
