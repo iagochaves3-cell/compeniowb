@@ -6379,6 +6379,14 @@ FICHA 135 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 
 ```text
 136. Colagenase
+COLAGENASE • APRESENTAÇÕES NÃO INTERCAMBIÁVEIS
+Kollagenase (Cristália, registro 1.0298.0431): colagenase isolada 0,6 U/g, pomada dermatológica de uso adulto e pediátrico conforme VP e VPS. A bula do titular lista bisnagas de 10 g, 30 g e 50 g e apresentação múltipla de 30 g. Não presumir idade mínima não indicada ou disponibilidade comercial. [D1, D2]
+O esquema desta ficha refere-se à pomada dermatológica isolada de 0,6 U/g da Cristália, quando indicado o desbridamento enzimático de pele. A quantidade depende da área da lesão, não do peso. Evitar olhos e mucosa oral, limitar a aplicação à ferida e conferir a compatibilidade do curativo. Detergentes e antissépticos que contenham íons como prata ou mercúrio podem inativar a enzima. Não aplicar se houver hipersensibilidade aos componentes. [D1, D2]
+Iruxol Mono (Abbott): a bula ao paciente descreve colagenase isolada 1,2 U/g, pomada dermatológica de uso adulto e pediátrico, em bisnagas de 15 g e 30 g, além da caixa hospitalar. É outra concentração e a sua própria bula contraindica queimaduras extensas. Não presumir equivalência de preparo ou transferir as restrições entre produtos. [D3]
+Kollagenase com cloranfenicol: pomada dermatológica distinta, colagenase 0,6 U/g + cloranfenicol 0,01 g/g (= 10 mg/g). A associação é descrita para lesões em que se indica desbridamento junto à antibioticoterapia tópica, não como substituta de rotina da colagenase isolada. A bula contraindica hipersensibilidade, doença hematológica atual ou anterior e queimaduras extensas. Evitar associação com mielossupressores; absorção sistêmica do cloranfenicol não pode ser excluída. [D4, D5]
+GinoKollagenase (registro 1.0298.0505): mesma concentração nominal da associação, mas pomada exclusivamente vaginal de uso adulto, bisnaga de 30 g com seis aplicadores. Não utilizar na pele como substituta da dermatológica nem aplicar o esquema dermatológico por via vaginal. A bula contraindica hipersensibilidade e doença hematológica atual ou prévia. [D6, D7]
+A unidade U da colagenase expressa atividade enzimática e não é convertida em mg. A equivalência 0,01 g/g = 10 mg/g refere-se exclusivamente ao cloranfenicol. Não há dose automática por peso.
+
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
 INDICAÇÃO / POPULAÇÃO
 DOSE, INTERVALO E DURAÇÃO
@@ -6404,6 +6412,13 @@ INDICAÇÕES DO PDF-BASE (registro documental, p. 22)
 Desbridamento enzimático de feridas, úlceras de pressão e tecidos desvitalizados cutâneos.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] Cristália - Kollagenase (cristalia.com.br)
+[D1] Cristália: Kollagenase simples, VPS: https://www.cristalia.com.br/produto/113/bula-profissional
+[D2] Cristália: Kollagenase simples, VP: https://www.cristalia.com.br/produto/113/bula-paciente
+[D3] Abbott: Iruxol Mono, VP: https://www.abbottbrasil.com.br/nossas-bulas/iruxol-mono-colagenase.html
+[D4] Cristália: Kollagenase com cloranfenicol, VPS: https://www.cristalia.com.br/produto/114/bula-profissional
+[D5] Cristália: Kollagenase com cloranfenicol, VP: https://www.cristalia.com.br/produto/114/bula-paciente
+[D6] Cristália: GinoKollagenase, VPS: https://www.cristalia.com.br/produto/216/bula-profissional
+[D7] Cristália: GinoKollagenase, VP: https://www.cristalia.com.br/produto/216/bula-paciente
 FICHA 136 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
 148
 ```
